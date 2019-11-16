@@ -21,7 +21,8 @@ different fields, and discuss open challenges.
 
 - [ChangHoon Hahn](http://changhoonhahn.github.io/), Berkeley Center for Cosmological Physics, UC Berkeley
 - [Francois Lanusse](http://flanusse.net/), Foundation of Data Analysis Institute, UC Berkeley
-- [Benjamin Nachman](http://bnachman.web.cern.ch/bnachman/), Lawrence Berkeley National Lab
+- [Phil Marshall](https://www.slac.stanford.edu/~pjm/Site/Welcome.html), Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
+- [Benjamin Nachman](http://bnachman.web.cern.ch/bnachman/), Lawrence Berkeley National Laboratory
 
 
 ## Code of Conduct
