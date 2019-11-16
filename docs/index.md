@@ -9,8 +9,8 @@ order: 1
 
 ## Rationale
 
-The goal of this interdisciplinary meeting is to gather developers and users of Likelihood-Free
-Inference methods to share latest techniques, use cases and applications across
+The goal of this meeting is to gather users of Likelihood-Free Inference methods
+in the physical sciences to share latest techniques, use cases and applications across
 different fields, and discuss open challenges.
 
 ## News
