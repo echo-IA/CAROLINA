@@ -13,9 +13,12 @@ The goal of this meeting is to gather users of Likelihood-Free Inference methods
 in the physical sciences to share latest techniques, use cases and applications across
 different fields, and discuss open challenges.
 
-## News
+## Important dates
 
 - *November 18th, 2019*  : Opening registration
+- *November 27th, 2019*  : Closing registration
+- *December 2nd, 2019*  : Meeting date
+
 
 ## Organizing Committee
 
