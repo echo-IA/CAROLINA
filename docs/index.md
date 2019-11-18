@@ -9,16 +9,18 @@ order: 1
 
 ## Rationale
 
-The goal of this meeting is to gather users of Likelihood-Free Inference methods
-in the physical sciences to share latest techniques, use cases and applications across
-different fields, and discuss open challenges.
+The aim of this meeting is to gather researchers from across the Bay Area
+interested in Likelihood-Free Inference and Density Estimation for the Physical Sciences. This small-scale meeting will provide a forum to exchange problems, ideas, and techniques while leaving plenty of time for discussion and collaboration/hacking. Among the topics we would like to cover are techniques for likelihood-free and simulation-based inference, active learning/sampling, density estimation, uncertainty quantification and any applications of these techniques to problems in the physical sciences.
+
+
+Registration is free but we ask you to **register before Wednesday, November 27th** at [this link](registration.html).
+
 
 ## Important dates
 
 - *November 18th, 2019*  : Opening registration
 - *November 27th, 2019*  : Closing registration
-- *December 2nd, 2019*  : Meeting date
-
+- *December 2nd, 2019*  : Meeting starts at 9am at BIDS
 
 ## Organizing Committee
 
