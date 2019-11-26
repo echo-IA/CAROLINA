@@ -2,7 +2,7 @@
 name: Tutorial Session Suggestion
 about: Template to propose a new tutorial session
 title: "[TUTORIAL] your tutorial title"
-labels: ''
+labels: Tutorial
 assignees: ''
 
 ---
