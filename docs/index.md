@@ -12,13 +12,18 @@ order: 1
 The aim of this meeting is to gather researchers from across the Bay Area
 interested in Likelihood-Free Inference and Density Estimation for the Physical Sciences. This small-scale meeting will provide a forum to exchange problems, ideas, and techniques while leaving plenty of time for discussion and collaboration/hacking. Among the topics we would like to cover are techniques for likelihood-free and simulation-based inference, active learning/sampling, density estimation, uncertainty quantification and any applications of these techniques to problems in the physical sciences.
 
-
 Registration is free but we ask you to **register before Wednesday, November 27th** at [this link](registration.html).
 
+We aim to make this meeting a collaborative and productive event, and in that spirit we invite
+participants to propose topics for discussion, hacks, or tutorials by clicking this button:
+<p align="center">
+<a href="https://github.com/LFITaskForce/BerkeleyMeeting/issues/new/choose" class="btn btn-info">Propose an afternoon session </a></p>
+Proposed sessions can be found at [this link](https://github.com/LFITaskForce/BerkeleyMeeting/issues), please comment on the proposals to indicate your interest.
 
 ## Important dates
 
 - *November 18th, 2019*  : Opening registration
+- *November 26th, 2019* : Preliminary agenda available [here](schedule.html)
 - *November 27th, 2019*  : Closing registration
 - *December 2nd, 2019*  : Meeting starts at 9am at BIDS
 
