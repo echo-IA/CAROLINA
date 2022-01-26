@@ -10,53 +10,53 @@ order: 5
 - Andrew Hearin,	Argonne National Lab
 - Alkistis Pourtsidou,	University of Edinburgh
 - Anna Wittje	GCCL, Astronomical Institute Bochum, Germany
-- Maciej Bilicki	Center for Theoretical Physics PAS Warsaw
-- Bjoern Malte Schaefer	Heidelberg University
-- Christos Georgiou	Utrecht University
-- Carlo Giocoli	INAF - OAS Bologna
-- Claire Lamman	Harvard University
-- Daniel Gruen	LMU Munich
-- Danielle Leonard	Newcastle University
-- David Navarro Girones	Institute of Space Sciences
-- David Sánchez Cid	Centro de investigaciones energéticas, medioambientales y tecnológicas (Ciemat)
-- Yohan Dubois	Institut d'Astrophysique de Paris
-- Elisa Legnani	University of Milan, LMU Munich
-- Eusebio Sanchez	CIEMAT
-- Eve Kovacs	Argonne National Laboratory
-- Francisco Castander	ICE-CSIC, IEEC, Barcelona
-- Kai Hoffmann	ICE
-- Francois Lanusse	CNRS
-- Gary Bernstein	University of Pennsylvania
-- Harry Johnston	Universiteit Utrecht
-- Henk Hoekstra	Leiden University
-- Isaac Tutusaus	University of Geneva
-- Jonathan Blazek	Northeastern University
-- Jacobo Asorey	CIEMAT
-- Jingjing Shi 	Kavli IPMU 
-- Zhengyangguang Gong	Ludwig Maximilian University of Munich
-- Laila Linke	Bonn University
-- Leonel Medina Varela	University of Texas at Dallas
-- Martin KILBINGER	CEA Paris-Saclay
-- Martin Crocce	Institute for Space Science (Barcelona, Spain)
-- Masahiro Takada	Kavli IPMU
-- Michael Troxel	Duke
-- Mustapha Ishak	University of Texas at Dallas
-- Elisa Chisari	Utrecht University
-- Natalia Porqueres	Imperial College London
-- Niall Jeffrey	UCL
-- Nikolina Sarcevic	Newcastle University
-- Nicholas Van Alfen	Northeastern University
-- Rachel Mandelbaum	Carnegie Mellon University
-- Sven Heydenreich	Argelander-Institute for Astronomy
-- Sandra Unruh	GCCL, AIfA
-- Sandrine Codis	AIM/LCEG
-- Silvan Fischbacher	ETH Zurich
-- Stella Seitz	USM, LMU
-- Sukhdeep Singh	Carnegie Mellon university
-- Thomas Kitching	UCL
-- Tae-hyeon Shin	Stony Brook Univ.
-- Tassia Ferreira	LIneA
-- Tomasz Kacprzak	ETH Zurich
-- Toshiki Kurita	The University of Tokyo
-- Will Hartley	University of Geneva
-- Conghao Zhou	UC Santa Cruz
+- Maciej Bilicki,	Center for Theoretical Physics PAS Warsaw
+- Bjoern Malte Schaefer,	Heidelberg University
+- Christos Georgiou,	Utrecht University
+- Carlo Giocoli,	INAF - OAS Bologna
+- Claire Lamman,	Harvard University
+- Daniel Gruen,	LMU Munich
+- Danielle Leonard,	Newcastle University
+- David Navarro, Girones	Institute of Space Sciences
+- David Sánchez Cid,	CIEMAT
+- Yohan Dubois,	Institut d'Astrophysique de Paris
+- Elisa Legnani,	University of Milan, LMU Munich
+- Eusebio Sanchez,	CIEMAT
+- Eve Kovacs,	Argonne National Laboratory
+- Francisco Castander,	ICE-CSIC, IEEC, Barcelona
+- Kai Hoffmann,	ICE
+- Francois Lanusse,	CNRS
+- Gary Bernstein,	University of Pennsylvania
+- Harry Johnston,	Universiteit Utrecht
+- Henk Hoekstra,	Leiden University
+- Isaac Tutusaus,	University of Geneva
+- Jonathan Blazek,	Northeastern University
+- Jacobo Asorey,	CIEMAT
+- Jingjing Shi, Kavli IPMU 
+- Zhengyangguang Gong,	Ludwig Maximilian University of Munich
+- Laila Linke,	Bonn University
+- Leonel Medina Varela,	University of Texas at Dallas
+- Martin KILBINGER,	CEA Paris-Saclay
+- Martin Crocce,	Institute for Space Science (Barcelona, Spain)
+- Masahiro Takada,	Kavli IPMU
+- Michael Troxel,	Duke
+- Mustapha Ishak,	University of Texas at Dallas
+- Elisa Chisari,	Utrecht University
+- Natalia Porqueres,	Imperial College London
+- Niall Jeffrey,	UCL
+- Nikolina Sarcevic,	Newcastle University
+- Nicholas Van Alfen,	Northeastern University
+- Rachel Mandelbaum,	Carnegie Mellon University
+- Sven Heydenreich,	Argelander-Institute for Astronomy
+- Sandra Unruh,	GCCL, AIfA
+- Sandrine Codis,	AIM/LCEG
+- Silvan Fischbacher,	ETH Zurich
+- Stella Seitz,	USM, LMU
+- Sukhdeep Singh,	Carnegie Mellon university
+- Thomas Kitching,	UCL
+- Tae-hyeon Shin,	Stony Brook Univ.
+- Tassia Ferreira,	LIneA
+- Tomasz Kacprzak,	ETH Zurich
+- Toshiki Kurita,	The University of Tokyo
+- Will Hartley,	University of Geneva
+- Conghao Zhou,	UC Santa Cruz
