@@ -9,30 +9,18 @@ order: 1
 
 ## Rationale
 
-The aim of this meeting is to gather researchers from across the Bay Area
-interested in Likelihood-Free Inference and Density Estimation for the Physical Sciences. This small-scale meeting will provide a forum to exchange problems, ideas, and techniques while leaving plenty of time for discussion and collaboration/hacking. Among the topics we would like to cover are techniques for likelihood-free and simulation-based inference, active learning/sampling, density estimation, uncertainty quantification and any applications of these techniques to problems in the physical sciences.
+Intrinsic alignments (IA) are a limiting astrophysical systematic in cosmological weak lensing studies. This challenge is shared among a number of powerful deep and wide galaxy surveys that will run during the 2020s, including the ESA Euclid mission, the Legacy Survey of Space and Time (LSST) at the Rubin Observatory, and the NASA Roman Space Telescope. A diverse set of measurements of IA have been carried out, which can in principle provide valuable information on the most accurate type of IA model, on the flexibility required in that model, and on the priors for the model parameters. However, it has already been established that the IA signal has complex dependencies on galaxy type, position in the host halo (central or satellite), luminosity, possibly redshift, and the size scale on which the galaxy alignment is measured. Hence, a homogenized approach is required to enable the consistent interpretation of measurements and a meaningful extrapolation of the IA model to the galaxy samples employed in cosmological measurements. The echoIA community project will bring together measurement and modeling experts to both perform a joint re-analysis of all relevant observational IA measurements and to coordinate the analysis of future measurements within a common framework.
 
-Registration is free but we ask you to **register before Wednesday, November 27th** at [this link](registration.html).
+To register for the Kickoff Workshop, or more generally to join the effort, please fill out [this google form](https://forms.gle/3ppQhhhs1dKm4Mqz7).
 
-We aim to make this meeting a collaborative and productive event, and in that spirit we invite
-participants to propose topics for discussion, hacks, or tutorials by clicking this button:
-<p align="center">
-<a href="https://github.com/LFITaskForce/BerkeleyMeeting/issues/new/choose" class="btn btn-info">Propose an afternoon session </a></p>
-Proposed sessions can be found at [this link](https://github.com/LFITaskForce/BerkeleyMeeting/issues), please comment on the proposals to indicate your interest.
+The Kickoff Workshop (Feb 7-9) will set the stage for our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there wil lbe lots of time for discussion.
 
-## Important dates
-
-- *November 18th, 2019*  : Opening registration
-- *November 26th, 2019* : Preliminary agenda available [here](schedule.html)
-- *November 27th, 2019*  : Closing registration
-- *December 2nd, 2019*  : Meeting starts at 9am at BIDS
 
 ## Organizing Committee
 
-- [ChangHoon Hahn](http://changhoonhahn.github.io/), Berkeley Center for Cosmological Physics, UC Berkeley
-- [Francois Lanusse](http://flanusse.net/), Foundation of Data Analysis Institute, UC Berkeley
-- [Phil Marshall](https://www.slac.stanford.edu/~pjm/Site/Welcome.html), Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
-- [Benjamin Nachman](http://bnachman.web.cern.ch/bnachman/), Lawrence Berkeley National Laboratory
+- [Jonathan Blazek](https://cos.northeastern.edu/people/jonathan-blazek/), Northeastern University
+- [Benjamin Joachimi](http://www.star.ucl.ac.uk/~joachimi/), University College London
+- [Simon Samuroff](), Northeastern University
 
 
 ## Code of Conduct
