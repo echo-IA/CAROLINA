@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bay Area Likelihood-Free Inference Meeting
-email: flanusse@berkeley.edu
+title: echoIA Kickoff Workshop
+email: j.blazek@northeastern.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  December 2nd 2019 @ Berkeley Institute for Data Science
-baseurl: "/BerkeleyMeeting" # the subpath of your site, e.g. /blog
-url: "https://lfitaskforce.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: lfitaskforce
+  February 7-9 2022 Virtual
+baseurl: "/FebKickoff" # the subpath of your site, e.g. /blog
+url: "https://echo-IA.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: echo-IA
 
 git_address: https://github.com/LFITaskForce/BerkeleyMeeting
 git_edit_address: https://github.com/LFITaskForce/BerekeleyMeeting/edit/master/docs
