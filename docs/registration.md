@@ -4,4 +4,4 @@ title: Registration
 order: 6
 ---
 
-Registration is now closed, please contact [the organizers](mailto:flanusse@berkeley.edu) about last minute requests.
+To register for the Kickoff Workshop, or more generally to join the effort, please fill out [this google form](https://forms.gle/3ppQhhhs1dKm4Mqz7).
