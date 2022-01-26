@@ -3,10 +3,14 @@ layout: default
 title: Participants
 order: 5
 ---
-# Alexandra Amon, Cambridge 
-# Alessio Spurio Mancini, University College London
+Alexandra Amon, Cambridge 
+
+Alessio Spurio Mancini, University College London
+
 Agnès Ferté	JPL
+
 Anik Halder	Ludwig Maximilian University of Munich
+
 Andrew Hearin	Argonne National Lab
 Alkistis Pourtsidou	University of Edinburgh
 Anna Wittje	GCCL, Astronomical Institute Bochum, Germany
