@@ -1,2 +1,2 @@
-# BerkeleyMeeting
-Bay Area Likelihood-Free Inference meet-up at the Berkeley Institute for Data Science
+# echoIA Kickoff Workshop
+Feb 7-9, virtual
