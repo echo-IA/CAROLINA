@@ -10,8 +10,10 @@ The meeting is intended to be centered on discussion and pitches for future proj
 
 ### Day 1 (Feb 7)
 
-__ 13.30 - 14.00 &emsp; Welcome & overview - J. Blazek & B. Joachimi __
-** 14.00 - 14.15 &emsp; Introductions (Part 1) **
+**13.30 - 14.00 &emsp; Welcome & overview - J. Blazek & B. Joachimi**
+
+**14.00 - 14.15 &emsp; Introductions (Part 1)**
+
 #### 14.15 - 14.35 &emsp; Mini-review on IA data - R. Mandelbaum
 #### 14.35 - 14.50 &emsp; Introductions (Part 2)
 
