@@ -6,7 +6,7 @@ order: 2
 
 # Schedule
 
-The meeting is intended to be centered on discussion and pitches for future projects and collaboration. There will be three "mini-review" talks to provide context. The schedule is below. All times are given in _UTC_.
+The meeting is intended to be centered on discussion and pitches for future projects and collaboration. There will be three "mini-review" talks to provide context. The schedule is below. All times are given in _UTC_ (=_EST_+5). Schedule is preliminary.
 
 ### Day 1 (Feb 7)
 
@@ -14,9 +14,9 @@ The meeting is intended to be centered on discussion and pitches for future proj
 
 **14.00 - 14.15 &emsp; Introductions (Part 1)**
 
-**14.15 - 14.35 &emsp; Mini-review on IA data - R. Mandelbaum**
+**14.15 - 14.40 &emsp; Mini-review on IA data - R. Mandelbaum**
 
-**14.35 - 14.50 &emsp; Introductions (Part 2)**
+**14.40 - 14.50 &emsp; Introductions (Part 2)**
 
 **14.50 - 15.00 &emsp; _Break_**
 
