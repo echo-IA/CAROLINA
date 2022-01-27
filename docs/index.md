@@ -13,7 +13,7 @@ Intrinsic alignments (IA) are a limiting astrophysical systematic in cosmologica
 
 To register for the Kickoff Workshop, or more generally to join the effort, please fill out [this google form](https://forms.gle/3ppQhhhs1dKm4Mqz7).
 
-The Kickoff Workshop (Feb 7-9) will set the stage for our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there wil lbe lots of time for discussion.
+The Kickoff Workshop (Feb 7-9) will set the stage for our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there will be lots of time for discussion. The third day will be primarily for project planning and sprinting in smaller groups.
 
 
 ## Organizing Committee
