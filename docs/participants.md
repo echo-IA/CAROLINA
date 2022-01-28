@@ -3,6 +3,7 @@ layout: default
 title: Participants
 order: 5
 ---
+- Alan Heavens, Imperial College
 - Alexandra Amon, Cambridge 
 - Alessio Spurio Mancini, University College London
 - Agnès Ferté,	JPL
@@ -47,16 +48,21 @@ order: 5
 - Nikolina Sarcevic,	Newcastle University
 - Nicholas Van Alfen,	Northeastern University
 - Rachel Mandelbaum,	Carnegie Mellon University
+- Robert Reischke, GCCL
 - Sven Heydenreich,	Argelander-Institute for Astronomy
 - Sandra Unruh,	GCCL, AIfA
 - Sandrine Codis,	AIM/LCEG
+- Sara Safari, ETH Zurich
 - Silvan Fischbacher,	ETH Zurich
-- Stella Seitz,	USM, LMU
-- Sukhdeep Singh,	Carnegie Mellon university
+- Stella Seitz,	USM, LMU Munich
+- Sukhdeep Singh,	Carnegie Mellon University
+- Susan Pyne, University College London
 - Thomas Kitching,	UCL
 - Tae-hyeon Shin,	Stony Brook Univ.
 - Tassia Ferreira,	LIneA
 - Tomasz Kacprzak,	ETH Zurich
 - Toshiki Kurita,	The University of Tokyo
 - Will Hartley,	University of Geneva
+- Ziang Yan, GCCL
+- Yesukhei Jagvaral, Carnegie Mellon University
 - Conghao Zhou,	UC Santa Cruz
