@@ -17,7 +17,7 @@ The Kickoff Workshop (Feb 7-9) will set the stage for our collaborative efforts.
 
 This meeting is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), primarily to occur on Wednesday, as well as areas for ongoing collaboration within echoIA by clicking this button:
 <p align="center">
-<a href="https://github.com/echo-IA/FebKickoff/issues/new/choose" class="btn btn-info">Propose an afternoon session </a></p>
+<a href="https://github.com/echo-IA/FebKickoff/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
 Proposed sessions can be found at [this link](https://github.com/echo-IA/FebKickoff/issues), please comment on the proposals to indicate your interest.
 
 
