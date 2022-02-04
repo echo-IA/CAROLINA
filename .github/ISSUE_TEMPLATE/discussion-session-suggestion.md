@@ -13,6 +13,7 @@ One sentence description
 
 Contacts:
 Participants:
+When will this discussion take place?
 
 ## Discussion Items
 [List a few discussion items you would like to cover]
