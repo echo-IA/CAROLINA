@@ -56,7 +56,7 @@ The meeting is intended to be centered on discussion and pitches for future proj
 
 **14.15 - 16.00 &emsp; Breakout work/sprinting**
 
-**16.00 - 17.00 &emsp; Reports from breakouts and next steps**
+**16.15 - 17.00 &emsp; Reports from breakouts and next steps**
 
 **17.00 &emsp; _End of Day 3_**
 
