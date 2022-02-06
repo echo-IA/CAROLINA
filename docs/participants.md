@@ -5,12 +5,15 @@ order: 5
 ---
 - Alan Heavens, Imperial College
 - Alexandra Amon, Cambridge 
+- Alex Malz, German Centre for Cosmological Lensing
 - Alessio Spurio Mancini, University College London
+- Andresa Campos, Carnegie Mellon University
 - Agnès Ferté,	JPL
 - Anik Halder, Ludwig Maximilian University of Munich
 - Andrew Hearin,	Argonne National Lab
 - Alkistis Pourtsidou,	University of Edinburgh
 - Anna Wittje	GCCL, Astronomical Institute Bochum, Germany
+- Atsushi Taruya, Yukawa Institute for Theoretical Physics, Kyoto University
 - Maciej Bilicki,	Center for Theoretical Physics PAS Warsaw
 - Bjoern Malte Schaefer,	Heidelberg University
 - Christos Georgiou,	Utrecht University
@@ -22,6 +25,7 @@ order: 5
 - David Sánchez Cid,	CIEMAT
 - Yohan Dubois,	Institut d'Astrophysique de Paris
 - Elisa Legnani,	University of Milan, LMU Munich
+- Elizabeth Gonzalez, IATE (CONICET)
 - Eusebio Sanchez,	CIEMAT
 - Eve Kovacs,	Argonne National Laboratory
 - Francisco Castander,	ICE-CSIC, IEEC, Barcelona
@@ -34,6 +38,7 @@ order: 5
 - Jonathan Blazek,	Northeastern University
 - Jacobo Asorey,	CIEMAT
 - Jingjing Shi, Kavli IPMU 
+- Juan Mena, CIEMAT
 - Zhengyangguang Gong,	Ludwig Maximilian University of Munich
 - Laila Linke,	Bonn University
 - Leonel Medina Varela,	University of Texas at Dallas
@@ -47,6 +52,7 @@ order: 5
 - Niall Jeffrey,	UCL
 - Nikolina Sarcevic,	Newcastle University
 - Nicholas Van Alfen,	Northeastern University
+- Pablo Fosalba Vela, ICE, CSIC
 - Rachel Mandelbaum,	Carnegie Mellon University
 - Robert Reischke, GCCL
 - Sven Heydenreich,	Argelander-Institute for Astronomy
