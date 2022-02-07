@@ -24,7 +24,7 @@ The meeting is intended to be centered on discussion and pitches for future proj
 
 **15.20 - 15.35 &emsp; Introductions (Part 3)**
 
-**15.35 - 15.55 &emsp; Mini-review on IA simulations - S. Codis**
+**15.35 - 15.55 &emsp; Mini-review on IA simulations - R. Paviot**
 
 **15.55 - 16.10 &emsp; Introductions (Part 4)**
 
