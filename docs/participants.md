@@ -55,6 +55,7 @@ order: 5
 - Pablo Fosalba Vela, ICE, CSIC
 - Rachel Mandelbaum,	Carnegie Mellon University
 - Robert Reischke, GCCL
+- Romain Paviot, CEA Saclay
 - Sven Heydenreich,	Argelander-Institute for Astronomy
 - Sandra Unruh,	GCCL, AIfA
 - Sandrine Codis,	AIM/LCEG
