@@ -37,15 +37,15 @@ The meeting is intended to be centered on discussion and pitches for future proj
 
 ### Day 2 (Feb 8)
 
-**13.30 - 14.50 &emsp; Project pitches & discussion (modelling & methods focus)**
+**13.30 - 15.00 &emsp; Project pitches & discussion (modelling & methods focus)**
 
-**14.50 - 15.00 &emsp; _Break_**
+**15.00 - 15.10 &emsp; _Break_**
 
-**15.00 - 16.20 &emsp; Project pitches & discussion (data focus)**
+**15.10 - 16.40 &emsp; Project pitches & discussion (data focus)**
 
-**16.20 - 16.30 &emsp; _Break_**
+**16.40 - 16.50 &emsp; _Break_**
 
-**16.30 - 17.30 &emsp; Next steps & Project planning**
+**16.50 - 17.30 &emsp; Next steps & Project planning**
 
 **17.30 &emsp; _End of Day 2_**
 
@@ -54,9 +54,9 @@ The meeting is intended to be centered on discussion and pitches for future proj
 
 **14.00 - 14.15 &emsp; Sprint planning**
 
-**14.15 - 16.00 &emsp; Breakout work/sprinting**
+**14.15 - 16.15 &emsp; Breakout work/sprinting**
 
-**16.15 - 17.00 &emsp; Reports from breakouts and next steps**
+**16.20 - 17.00 &emsp; Reports from breakouts and next steps**
 
 **17.00 &emsp; _End of Day 3_**
 
