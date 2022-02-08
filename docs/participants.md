@@ -3,6 +3,7 @@ layout: default
 title: Participants
 order: 5
 ---
+- Abraham Arvizu	Universidad de Guanajuato
 - Alan Heavens, Imperial College
 - Alexandra Amon, Cambridge 
 - Alex Malz, German Centre for Cosmological Lensing
@@ -35,10 +36,12 @@ order: 5
 - Harry Johnston,	Universiteit Utrecht
 - Henk Hoekstra,	Leiden University
 - Isaac Tutusaus,	University of Geneva
+- Joachim Harnois-Deraps, Newcastle University
 - Jonathan Blazek,	Northeastern University
 - Jacobo Asorey,	CIEMAT
 - Jingjing Shi, Kavli IPMU 
 - Juan Mena, CIEMAT
+- Judit Prat,	University of Chicago
 - Zhengyangguang Gong,	Ludwig Maximilian University of Munich
 - Laila Linke,	Bonn University
 - Leonel Medina Varela,	University of Texas at Dallas
@@ -61,6 +64,7 @@ order: 5
 - Sandrine Codis,	AIM/LCEG
 - Sara Safari, ETH Zurich
 - Silvan Fischbacher,	ETH Zurich
+- Simon Samuroff,	Northeastern University
 - Stella Seitz,	USM, LMU Munich
 - Sukhdeep Singh,	Carnegie Mellon University
 - Susan Pyne, University College London
