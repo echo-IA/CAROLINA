@@ -1,5 +1,5 @@
-# echoIA Kickoff Workshop
-Feb 7-9, 2022, virtual
+# echoIA LILAC Workshop
+May 6-10, 2024, virtual
 
 ## Meeting documents
 * Participant one-slide introductions: echoIA_participants.pdf
