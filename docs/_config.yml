@@ -22,7 +22,7 @@ url: "https://echo-IA.github.io" # the base hostname & protocol for your site, e
 github_username: echo-IA
 
 git_address: https://github.com/echo-IA/LILAC
-git_edit_address: https://github.com/echo-IA/LILACf/edit/master/docs
+git_edit_address: https://github.com/echo-IA/LILAC/edit/master/docs
 
 
 # Build settings
