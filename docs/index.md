@@ -11,21 +11,24 @@ order: 1
 
 Intrinsic alignments (IA) are a limiting astrophysical systematic in cosmological weak lensing studies. This challenge is shared among a number of powerful deep and wide galaxy surveys that will run during the 2020s, including the ESA Euclid mission, the Legacy Survey of Space and Time (LSST) at the Rubin Observatory, and the NASA Roman Space Telescope. A diverse set of measurements of IA have been carried out, which can in principle provide valuable information on the most accurate type of IA model, on the flexibility required in that model, and on the priors for the model parameters. However, it has already been established that the IA signal has complex dependencies on galaxy type, position in the host halo (central or satellite), luminosity, possibly redshift, and the size scale on which the galaxy alignment is measured. Hence, a homogenized approach is required to enable the consistent interpretation of measurements and a meaningful extrapolation of the IA model to the galaxy samples employed in cosmological measurements. The echoIA community project will bring together measurement and modeling experts to both perform a joint re-analysis of all relevant observational IA measurements and to coordinate the analysis of future measurements within a common framework.
 
-To register for the LILAC Workshop, or more generally to join the effort, please fill out [this google form](https://forms.gle/3ppQhhhs1dKm4Mqz7).
+To register for the LILAC Workshop, or more generally to join the effort, please fill out **enter link here**
 
-The Kickoff Workshop (Feb 7-9) will set the stage for our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there will be lots of time for discussion. The third day will be primarily for project planning and sprinting in smaller groups.
+The LILAC Workshop (Feb 7-9) will set the stage for our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there will be lots of time for discussion. The third day will be primarily for project planning and sprinting in smaller groups.
 
 This meeting is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), primarily to occur on Wednesday, as well as areas for ongoing collaboration within echoIA by clicking this button:
 <p align="center">
-<a href="https://github.com/echo-IA/FebKickoff/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
-Proposed sessions can be found at [this link](https://github.com/echo-IA/FebKickoff/issues), please comment on the proposals to indicate your interest.
+<a href="https://github.com/echo-IA/LILAC/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
+Proposed sessions can be found at [this link](https://github.com/echo-IA/LILAC/issues), please comment on the proposals to indicate your interest.
 
 
 ## Organizing Committee
 
 - [Jonathan Blazek](https://cos.northeastern.edu/people/jonathan-blazek/), Northeastern University
 - [Benjamin Joachimi](http://www.star.ucl.ac.uk/~joachimi/), University College London
-- [Simon Samuroff](), Northeastern University
+- [Claire Lamman](https://astronomy.fas.harvard.edu/people/claire-lamman), Harvard University
+- [Daniel Eisentein](https://astronomy.fas.harvard.edu/people/daniel-eisenstein), Harvard University
+- [Eske Pedersen](https://projects.iq.harvard.edu/stubbs/people/eske-pederson), Harvard University
+- [Niko Sarcevic](https://blogs.ncl.ac.uk/cosmology/group/), Newcastle University
 
 
 ## Code of Conduct
