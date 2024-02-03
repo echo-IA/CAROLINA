@@ -7,6 +7,12 @@ title: Home
 order: 1
 ---
 
+We are excited to announce the latest installment of echoIA, titled **LILAC: Linking Intrinsic Alignments Across Collaborations**. This gathering will take place at the Center for Astrophysics | Harvard & Smithsonian (CfA) from May 6th to May 10th, 2024. In our commitment to inclusivity and accessibility, we will also be offering virtual attendance options for those unable to join us in person. Stay tuned for more details on how you can be a part of this innovative meeting. 
+
+- [Rationale](#rationale)
+- [Organizing Committee](#organizing-committee)
+- [Code of Conduct](#code-of-conduct)
+
 ## Rationale
 
 Intrinsic alignments (IA) are a limiting astrophysical systematic in cosmological weak lensing studies. This challenge is shared among a number of powerful deep and wide galaxy surveys that will run during the 2020s, including the ESA Euclid mission, the Legacy Survey of Space and Time (LSST) at the Rubin Observatory, and the NASA Roman Space Telescope. A diverse set of measurements of IA have been carried out, which can in principle provide valuable information on the most accurate type of IA model, on the flexibility required in that model, and on the priors for the model parameters. However, it has already been established that the IA signal has complex dependencies on galaxy type, position in the host halo (central or satellite), luminosity, possibly redshift, and the size scale on which the galaxy alignment is measured. Hence, a homogenized approach is required to enable the consistent interpretation of measurements and a meaningful extrapolation of the IA model to the galaxy samples employed in cosmological measurements. The echoIA community project will bring together measurement and modeling experts to both perform a joint re-analysis of all relevant observational IA measurements and to coordinate the analysis of future measurements within a common framework.
