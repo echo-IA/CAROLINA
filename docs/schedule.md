@@ -6,58 +6,39 @@ order: 2
 
 # Schedule
 
-The meeting is intended to be centered on discussion and pitches for future projects and collaboration. There will be three "mini-review" talks to provide context. The schedule is below. All times are given in _UTC_ (=_EST_+5). Schedule is preliminary.
+The meeting is intended to be centered on discussion and pitches for future projects and collaboration. There will be three "mini-review" talks to provide context. The schedule is below. All times are given in _EDT_ (=_UTC_-4). Schedule is preliminary.
 
-### Day 1 (Feb 7)
+### Day 1 (May 6)
 
-**13.30 - 14.00 &emsp; Welcome & overview - J. Blazek & B. Joachimi**
-
-**14.00 - 14.15 &emsp; Introductions (Part 1)**
-
-**14.15 - 14.35 &emsp; Mini-review on IA data - R. Mandelbaum**
-
-**14.35 - 14.50 &emsp; Introductions (Part 2)**
-
-**14.50 - 15.00 &emsp; _Break_**
-
-**15.00 - 15.20 &emsp; Mini-review on IA modelling - E. Chisari**
-
-**15.20 - 15.35 &emsp; Introductions (Part 3)**
-
-**15.35 - 15.55 &emsp; Mini-review on IA simulations - R. Paviot**
-
-**15.55 - 16.10 &emsp; Introductions (Part 4)**
-
-**16.10 - 16.20 &emsp; _Break_**
-
-**16.20 - 17.30 &emsp; Project pitches & discussion (simulations focus)**
+**XX:XX - XX:XX &emsp; Welcome & overview - J. Blazek & B. Joachimi**
 
 **17.30 &emsp; _End of Day 1_**
 
 
-### Day 2 (Feb 8)
+### Day 2 (May 7)
 
-**13.30 - 15.00 &emsp; Project pitches & discussion (modelling & methods focus)**
-
-**15.00 - 15.10 &emsp; _Break_**
-
-**15.10 - 16.40 &emsp; Project pitches & discussion (data focus)**
-
-**16.40 - 16.50 &emsp; _Break_**
-
-**16.50 - 17.30 &emsp; Next steps & Project planning**
+**XX:XX - XX:XX &emsp; Topic**
 
 **17.30 &emsp; _End of Day 2_**
 
 
-### Day 3 (Feb 9)
+### Day 3 (May 8)
 
-**14.00 - 14.15 &emsp; Sprint planning**
+**XX:XX - XX:XX &emsp; Topic**
 
-**14.15 - 16.15 &emsp; Breakout work/sprinting**
+**17.30 &emsp; _End of Day 3_**
 
-**16.20 - 17.00 &emsp; Reports from breakouts and next steps**
+
+### Day 4 (May 9)
+
+**XX:XX - XX:XX &emsp; Topic**
+
+**17.30 &emsp; _End of Day 3_**
+
+
+### Day 5 (May 10)
+
+**XX:XX - XX:XX &emsp; Topic**
 
 **17.00 &emsp; _End of Day 3_**
-
 
