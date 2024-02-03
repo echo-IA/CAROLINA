@@ -13,7 +13,7 @@ Intrinsic alignments (IA) are a limiting astrophysical systematic in cosmologica
 
 To register for the LILAC Workshop, or more generally to join the effort, please fill out **enter link here**
 
-The LILAC Workshop (Feb 7-9) will set the stage for our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there will be lots of time for discussion. The third day will be primarily for project planning and sprinting in smaller groups.
+The LILAC Workshop (May 6-10 2024) will continue our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there will be lots of time for discussion. The third day will be primarily for project planning and sprinting in smaller groups.
 
 This meeting is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), primarily to occur on Wednesday, as well as areas for ongoing collaboration within echoIA by clicking this button:
 **add issues link here**
