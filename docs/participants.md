@@ -3,77 +3,9 @@ layout: default
 title: Participants
 order: 5
 ---
-- Abraham Arvizu	Universidad de Guanajuato
-- Alan Heavens, Imperial College
-- Alexandra Amon, Cambridge 
-- Alex Malz, German Centre for Cosmological Lensing
-- Alessio Spurio Mancini, University College London
-- Andresa Campos, Carnegie Mellon University
-- Agnès Ferté,	JPL
-- Anik Halder, Ludwig Maximilian University of Munich
-- Andrew Hearin,	Argonne National Lab
-- Alkistis Pourtsidou,	University of Edinburgh
-- Anna Wittje	GCCL, Astronomical Institute Bochum, Germany
-- Atsushi Taruya, Yukawa Institute for Theoretical Physics, Kyoto University
-- Maciej Bilicki,	Center for Theoretical Physics PAS Warsaw
-- Bjoern Malte Schaefer,	Heidelberg University
-- Christos Georgiou,	Utrecht University
-- Carlo Giocoli,	INAF - OAS Bologna
-- Claire Lamman,	Harvard University
-- Daniel Gruen,	LMU Munich
-- Danielle Leonard,	Newcastle University
-- David Navarro, Girones	Institute of Space Sciences
-- David Sánchez Cid,	CIEMAT
-- Yohan Dubois,	Institut d'Astrophysique de Paris
-- Elisa Legnani,	University of Milan, LMU Munich
-- Elizabeth Gonzalez, IATE (CONICET)
-- Eusebio Sanchez,	CIEMAT
-- Eve Kovacs,	Argonne National Laboratory
-- Francisco Castander,	ICE-CSIC, IEEC, Barcelona
-- Kai Hoffmann,	ICE
-- Francois Lanusse,	CNRS
-- Gary Bernstein,	University of Pennsylvania
-- Harry Johnston,	Universiteit Utrecht
-- Henk Hoekstra,	Leiden University
-- Isaac Tutusaus,	University of Geneva
-- Joachim Harnois-Deraps, Newcastle University
-- Jonathan Blazek,	Northeastern University
-- Jacobo Asorey,	CIEMAT
-- Jingjing Shi, Kavli IPMU 
-- Juan Mena, CIEMAT
-- Judit Prat,	University of Chicago
-- Zhengyangguang Gong,	Ludwig Maximilian University of Munich
-- Laila Linke,	Bonn University
-- Leonel Medina Varela,	University of Texas at Dallas
-- Martin KILBINGER,	CEA Paris-Saclay
-- Martin Crocce,	Institute for Space Science (Barcelona, Spain)
-- Masahiro Takada,	Kavli IPMU
-- Michael Troxel,	Duke
-- Mustapha Ishak,	University of Texas at Dallas
-- Elisa Chisari,	Utrecht University
-- Natalia Porqueres,	Imperial College London
-- Niall Jeffrey,	UCL
-- Nikolina Sarcevic,	Newcastle University
-- Nicholas Van Alfen,	Northeastern University
-- Pablo Fosalba Vela, ICE, CSIC
-- Rachel Mandelbaum,	Carnegie Mellon University
-- Robert Reischke, GCCL
-- Romain Paviot, CEA Saclay
-- Sven Heydenreich,	Argelander-Institute for Astronomy
-- Sandra Unruh,	GCCL, AIfA
-- Sandrine Codis,	AIM/LCEG
-- Sara Safari, ETH Zurich
-- Silvan Fischbacher,	ETH Zurich
-- Simon Samuroff,	Northeastern University
-- Stella Seitz,	USM, LMU Munich
-- Sukhdeep Singh,	Carnegie Mellon University
-- Susan Pyne, University College London
-- Thomas Kitching,	UCL
-- Tae-hyeon Shin,	Stony Brook Univ.
-- Tassia Ferreira,	LIneA
-- Tomasz Kacprzak,	ETH Zurich
-- Toshiki Kurita,	The University of Tokyo
-- Will Hartley,	University of Geneva
-- Ziang Yan, GCCL
-- Yesukhei Jagvaral, Carnegie Mellon University
-- Conghao Zhou,	UC Santa Cruz
+- Jontahan Blazek
+- Benjmain Joachimi
+- Claire Lamman
+- Daniel Eisenstein
+- Eske Pedersen
+- Niko Sarcevic
