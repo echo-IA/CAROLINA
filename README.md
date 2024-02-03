@@ -1,7 +1,12 @@
 # echoIA LILAC Workshop
-May 6-10, 2024, virtual
+May 6-10, 2024, hybrid
+
+## Meeting coordinates
+
+* In-person: CfA, Harvard
+* Virtual: Zoom link here
 
 ## Meeting documents
-* Participant one-slide introductions: echoIA_participants.pdf
-* Project pitch slide deck: echoIA_project_pitches.pdf
-* Live notes pdf: echoIA_livenotes.pdf
+* Participant one-slide introductions: 
+* Project pitch slide deck: 
+* Live notes pdf: 
