@@ -16,9 +16,11 @@ To register for the LILAC Workshop, or more generally to join the effort, please
 The LILAC Workshop (Feb 7-9) will set the stage for our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there will be lots of time for discussion. The third day will be primarily for project planning and sprinting in smaller groups.
 
 This meeting is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), primarily to occur on Wednesday, as well as areas for ongoing collaboration within echoIA by clicking this button:
-<p align="center">
-<a href="https://github.com/echo-IA/LILAC/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
-Proposed sessions can be found at [this link](https://github.com/echo-IA/LILAC/issues), please comment on the proposals to indicate your interest.
+**add issues link here**
+
+Propose a discussion, hack, or project 
+
+Proposed sessions can be found at **add issues page here**, please comment on the proposals to indicate your interest.
 
 
 ## Organizing Committee
