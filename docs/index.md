@@ -28,7 +28,7 @@ Proposed sessions can be found at **add issues page here**, please comment on th
 - [Jonathan Blazek](https://cos.northeastern.edu/people/jonathan-blazek/), Northeastern University
 - [Benjamin Joachimi](http://www.star.ucl.ac.uk/~joachimi/), University College London
 - [Claire Lamman](https://astronomy.fas.harvard.edu/people/claire-lamman), Harvard University
-- [Daniel Eisentein](https://astronomy.fas.harvard.edu/people/daniel-eisenstein), Harvard University
+- [Daniel Eisenstein](https://astronomy.fas.harvard.edu/people/daniel-eisenstein), Harvard University
 - [Eske Pedersen](https://projects.iq.harvard.edu/stubbs/people/eske-pederson), Harvard University
 - [Niko Sarcevic](https://blogs.ncl.ac.uk/cosmology/group/), Newcastle University
 
