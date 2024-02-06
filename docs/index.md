@@ -7,24 +7,25 @@ title: Home
 order: 1
 ---
 <p align="center">
-  <img src="assets/images/promo_material_page-0001.jpg" alt="LILAC Conference" width="600">
+  <img src="assets/images/promo_material_page-0001.jpg" alt="LILAC Conference" width="800">
 </p>
 
-We are excited to announce the latest installment of echoIA, titled **LILAC: Linking Intrinsic Alignments Across Collaborations**. This gathering will take place at the Center for Astrophysics \| Harvard & Smithsonian (CfA) from May 6th to May 10th, 2024. In our commitment to inclusivity and accessibility, we will also be offering virtual attendance options for those unable to join us in person. Stay tuned for more details on how you can be a part of this innovative meeting. 
+We are excited to announce the latest installment of echoIA, **LILAC: Linking Intrinsic Alignments Across Collaborations** at the Center for Astrophysics \| Harvard & Smithsonian (CfA). The core meeting will take place from Monday, May 6th to Friday, May 9th, 2024. Smaller, informal tag-ups will take place on May 10. 
 
-- [Rationale](#rationale)
+
+- [About](#about)
 - [Organizing Committee](#organizing-committee)
 - [Code of Conduct](#code-of-conduct)
 
-# Rationale
+# About
 
-Intrinsic alignments (IA) are a limiting astrophysical systematic in cosmological weak lensing studies. This challenge is shared among a number of powerful deep and wide galaxy surveys that will run during the 2020s, including the ESA Euclid mission, the Legacy Survey of Space and Time (LSST) at the Rubin Observatory, and the NASA Roman Space Telescope. A diverse set of measurements of IA have been carried out, which can in principle provide valuable information on the most accurate type of IA model, on the flexibility required in that model, and on the priors for the model parameters. However, it has already been established that the IA signal has complex dependencies on galaxy type, position in the host halo (central or satellite), luminosity, possibly redshift, and the size scale on which the galaxy alignment is measured. Hence, a homogenized approach is required to enable the consistent interpretation of measurements and a meaningful extrapolation of the IA model to the galaxy samples employed in cosmological measurements. The echoIA community project will bring together measurement and modeling experts to both perform a joint re-analysis of all relevant observational IA measurements and to coordinate the analysis of future measurements within a common framework.
+Characterizing IA is necessary for upcoming cosmological surveys to meet science requirements, and IA itself is best constrained through synergies across surveys, particularly between imaging and spectroscopic data. LILAC will convene members of cosmological surveys and theory/simulation groups working on the Intrinsic Alignment (IA) of galaxies. The workshop will include short talks by ECS, technical sessions, and overview talks. Most of the meeting time will be reserved for hands-on work and discussions, prioritizing cross-collaboration project incubation. Virtual options will be available for all talks and select work sessions. 
 
-To register for the LILAC Workshop, or more generally to join the effort, please fill out **enter link here**
+This workshop is supported by [echo-IA](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts to coordinate the analysis of future measurements within a common framework.
 
-The LILAC Workshop (May 6-10 2024) will continue our collaborative efforts. We will have a few mini-review talks on IA measurements, simulations, and modeling. Everyone will have the opportunity to give short project pitches, and there will be lots of time for discussion. The third day will be primarily for project planning and sprinting in smaller groups.
+**To register for the LILAC Workshop, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link) by February 29.** There is no need for virtual participants to register; all connection info will be available on this site.
 
-This meeting is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), primarily to occur on Wednesday, as well as areas for ongoing collaboration within echoIA by clicking this button:
+This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA by clicking this button:
 <p align="center">
 <a href="https://github.com/echo-IA/LILAC/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
 
@@ -48,3 +49,5 @@ We are committed to making the meeting productive and enjoyable for everyone, re
 Behave professionally. Harassment and sexist, racist, or exclusionary comments or jokes are not appropriate. Harassment includes sustained disruption of talks or other events, inappropriate physical contact, sexual attention or innuendo, deliberate intimidation, stalking, and photography or recording of an individual without consent. It also includes offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race or religion. All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery are not appropriate. Be kind to others. Do not insult or put down other attendees. Participants asked to stop any inappropriate behavior are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the organizers without a refund of any charge.
 
 Any participant who wishes to report a violation of this policy is asked to speak, in confidence, to any of the meeting organizers.
+
+All particpants are expected to additionally abide by the [CfA Meetings & Events Conduct Policy](https://www.cfa.harvard.edu/sites/default/files/2023-06/CfA-Meeting-Conduct-Policy.pdf).
