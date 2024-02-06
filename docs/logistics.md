@@ -44,4 +44,4 @@ Recordings of sessions will be added to the schedule page.
 # Accessibility 
 There are a small number of travel grants available to support accommodations for early-career scientists. Offers have been made to those who filled out the initial interest form; contact the organizers if you are seeking alternative support. 
 
-The CfA building has limited options for persons unable to use stairs. If this is a concern for you, please do not hesitate to contact [Claire Lamman](< a href="mailto:claire.lamman@cfa.harvard.edu">John< /a>").
+The CfA building has limited options for persons unable to use stairs. If this is a concern for you, please do not hesitate to contact [Claire Lamman](mailto:claire.lamman@cfa.harvard.edu).
