@@ -19,17 +19,17 @@ We are excited to announce the latest installment of echoIA, **LILAC: Linking In
 
 # About
 
-Characterizing IA is necessary for upcoming cosmological surveys to meet science requirements, and IA itself is best constrained through synergies across surveys, particularly between imaging and spectroscopic data. LILAC will convene members of cosmological surveys and theory/simulation groups working on the Intrinsic Alignment (IA) of galaxies. The workshop will include short talks by ECS, technical sessions, and overview talks. Most of the meeting time will be reserved for hands-on work and discussions, prioritizing cross-collaboration project incubation. Virtual options will be available for all talks and select work sessions. 
+Characterizing IA is necessary for upcoming cosmological surveys to meet science requirements, and IA itself is best constrained through synergies across surveys, particularly between imaging and spectroscopic data. LILAC will convene members of cosmological surveys and theory/simulation groups working on the Intrinsic Alignment (IA) of galaxies. The workshop will include short talks by ECS, technical sessions, and overview talks. These "overview" talks are intended to be both a general introduction to aspects of IA and to stimulate discussion around recent advancements. Contact an organizer if you have a topic request or would like to give one of these overview talks. Most of the meeting time will be reserved for hands-on work and discussions, prioritizing cross-collaboration project incubation. Virtual options will be available for all talks and select work sessions. 
 
 This workshop is supported by [echo-IA](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts to coordinate the analysis of future measurements within a common framework.
 
-**To register for the LILAC Workshop, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link) by February 29.** There is no need for virtual participants to register; all connection info will be available on this site.
+**In-person and virtual participants must fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link) by February 29.**
 
-This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA by clicking this button:
+This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA in the registration form or by clicking this button:
 <p align="center">
 <a href="https://github.com/echo-IA/LILAC/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
 
-Proposed sessions can be found at [this link](https://github.com/echo-IA/LILAC/issues), please comment on the proposals to indicate your interest.
+Proposed sessions can be found [here](https://github.com/echo-IA/LILAC/issues), please comment on the proposals to indicate your interest.
 
 
 # Organizing Committee
