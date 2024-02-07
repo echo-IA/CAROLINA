@@ -3,7 +3,8 @@ layout: default
 title: Logistics
 order: 2
 ---
-#
+There is no registration fee, and we will offer breakfast, lunch, and one dinner during the main workshop (Monday - Thursday). 
+
 - [Connection](#connection)
 - [Location](#location)
 - [Accomodation](#accomodation)
@@ -11,16 +12,16 @@ order: 2
 - [Workshop Materials](#workshop-materials)
 - [Accessibility](#accessibility)
 
-There is no registration fee, and we will offer breakfast, lunch, and one dinner during the main workshop (Monday - Thursday). 
-
 # Connection
 Most communication during the workshop will happen through this slack space: TBA
 
-The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the (schedule page)[https://echo-ia.github.io/LILAC/schedule.html].
+The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the [schedule page](https://echo-ia.github.io/LILAC/schedule.html).
+
 If you would like to be added to the echo-IA github organization, which will host echo-IA-related repositories, please enter your github username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).
+
 While all scheduled talks will be streamed, not all work sessions will have a virtual option and some may be only virtual. As the workshop is intented to be highly interactive and self-organized, the in-person/online availability will depend on the organizers of individual sessions and the level of interest.
 
-Recordings of sessions will be added to the (schedule page)[https://echo-ia.github.io/LILAC/schedule.html].
+Recordings of sessions will be added to the [schedule page](https://echo-ia.github.io/LILAC/schedule.html).
 
 # Location 
 
@@ -53,6 +54,7 @@ Here are reccomended hotels in the area. You may be able to find a better deal t
 
 # Workshop Materials
 TBA
+
 Links to the slidedeck for project pitches and introductions will be sent to participants.
 
 
