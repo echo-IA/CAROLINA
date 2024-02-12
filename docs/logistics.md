@@ -38,10 +38,12 @@ The nearest airport is [Boston-Logan](https://www.google.com/maps/place/Boston+L
 
 In addition to Uber / Lyft, there are decent (for the U.S.) public transport options around Cambridge. The easiest option to pay is by getting a [CharlieTicket](https://www.mbta.com/fares/subway-fares) at a subway station. You can also pay in cash for buses.
 
+The Cambridge are also has a popular bike rental system, [Blue Bikes](https://bluebikes.com/).
+
 
 # Accomodation
 
-Here are reccomended hotels in the area. You may be able to find a better deal through [Airbnb](https://www.airbnb.com/s/Smithsonian-Astrophysical-Observatory--Garden-Street--Cambridge--MA--USA/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-03-01&monthly_length=3&monthly_end_date=2024-06-01&price_filter_input_type=0&channel=EXPLORE&query=Smithsonian%20Astrophysical%20Observatory%2C%20Cambridge%2C%20MA&place_id=ChIJ5ynhxqh344kRPZlRc_uRheQ&date_picker_type=calendar&checkin=2024-05-05&checkout=2024-05-11&source=structured_search_input_header&search_type=autocomplete_click).
+Here are reccomended hotels in the area. You may be able to find a better deal through [Airbnb](https://www.airbnb.com/s/Smithsonian-Astrophysical-Observatory--Garden-Street--Cambridge--MA--USA/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-03-01&monthly_length=3&monthly_end_date=2024-06-01&price_filter_input_type=0&channel=EXPLORE&query=Smithsonian%20Astrophysical%20Observatory%2C%20Cambridge%2C%20MA&place_id=ChIJ5ynhxqh344kRPZlRc_uRheQ&date_picker_type=calendar&checkin=2024-05-05&checkout=2024-05-11&source=structured_search_input_header&search_type=autocomplete_click). For more affordable options with a commutte, look along the [red line or commuter rail](https://www.google.com/maps/@42.3866319,-71.1315589,14.63z/data=!5m2!1e2!1e4?entry=ttu), which take you to [Porter Square](https://maps.app.goo.gl/2LzAWgKmQS2TqF2cA), a 15 minute walk from the CfA. 
 
 [Sheraton Commander](https://www.marriott.com/en-us/hotels/boscs-sheraton-commander-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0), 16 Garden St, Cambridge, MA 02138
 
