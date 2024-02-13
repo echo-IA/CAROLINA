@@ -3,8 +3,8 @@ layout: default
 title: Participants
 order: 5
 ---
-- Jontahan Blazek
-- Benjmain Joachimi
+- Jonathan Blazek
+- Benjamin Joachimi
 - Claire Lamman
 - Daniel Eisenstein
 - Eske Pedersen
