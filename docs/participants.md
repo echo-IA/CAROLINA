@@ -29,7 +29,7 @@ order: 5
       <td>3</td>
       <td>Niko Sarcevic</td>
       <td>Newcastle University</td>
-      <td>Virtual</td>
+      <td>In Person</td>
     </tr>
     <tr>
       <td>4</td>
