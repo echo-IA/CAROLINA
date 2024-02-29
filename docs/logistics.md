@@ -3,7 +3,7 @@ layout: default
 title: Logistics
 order: 2
 ---
-There is no registration fee, and we will offer breakfast, lunch, and one dinner during the main workshop (Monday - Thursday). 
+Due to generous support from the Harvard CfA and Northeastern, there is no registration fee, and we will offer breakfast, lunch, and one dinner during the main workshop (Monday - Thursday). 
 
 - [Connection](#connection)
 - [Location](#location)

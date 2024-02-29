@@ -10,7 +10,7 @@ order: 1
   <img src="assets/images/promo_material_page-0001.jpg" alt="LILAC Conference" width="800">
 </p>
 
-We are excited to announce the latest installment of echoIA, **LILAC: Linking Intrinsic Alignments Across Collaborations** at the Center for Astrophysics \| Harvard & Smithsonian (CfA). The core meeting will take place from Monday, May 6th to Friday, May 9th, 2024. Smaller, informal tag-ups will take place on May 10. 
+We are excited to announce the latest installment of echoIA, **LILAC: Linking Intrinsic Alignments Across Collaborations** at the Center for Astrophysics \| Harvard & Smithsonian (CfA). The core meeting will take place from Monday, May 6th to Thursday, May 9th, 2024. On Friday, May 10, we will have a work/hack day to make progress on implementing models, simulation tools, and data sets. Activites on Friday will leverage discussion from earlier in the week and are ideal for sharing insights and experience relevant for multiple collaborations.
 
 
 - [About](#about)
