@@ -36,9 +36,9 @@ Alternative work spaces: In addition to Pratt, we currently have the nextdoor Fi
 
 The nearest airport is [Boston-Logan](https://www.google.com/maps/place/Boston+Logan+International+Airport/@42.3655791,-71.0123394,17z/data=!3m1!4b1!4m6!3m5!1s0x89e37014d5da4937:0xc9394c31f2d5144!8m2!3d42.3655752!4d-71.0097645!16zL20vMDFmMDd4?entry=ttu). 
 
-In addition to Uber / Lyft, there are decent (for the U.S.) public transport options around Cambridge. The easiest option to pay is by getting a [CharlieTicket](https://www.mbta.com/fares/subway-fares) at a subway station. You can also pay in cash for buses.
+In addition to Uber / Lyft, there are decent public transport options around Cambridge. The easiest option to pay is by getting a [CharlieTicket](https://www.mbta.com/fares/subway-fares) at a subway station. You can also pay in cash for buses.
 
-The Cambridge are also has a popular bike rental system, [Blue Bikes](https://bluebikes.com/).
+Cambridge also has a popular bike rental system, [Blue Bikes](https://bluebikes.com/).
 
 
 # Accomodation
