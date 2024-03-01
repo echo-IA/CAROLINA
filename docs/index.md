@@ -23,7 +23,7 @@ Characterizing IA is necessary for upcoming cosmological surveys to meet science
 
 This workshop is supported by [echo-IA](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts to coordinate the analysis of future measurements within a common framework.
 
-**In-person and virtual participants must fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link) by February 29.**
+**In-person and virtual participants must fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link) by March 8.**
 
 This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA in the registration form or by clicking this button:
 <p align="center">

@@ -4,6 +4,6 @@ title: Registration
 order: 6
 ---
 
-**To register for the LILAC Workshop, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link) by February 29.**
+**To register for the LILAC Workshop, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link) by March 8.**
 
 Your place is not guaranteed until you've filled out this form and received a confirmation from an organizer.
