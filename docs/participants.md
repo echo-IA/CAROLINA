@@ -7,6 +7,8 @@ order: 5
 <p align="center">
   <img src="assets/images/collaborations_bar.jpg" alt="Participant Collaborations" width="1000">
 </p>
+<br>
+<br>
 
 <table border="0" class="dataframe participants-table">
   <thead>
