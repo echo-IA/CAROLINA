@@ -190,106 +190,111 @@ order: 5
     </tr>
     <tr>
       <td>29</td>
+      <td>Vivian Miranda</td>
+      <td>Stony Brook University</td>
+      <td>Virtual</td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>Romain Paviot</td>
       <td>CEA</td>
       <td>In Person</td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>Eske Pedersen</td>
       <td>Harvard University</td>
       <td>In Person</td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>Fabian Hervas Peters</td>
       <td>CosmoStat, CEA Paris-Saclay</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>Susan Pyne</td>
       <td>UCL</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>Paul Rogozenski</td>
       <td>University of Arizona</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>Simon Samuroff</td>
       <td>Northeastern University</td>
       <td>In Person</td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>Niko Sarcevic</td>
       <td>Newcastle University</td>
       <td>In Person</td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>Jingjing Shi</td>
       <td>Kavli IPMU</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>John Suárez-Pérez</td>
       <td>NaN</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>Isaac Tutusaus</td>
       <td>IRAP-OMP</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>Nick Van Alfen</td>
       <td>Northeastern University</td>
       <td>In Person</td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>Leonel Medina Varela</td>
       <td>University of Texas at Dallas</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>Carter Williams</td>
       <td>Northeastern University</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>Anna Wittje</td>
       <td>Ruhr-University Bochum</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>Zhuowen (Ben) Zhang</td>
       <td>U. Chicago</td>
       <td>In Person</td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>Kunhao Zhong</td>
       <td>University of Pennsylvania</td>
       <td>Virtual</td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>Marloes van Loon</td>
       <td>Utrecht University</td>
       <td>Virtual</td>
     </tr>
   </tbody>
 </table>
-

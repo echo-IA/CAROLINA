@@ -3,7 +3,7 @@ layout: default
 title: Logistics
 order: 2
 ---
-Due to generous support from the Harvard CfA and Northeastern, there is no registration fee, and we will offer breakfast, lunch, and one dinner during the main workshop (Monday - Thursday). 
+Due to generous support from the Harvard CfA and Northeastern, there is no registration fee and we will offer breakfast, lunch, and one dinner during the entire week (Monday - Friday). 
 
 - [Connection](#connection)
 - [Location](#location)
@@ -15,22 +15,25 @@ Due to generous support from the Harvard CfA and Northeastern, there is no regis
 # Connection
 Most communication during the workshop will happen through this slack space: TBA
 
-The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the [schedule page](https://echo-ia.github.io/LILAC/schedule.html).
+The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the [schedule](https://docs.google.com/spreadsheets/d/12cglkv1jQLbwjyGQMDEkFLyL5WSw4syAcb5dAUnvLD0/edit?usp=sharing).
 
 If you would like to be added to the echo-IA github organization, which will host echo-IA-related repositories, please enter your github username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).
 
 While all scheduled talks will be streamed, not all work sessions will have a virtual option and some may be only virtual. As the workshop is intented to be highly interactive and self-organized, the in-person/online availability will depend on the organizers of individual sessions and the level of interest.
 
-Recordings of sessions will be added to the [schedule page](https://echo-ia.github.io/LILAC/schedule.html).
+Recordings of sessions and slides / notes will be added to the [schedule](https://docs.google.com/spreadsheets/d/12cglkv1jQLbwjyGQMDEkFLyL5WSw4syAcb5dAUnvLD0/edit?usp=sharing).
 
 # Location 
 
-The CfA is located at [60 Garden St, Cambridge MA](https://www.google.com/maps/place/Center+For+Astrophysics/@42.3814647,-71.1307413,17z/data=!3m1!4b1!4m6!3m5!1s0x89e3776cf27d427f:0x67a664a0e701c740!8m2!3d42.3814608!4d-71.1281664!16s%2Fg%2F11ys_jfnz?entry=ttu).
+The CfA is located at [60 Garden St, Cambridge MA](https://www.google.com/maps/place/Center+For+Astrophysics/@42.3814647,-71.1307413,17z/data=!3m1!4b1!4m6!3m5!1s0x89e3776cf27d427f:0x67a664a0e701c740!8m2!3d42.3814608!4d-71.1281664!16s%2Fg%2F11ys_jfnz?entry=ttu). 
 
-The main workshop sessions will take place in Pratt, a conference room directly below the main lobby of the CfA (yes, the coffee machine in the lobby is free!). The building doors are locked to those without a Harvard ID. The main entrance ([Google Map pin](https://www.google.com/maps/place/42%C2%B022'53.8%22N+71%C2%B007'40.4%22W/@42.3816063,-71.1279001,17.01z/data=!4m4!3m3!8m2!3d42.3816014!4d-71.1278958?entry=ttu)) will be proped open before the first session, and you can contact a local host over Slack to be let in at other times. 
+The main workshop sessions will take place in Pratt, a conference room directly below the main lobby of the CfA (yes, the coffee machine in the lobby is free!). There will be signs inside directing you to the conference registration. The building doors are locked to those without a Harvard ID. The main entrance ([Google Map pin](https://www.google.com/maps/place/42%C2%B022'53.8%22N+71%C2%B007'40.4%22W/@42.3816063,-71.1279001,17.01z/data=!4m4!3m3!8m2!3d42.3816014!4d-71.1278958?entry=ttu)) will be proped open before the first session, and you can contact a local host over Slack to be let in at other times. 
 
 Alternative work spaces: In addition to Pratt, we currently have the nextdoor Fishbowl room reserved for 08:00-15:00 Monday - Wednesday, 09:00-10:30 / 12:00-14:00 Thursday, and 08:00-10:00 / 11:00-16:00 Friday. Smaller groups can assemble upstairs in the CfA library, lobby, or courtyard. We additionally encourage virtual participants to liberally connect over slack and virtual breakout rooms.
 
+<p align="center">
+  <img src="assets/images/cfa_map.png" alt="LILAC Conference" width="800">
+</p>
 
 # Travel
 
