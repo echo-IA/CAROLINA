@@ -72,7 +72,7 @@ order: 5
       <td>9</td>
       <td>Elisa Chisari</td>
       <td>Utrecht University</td>
-      <td>Virtual</td>
+      <td>In Person</td>
     </tr>
     <tr>
       <td>10</td>
