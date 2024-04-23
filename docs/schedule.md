@@ -6,7 +6,9 @@ order: 2
 
 # Schedule
 
-The meeting is intended to be centered on discussion and hands-on work. All times are in EST and the in-person location is Pratt unless otherwise marked. The Zoom link as well as slides / recordings can also be found in the above link.
+- The meeting is intended to be centered on discussion and hands-on work.
+- All times are in EST and the in-person location is Pratt unless otherwise marked.
+- The Zoom link will be shared with the participants.
 
 [Here is the schedule and slides for flash talks.](https://docs.google.com/presentation/d/1odfo0UHaLei6cYr-or-fq1fBINV75oakTbvppaN3BgI/edit?usp=sharing)
 
