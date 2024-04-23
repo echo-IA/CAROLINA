@@ -6,9 +6,9 @@ order: 2
 
 # Schedule
 
-- The meeting is intended to be centered on discussion and hands-on work.
-- All times are in EST and the in-person location is Pratt unless otherwise marked.
-- The Zoom link will be shared with the participants.
+Participants are welcome to meet/work before and after the scheduled events. Pratt is available the entire week, and the Fishbowl next to Pratt is available everday until 15:00. There are additional spaces in the library and lobby. All times are in EST and the in-person location is Pratt unless otherwise marked.
+
+[Here is the link to the live schedule.](https://docs.google.com/spreadsheets/d/12cglkv1jQLbwjyGQMDEkFLyL5WSw4syAcb5dAUnvLD0/edit?usp=sharing)
 
 [Here is the schedule and slides for flash talks.](https://docs.google.com/presentation/d/1odfo0UHaLei6cYr-or-fq1fBINV75oakTbvppaN3BgI/edit?usp=sharing)
 
