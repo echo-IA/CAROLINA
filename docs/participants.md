@@ -186,7 +186,7 @@ order: 5
       <td>28</td>
       <td>Francisco Maion</td>
       <td>Donostia International Physics Center</td>
-      <td>In Person</td>
+      <td>Virtual</td>
     </tr>
     <tr>
       <td>29</td>
@@ -198,7 +198,7 @@ order: 5
       <td>30</td>
       <td>Romain Paviot</td>
       <td>CEA</td>
-      <td>In Person</td>
+      <td>Virtual</td>
     </tr>
     <tr>
       <td>31</td>
@@ -270,13 +270,13 @@ order: 5
       <td>42</td>
       <td>Leonel Medina Varela</td>
       <td>University of Texas at Dallas</td>
-      <td>Virtual</td>
+      <td>In Person</td>
     </tr>
     <tr>
       <td>43</td>
       <td>Carter Williams</td>
       <td>Northeastern University</td>
-      <td>Virtual</td>
+      <td>In Person</td>
     </tr>
     <tr>
       <td>44</td>
@@ -304,3 +304,4 @@ order: 5
     </tr>
   </tbody>
 </table>
+
