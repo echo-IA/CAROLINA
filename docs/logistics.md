@@ -58,9 +58,7 @@ Here are reccomended hotels in the area. You may be able to find a better deal t
 
 
 # Workshop Materials
-TBA
-
-Links to the slidedeck for project pitches and introductions will be sent to participants.
+Links to recordings and slides will be posted in the live [schedule](https://docs.google.com/spreadsheets/d/12cglkv1jQLbwjyGQMDEkFLyL5WSw4syAcb5dAUnvLD0/edit?usp=sharing).
 
 
 # Accessibility 

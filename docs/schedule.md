@@ -6,9 +6,9 @@ order: 2
 
 # Schedule
 
-Participants are welcome to meet/work before and after the scheduled events. Pratt is available the entire week, and the Fishbowl next to Pratt is available everday until 15:00. There are additional spaces in the library and lobby. All times are in EST and the in-person location is Pratt unless otherwise marked.
-
 [Here is the link to the live schedule.](https://docs.google.com/spreadsheets/d/12cglkv1jQLbwjyGQMDEkFLyL5WSw4syAcb5dAUnvLD0/edit?usp=sharing)
+
+Participants are welcome to meet/work before and after the scheduled events. Pratt is available the entire week, and the Fishbowl next to Pratt is available everday until 15:00. There are additional spaces in the library and lobby. All times are in EST and the in-person location is Pratt unless otherwise marked.
 
 [Here is the schedule and slides for flash talks.](https://docs.google.com/presentation/d/1odfo0UHaLei6cYr-or-fq1fBINV75oakTbvppaN3BgI/edit?usp=sharing)
 
@@ -67,26 +67,26 @@ Participants are welcome to meet/work before and after the scheduled events. Pra
 </tr>
 <tr>
 <td>14:00</td>
-<td>Pratt &amp; Fishbowl</td>
-<td>open work time</td>
-<td>--</td>
-</tr>
-<tr>
-<td>15:00</td>
 <td>Pratt</td>
 <td>Provocative Talk 1: The Future of modeling</td>
 <td>Francisco Maion</td>
 </tr>
 <tr>
-<td>15:15</td>
+<td>14:15</td>
 <td>Pratt</td>
 <td>Discussion</td>
 <td>--</td>
 </tr>
 <tr>
+<td>15:00</td>
+<td>Plate Stacks / Pratt</td>
+<td>Plate Stacks & Great Refractor Tour / Open work time</td>
+<td>--</td>
+</tr>
+<tr>
 <td>16:00</td>
-<td>Pratt &amp; Fishbowl</td>
-<td>open work time</td>
+<td>Plate Stacks / Pratt</td>
+<td>Plate Stacks & Great Refractor Tour / Open work time</td>
 <td>--</td>
 </tr>
 <tr><td colspan="4" style="text-align: center; font-weight: bold;">Tuesday, May 7</td></tr>

@@ -51,3 +51,5 @@ Behave professionally. Harassment and sexist, racist, or exclusionary comments o
 Any participant who wishes to report a violation of this policy is asked to speak, in confidence, to any of the meeting organizers.
 
 All particpants are expected to additionally abide by the [CfA Meetings & Events Conduct Policy](https://www.cfa.harvard.edu/sites/default/files/2023-06/CfA-Meeting-Conduct-Policy.pdf).
+
+You can anonymously contact the organizers with any concern during the workshop by filling out [this form](https://forms.gle/YxPJckprX55dazDj8).
