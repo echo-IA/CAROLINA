@@ -1,9 +1,9 @@
 # echoIA LILAC Workshop
-May 6-10, 2024, hybrid
+September 15-19, 2025, hybrid
 
 ## Meeting coordinates
 
-* In-person: CfA, Harvard
+* In-person: Duke University
 * Virtual: Zoom link will be shared directly via the echoIA email list.
 
 ## Meeting documents
