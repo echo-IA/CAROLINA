@@ -1,4 +1,4 @@
-# echoIA LILAC Workshop
+# echoIA CAROLINA Workshop
 September 15-19, 2025, hybrid
 
 ## Meeting coordinates
