@@ -3,7 +3,6 @@ layout: default
 title: Logistics
 order: 2
 ---
-Due to generous support from the Harvard CfA and Northeastern, there is no registration fee and we will offer breakfast, lunch, and one dinner during the entire week (Monday - Friday). 
 
 - [Connection](#connection)
 - [Location](#location)
@@ -13,7 +12,7 @@ Due to generous support from the Harvard CfA and Northeastern, there is no regis
 - [Accessibility](#accessibility)
 
 # Connection
-Most communication during the workshop will happen through this slack space, which you can join via [this link](https://join.slack.com/t/lilac-a5l2263/shared_invite/zt-2hev6g1v8-uzerEd2eLuaKTNkfuvzFUA).
+Most communication during the workshop will happen through this slack space, which you can join via (will we have a slack space for this?)
 
 The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the [schedule](https://docs.google.com/spreadsheets/d/12cglkv1jQLbwjyGQMDEkFLyL5WSw4syAcb5dAUnvLD0/edit?usp=sharing).
 

@@ -6,11 +6,8 @@ layout: default
 title: Home
 order: 1
 ---
-<p align="center">
-  <img src="assets/images/promo_material_page-0001.jpg" alt="LILAC Conference" width="800">
-</p>
 
-We are excited to announce the latest installment of echoIA, **LILAC: Linking Intrinsic Alignments Across Collaborations** at the Center for Astrophysics \| Harvard & Smithsonian (CfA). The core meeting will take place from Monday, May 6th to Thursday, May 9th, 2024. On Friday, May 10, we will have a work/hack day to make progress on implementing models, simulation tools, and data sets. Activites on Friday will leverage discussion from earlier in the week and are ideal for sharing insights and experience relevant for multiple collaborations.
+We are excited to announce the latest installment of echoIA, **CAROLINA: Connecting Analyses and Research On Lensing and INtrinsic Alignments** at Duke University. The core meeting will take place from Monday, September 15th to Friday, September 19th, 2025. Activites on Friday will draw upon work completed over the course of the week, including final presentations, follow-up planning, and tag-ups.
 
 
 - [About](#about)
@@ -19,7 +16,7 @@ We are excited to announce the latest installment of echoIA, **LILAC: Linking In
 
 # About
 
-Characterizing IA is necessary for upcoming cosmological surveys to meet science requirements, and IA itself is best constrained through synergies across surveys, particularly between imaging and spectroscopic data. LILAC will convene members of cosmological surveys and theory/simulation groups working on the Intrinsic Alignment (IA) of galaxies. The workshop will include short talks by ECS, technical sessions, and overview talks. These "overview" talks are intended to be both a general introduction to aspects of IA and to stimulate discussion around recent advancements. Contact an organizer if you have a topic request or would like to give one of these overview talks. Most of the meeting time will be reserved for hands-on work and discussions, prioritizing cross-collaboration project incubation. Virtual options will be available for all talks and select work sessions. 
+Characterizing **I**ntrinsic **A**lignment (IA) is necessary for upcoming cosmological surveys to meet science requirements, and IA itself is best constrained through synergies across surveys, particularly between imaging and spectroscopic data. CAROLINA will convene members of cosmological surveys and theory/simulation groups working on the IA of galaxies. The workshop will include short talks by ECS, technical sessions, and overview talks. These "overview" talks are intended to be both a general introduction to aspects of IA and to stimulate discussion around recent advancements. Contact an organizer if you have a topic request or would like to give one of these overview talks. Most of the meeting time will be reserved for hands-on work and discussions, prioritizing cross-collaboration project incubation. Virtual options will be available for all talks and select work sessions. 
 
 This workshop is supported by [echo-IA](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts to coordinate the analysis of future measurements within a common framework.
 
@@ -27,19 +24,20 @@ This workshop is supported by [echo-IA](https://github.com/echo-IA), a community
 
 This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA in the registration form or by clicking this button:
 <p align="center">
-<a href="https://github.com/echo-IA/LILAC/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
+<a href="https://github.com/echo-IA/CAROLINA/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
 
-Proposed sessions can be found [here](https://github.com/echo-IA/LILAC/issues), please comment on the proposals to indicate your interest.
+Proposed sessions can be found [here](https://github.com/echo-IA/CAROLINA/issues), please comment on the proposals to indicate your interest.
 
 
 # Organizing Committee
 
+- [Niko Sarcevic](https://nikosarcevic.com/), Duke University
+- [Michael Troxel](https://scholars.duke.edu/person/michael.troxel), Duke University
+- [Susan Tierny](https://research.duke.edu/profile/susan-tierney/), Duke University
 - [Jonathan Blazek](https://cos.northeastern.edu/people/jonathan-blazek/), Northeastern University
 - [Benjamin Joachimi](http://www.star.ucl.ac.uk/~joachimi/), University College London
-- [Claire Lamman](https://astronomy.fas.harvard.edu/people/claire-lamman), Harvard University
-- [Daniel Eisenstein](https://astronomy.fas.harvard.edu/people/daniel-eisenstein), Harvard University
-- [Eske Pedersen](https://projects.iq.harvard.edu/stubbs/people/eske-pederson), Harvard University
-- [Niko Sarcevic](https://blogs.ncl.ac.uk/cosmology/group/), Newcastle University
+- [Bekah Polen](https://scholars.duke.edu/person/bekah.polen), Duke University
+- [Raul Teixeira](https://scholars.duke.edu/person/Raul.Gomez.del.Estal.Teixeira), Duke University
 
 
 # Code of Conduct
@@ -50,6 +48,6 @@ Behave professionally. Harassment and sexist, racist, or exclusionary comments o
 
 Any participant who wishes to report a violation of this policy is asked to speak, in confidence, to any of the meeting organizers.
 
-All particpants are expected to additionally abide by the [CfA Meetings & Events Conduct Policy](https://www.cfa.harvard.edu/sites/default/files/2023-06/CfA-Meeting-Conduct-Policy.pdf).
+All particpants are expected to additionally abide by the [Code of Conduct](https://docs.google.com/document/d/1KCEG1G-JyMLUKhte65HkV5z3WMLWg7v81fgH7mrdWkI/edit?tab=t.0), as well as the [Duke Community Standard](https://dukecommunitystandard.students.duke.edu#:~:text=To%20uphold%20the%20Duke%20Community,if%20the%20Standard%20is%20compromised.).
 
 You can anonymously contact the organizers with any concern during the workshop by filling out [this form](https://forms.gle/YxPJckprX55dazDj8).
