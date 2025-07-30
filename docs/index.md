@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Home
 order: 1
@@ -20,7 +17,7 @@ Characterizing **I**ntrinsic **A**lignment (IA) is necessary for upcoming cosmol
 
 This workshop is supported by [echo-IA](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts to coordinate the analysis of future measurements within a common framework.
 
-**Registration is closed, but participants can update their responses via [the registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgZdo5XGxEM3eLtiTYsqz63FvRK2678SgC50ngcrzq3n4yqA/viewform?usp=sf_link).**
+**[Registration](https://docs.google.com/forms/d/e/1FAIpQLSfTJhZRyLE55l-sz3Nv3eBi1b0ss4TErGtTSa5qn8mC5IQMhQ/closedform) is now closed.**
 
 This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA in the registration form or by clicking this button:
 <p align="center">
@@ -50,4 +47,4 @@ Any participant who wishes to report a violation of this policy is asked to spea
 
 All particpants are expected to additionally abide by the [Code of Conduct](https://docs.google.com/document/d/1KCEG1G-JyMLUKhte65HkV5z3WMLWg7v81fgH7mrdWkI/edit?tab=t.0), as well as the [Duke Community Standard](https://dukecommunitystandard.students.duke.edu#:~:text=To%20uphold%20the%20Duke%20Community,if%20the%20Standard%20is%20compromised.).
 
-You can anonymously contact the organizers with any concern during the workshop by filling out [this form](https://forms.gle/YxPJckprX55dazDj8).
+You can anonymously contact the organizers with any concern during the workshop by filling out [this form]().
