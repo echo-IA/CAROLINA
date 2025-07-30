@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: echoIA LILAC Workshop
-email: j.blazek@northeastern.edu
+title: echoIA CAROLINA Workshop
+email: nikolina.sarcevic@duke.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  May 6-10, 2024 (Center for Astrophysics | Harvard & Smithsonian)
-baseurl: "/LILAC" # the subpath of your site, e.g. /blog
+  September 15-19, 2025 (Duke University | Durham, North Carolina)
+baseurl: "/CAROLINA" # the subpath of your site, e.g. /blog
 url: "https://echo-IA.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: echo-IA
 
-git_address: https://github.com/echo-IA/LILAC
-git_edit_address: https://github.com/echo-IA/LILAC/edit/master/docs
+git_address: https://github.com/echo-IA/CAROLINA
+git_edit_address: https://github.com/echo-IA/CAROLINA/edit/master/docs
 
 
 # Build settings
