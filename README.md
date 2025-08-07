@@ -1,12 +1,11 @@
-# echoIA CAROLINA Workshop
-September 15-19, 2025, hybrid
+# echoIA CAROLINA Workshop  
+September 15–19, 2025 | Hybrid Format
 
-## Meeting coordinates
+## Location
 
-* In-person: Duke University
-* Virtual: Zoom link will be shared directly via the echoIA email list.
+- **In-person:** Duke University  
+- **Virtual:** Zoom link will be shared via the echoIA mailing list.
 
-## Meeting documents
-* Participant one-slide introductions: 
-* Project pitch slide deck: 
-* Live notes pdf: 
+## Website
+
+➡️ [https://echo-ia.github.io/CAROLINA/](https://echo-ia.github.io/CAROLINA/)
