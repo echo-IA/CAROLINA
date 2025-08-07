@@ -15,7 +15,7 @@ order: 5
   <tbody>
     <tr>
       <td>1</td>
-      <td>Alex Alexandra</td>
+      <td>Alex Amon</td>
       <td>Princeton</td>
       <td>In Person</td>
     </tr>
@@ -99,7 +99,7 @@ order: 5
     </tr>
     <tr>
       <td>15</td>
-      <td>Kun Xu Kun</td>
+      <td>Kun Xu</td>
       <td>University of Pennsylvania</td>
       <td>In Person</td>
     </tr>
@@ -183,7 +183,7 @@ order: 5
     </tr>
     <tr>
       <td>29</td>
-      <td>Raul Teixeira Gomez del Estal Teixeira</td>
+      <td>Raul Teixeira</td>
       <td>Duke University</td>
       <td>In Person</td>
     </tr>
@@ -206,20 +206,14 @@ order: 5
       <td>In Person</td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>Casper Vedder</td>
-      <td>Leiden University</td>
-      <td>In Person</td>
-    </tr>
-    <tr>
       <td>34</td>
-      <td>Jiachuan XU</td>
+      <td>Jiachuan Xu</td>
       <td>Northeastern University</td>
       <td>In Person</td>
     </tr>
     <tr>
       <td>35</td>
-      <td>Zepei Yang Yang</td>
+      <td>Zepei Yang</td>
       <td>Northeastern University</td>
       <td>In Person</td>
     </tr>
@@ -231,7 +225,7 @@ order: 5
     </tr>
     <tr>
       <td>37</td>
-      <td>sandrine codis codis</td>
+      <td>Sandrine Codis</td>
       <td>CNRS/AIM</td>
       <td>In Person</td>
     </tr>
