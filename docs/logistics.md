@@ -9,7 +9,7 @@ order: 2
 - [Travel](#travel)
 - [Weather](#weather)
 - [Accomodation](#accomodation)
-- [Funding](#Funding)
+- [Funding](#funding)
 - [Emergency Contacts](#emergency-contacts)
 
 # Connection
