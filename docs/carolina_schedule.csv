@@ -1,4 +1,4 @@
-Day,Time (EST),Location,Event,Speaker,Slides / Notes,Recording
+Day,Time (EDT),Location,Event,Speaker,Slides / Notes,Recording
 Monday,09:00–09:30,Room 1 or Lounge,Coffee & Arrival,,,
 Monday,09:30–10:00,Room 1,Welcome & Overview,,,
 Monday,10:00–11:00,Room 1,Brief Introductions,,,
@@ -20,7 +20,8 @@ Wednesday,09:00–09:30,Room 1,Coffee & Arrival,,,
 Wednesday,09:30–10:30,Room 1,Simulations Overview,,,
 Wednesday,10:30–11:30,Room 1,Flash Talks: Sim Tools,,,
 Wednesday,11:30–12:30,Room 1,Breakout Plan Update,,,
-Wednesday,12:30–13:30,Hallway,Lunch,,,
+Wednesday,12:30-12:35,Room 1,Group Photo!,,,
+Wednesday,12:35–13:30,Hallway,Lunch,,,
 Wednesday,13:30–16:30,Various,Work Time & Hack Sessions,,,
 Wednesday,16:30–17:00,Room 1,Tag-up,,,
 ,,,,,,
