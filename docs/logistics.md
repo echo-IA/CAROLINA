@@ -70,7 +70,7 @@ Funding is available and the participants who asked for funding have been contac
 
 # Emergency Contacts
 
-* **On-site contact**: Nikolina Šarčević (+19193533389 or +447306126057, nikolina.sarcevic@duke.edu)
+* **On-site contact**: Nikolina Šarčević (nikolina.sarcevic@duke.edu)
 * **Duke University Campus Police**: +19196842444 (non-emergency)
 * **Emergency**: 911
 * **Medical**: Duke Urgent Care or Duke University Hospital Emergency Room
