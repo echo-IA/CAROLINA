@@ -178,7 +178,7 @@ Participants are welcome to meet/work before and after the scheduled events. The
 </tr>
 <tr>
 <td>Wednesday</td>
-<td>12:30–13:30</td>
+<td>12:35–13:30</td>
 <td>Hallway</td>
 <td>Lunch</td>
 <td>--</td>
