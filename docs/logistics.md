@@ -6,9 +6,10 @@ order: 2
 
 - [Connection](#connection)
 - [Location](#location)
-- [Accomodation](#accomodation)
 - [Travel](#travel)
 - [Weather](#weather)
+- [Accomodation](#accomodation)
+- [Funding](#Funding)
 - [Emergency Contacts](#emergency-contacts)
 
 # Connection
@@ -59,6 +60,13 @@ Here are some reccomended hotels in the area:
 **Note:** During hotel checkout, be sure to **ask for an itemized receipt** (with your name, dates, and total amount). This is often **required for reimbursement**, especially by university or DOE policies. Even if you booked online, some funders (like DESC or Duke) may request this specific checkout receipt as proof of stay.
 
 Airbnb is also an option: **Duke** is able to reimburse Airbnbs, as long as the receipt includes your name, dates, and full cost. Be sure to save your confirmation email and final receipt for reimbursement.
+
+# Funding
+
+Funding is available and the participants who asked for funding have been contacted. If you have any questions or concerns regarding funding, please contact Niko or Susan. 
+
+* **Niko**:  nikolina.sarcevic@duke.edu
+* **Susan**: susan.tierney@duke.edu
 
 # Emergency Contacts
 
