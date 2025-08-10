@@ -1,4 +1,4 @@
-# echoIA CAROLINA Workshop  
+# CAROLINA: echoIA Workshop  
 September 15–19, 2025 | Hybrid Format
 
 ## Location
