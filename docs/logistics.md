@@ -32,8 +32,6 @@ Alternative work spaces: the Physics Building is located at 120 Science Dr, a sh
   <img src="assets/images/map_labelled.png" alt="CAROLINA Conference" width="800">
 </p>
 
-Change this image to a map of center for health education ^
-
 # Travel
 
 The nearest airport is [Raleigh-Durham (RDU)](https://www.rdu.com/maps-and-directions/). 
