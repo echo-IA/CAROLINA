@@ -8,20 +8,17 @@ order: 2
 - [Location](#location)
 - [Accomodation](#accomodation)
 - [Travel](#travel)
-- [Workshop Materials](#workshop-materials)
+- [Weather](#weather)
+- [Emergency Contacts](#emergency-contacts)
 
 # Connection
-Most communication during the workshop will happen through this slack space, which you can join via (create slack space!)
+Most communication during the workshop will happen through this slack space, which you can join via [this invitation](https://join.slack.com/t/carolina-vu97066/shared_invite/zt-3awy7k1c6-rCuP70LrdJ98lxJBLGw0Uw).
 
-The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the [schedule](https://docs.google.com/spreadsheets/d/1MzWjizfxwfxuQwbc8JpLRSLAT5XSdYw--pe49tZjV_s/edit?usp=sharing).
+The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the [ZOOM ROOM]().
 
 If you would like to be added to the echo-IA github organization, which will host echo-IA-related repositories, please enter your github username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).
 
 While all scheduled talks will be streamed, not all work sessions will have a virtual option and some may be only virtual. As the workshop is intented to be highly interactive and self-organized, the in-person/online availability will depend on the organizers of individual sessions and the level of interest.
-
-Recordings of sessions and slides / notes will be added to the [schedule](https://docs.google.com/spreadsheets/d/1MzWjizfxwfxuQwbc8JpLRSLAT5XSdYw--pe49tZjV_s/edit?usp=sharing).
-
-More regarding the logistics of this workshop including restaurant recommendations, things to do around Durham, weather and emergency contact information, and information regarding the DESC Forecasting / Intrinsic Alignment Workshop the preceeding week can be found [here](https://docs.google.com/document/d/1wRNW-F0kugHyQtSf4kbNp_56vq0bwQDVyoOChMNkFNM/edit?usp=sharing). 
 
 # Location 
 
@@ -32,7 +29,7 @@ The main workshop sessions will take place in this building on **the fourth floo
 Alternative work spaces: the Physics Building is located at 120 Science Dr, a short walk from the Center for Health Education. In addition, the Perkins and Bostock Libraries are nearby and unlocked during the day. We additionally encourage virtual participants to liberally connect over slack and virtual breakout rooms.
 
 <p align="center">
-  <img src="assets/images/cfa_map.png" alt="LILAC Conference" width="800">
+  <img src="assets/images/map_labelled.png" alt="CAROLINA Conference" width="800">
 </p>
 
 Change this image to a map of center for health education ^
@@ -43,6 +40,9 @@ The nearest airport is [Raleigh-Durham (RDU)](https://www.rdu.com/maps-and-direc
 
 In addition to Uber / Lyft, there are some public transport options around the Research Triangle. The GoTriangle bus system (for transportation between Durham, Chapel Hill, and Raleigh) currently charges [fare](https://gotriangle.org/fares-passes). However, within Durham, the GoDurham bus system and the Duke University bus system are **free**. 
 
+# Weather
+
+Weather in central North Carolina in mid-September is around [75–85°F (24-30°C)](https://www.usclimatedata.com/climate/durham/north-carolina/united-states/usnc0192), and generally quite humid. Bring a water bottle and light clothes. 
 
 # Accomodation
 
@@ -62,8 +62,9 @@ Here are some reccomended hotels in the area:
 
 Airbnb is also an option: **Duke** is able to reimburse Airbnbs, as long as the receipt includes your name, dates, and full cost. Be sure to save your confirmation email and final receipt for reimbursement.
 
+# Emergency Contacts
 
-# Workshop Materials
-Links to recordings and slides will be posted in the live [schedule](https://docs.google.com/spreadsheets/d/1MzWjizfxwfxuQwbc8JpLRSLAT5XSdYw--pe49tZjV_s/edit?usp=sharing).
-
-
+* **On-site contact**: Nikolina Šarčević (+19193533389 or +447306126057, nikolina.sarcevic@duke.edu)
+* **Duke University Campus Police**: +19196842444 (non-emergency)
+* **Emergency**: 911
+* **Medical**: Duke Urgent Care or Duke University Hospital Emergency Room
