@@ -65,7 +65,7 @@ All particpants are expected to additionally abide by the [Duke Community Standa
 
 # Anonymous Comment Form
 
-You can anonymously contact the organizers with any concern during the workshop by filling out [this form]().
+You can anonymously contact the organizers with any concern during the workshop by filling out [this form](https://forms.gle/f4wto4tNnHg6iG9K7).
 
 
 
