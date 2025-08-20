@@ -73,7 +73,7 @@ order: 5
       <td>9</td>
       <td>Elizabeth Gonzalez</td>
       <td>PIC-IFAE</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>10</td>
@@ -115,7 +115,7 @@ order: 5
       <td>16</td>
       <td>Elisa Legnani</td>
       <td>IFAE Barcelona</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>17</td>
@@ -133,13 +133,13 @@ order: 5
       <td>19</td>
       <td>Dennis Neumann</td>
       <td>Leiden Observatory</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>20</td>
       <td>Rylee Palos</td>
       <td>University of Texas at Dallas</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>21</td>
@@ -151,7 +151,7 @@ order: 5
       <td>22</td>
       <td>Romain Paviot</td>
       <td>CNES CEA Saclay</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>23</td>
@@ -163,7 +163,7 @@ order: 5
       <td>24</td>
       <td>Susan Pyne</td>
       <td>University College London</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>25</td>
@@ -187,7 +187,7 @@ order: 5
       <td>28</td>
       <td>Leonor Simoes</td>
       <td>UCL</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>29</td>
@@ -211,7 +211,7 @@ order: 5
       <td>32</td>
       <td>Casper Vedder</td>
       <td>Leiden University</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>34</td>
@@ -235,13 +235,13 @@ order: 5
       <td>37</td>
       <td>Sandrine Codis</td>
       <td>CNRS/AIM</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
     <tr>
       <td>38</td>
       <td>Marloes van Heukelum</td>
       <td>Utrecht University</td>
-      <td>In Person</td>
+      <td>Online</td>
     </tr>
   </tbody>
 </table>
