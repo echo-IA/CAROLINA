@@ -4,7 +4,6 @@ title: Home
 order: 1
 ---
 
-<p align="center"><img src="output_data/logo_output/carolina_logo_text.jpg" width="300"></p><br>
 
 We are excited to announce the latest installment of echoIA,
 **CAROLINA: Connecting Analyses and Research On Lensing and INtrinsic Alignments** at Duke University. 
@@ -18,7 +17,14 @@ follow-up planning, and tag-ups.
 
 # About
 
-Characterizing **I**ntrinsic **A**lignment (IA) is necessary for upcoming cosmological surveys to meet science 
+Intrinsic Alignments (IA) refer to the tendency of galaxies to have correlated shapes or orientations because of
+the large-scale tidal fields in which they form. Unlike gravitational lensing, which distorts galaxy shapes due
+to intervening matter along the line of sight, IA arises from the galaxies’ own formation and environment. 
+For those seeking a deeper dive into IA, check out *The IA Guide: A Breakdown of Intrinsic Alignment Formalisms* —
+a comprehensive and approachable overview available on arXiv: [2309.08605](https://arxiv.org/abs/2309.08605).
+
+
+Characterizing intrinsic alignments is necessary for upcoming cosmological surveys to meet science 
 requirements, and IA itself is best constrained through synergies across surveys, particularly between imaging
 and spectroscopic data. CAROLINA will convene members of cosmological surveys and theory/simulation groups working
 on the IA of galaxies. The workshop will include short talks, technical sessions, and overview talks. 
