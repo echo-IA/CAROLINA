@@ -5,22 +5,41 @@ order: 2
 ---
 
 - [Connection](#connection)
+- [Wi-Fi](#wi-fi)
 - [Location](#location)
 - [Travel](#travel)
 - [Weather](#weather)
 - [Accomodation](#accomodation)
 - [Funding](#funding)
+- [Accessibility](#accessibility)
+- [Insurance](#insurance)
 - [Emergency Contacts](#emergency-contacts)
 
+---
+
 # Connection
-Most communication during the workshop will happen through this slack space, which you can join via [this invitation](https://join.slack.com/t/carolina-vu97066/shared_invite/zt-3awy7k1c6-rCuP70LrdJ98lxJBLGw0Uw).
+Most communication during the workshop will happen through this slack space, which you can join via
+[this invitation](https://join.slack.com/t/carolina-vu97066/shared_invite/zt-3awy7k1c6-rCuP70LrdJ98lxJBLGw0Uw).
 
-The workshop will be held in person and online. Zoom connection info will be made available to participants using the echoIA email list (in Google groups) and on the [ZOOM ROOM]().
+The workshop will be held in person and online. Zoom connection info will be made available to participants using
+the echoIA email list (in Google groups) and on the [ZOOM ROOM (TBA)]().
 
-If you would like to be added to the echo-IA github organization, which will host echo-IA-related repositories, please enter your github username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).
+If you would like to be added to the echo-IA github organization, which will host echo-IA-related repositories,
+please enter your github username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).
 
-While all scheduled talks will be streamed, not all work sessions will have a virtual option and some may be only virtual. As the workshop is intented to be highly interactive and self-organized, the in-person/online availability will depend on the organizers of individual sessions and the level of interest.
+While all scheduled talks will be streamed, not all work sessions will have a virtual option and some may be only
+virtual. As the workshop is intented to be highly interactive and self-organized, the in-person/online availability
+will depend on the organizers of individual sessions and the level of interest.
 
+---
+# Wi-Fi
+
+Duke University offers free Wi-Fi through **[DukeVisitor](https://oit.duke.edu/service/dukevisitor-network/)**
+and **[Eduroam](https://oit.duke.edu/service/eduroam/)**.  
+- **[Eduroam](https://oit.duke.edu/service/eduroam/)**: Available for participants from institutions that support Eduroam — log in with your home institution credentials.  
+- **[DukeVisitor](https://oit.duke.edu/service/dukevisitor-network/)**: Free guest access available on campus; follow the prompts to connect when selecting the network.
+
+---
 # Location 
 
 The CAROLINA Workshop will be held at the Mary Duke Biddle Trent Semans Center for Health Education,
@@ -36,12 +55,14 @@ Alternative work spaces: the Physics Building is located at 120 Science Dr, a sh
   <img src="assets/images/map_labelled.png" alt="CAROLINA Conference" width="800">
 </p>
 
+---
 # Travel
 
 The nearest airport is [Raleigh-Durham (RDU)](https://www.rdu.com/maps-and-directions/). 
 
 In addition to Uber / Lyft, there are some public transport options around the Research Triangle. The GoTriangle bus system (for transportation between Durham, Chapel Hill, and Raleigh) currently charges [fare](https://gotriangle.org/fares-passes). However, within Durham, the GoDurham bus system and the Duke University bus system are **free**. 
 
+---
 # Weather
 
 In mid-September, central North Carolina typically experiences warm and humid conditions,
@@ -49,6 +70,7 @@ with average daytime temperatures ranging from [75–85°F (24–30°C)](https:/
 We recommend bringing a reusable water bottle and light clothing to stay comfortable outdoors.
 Indoor venues in the U.S. are often air-conditioned, so packing an extra layer is advisable.
 
+---
 # Accomodation
 
 Here are some reccomended hotels in the area:
@@ -62,7 +84,7 @@ Here are some reccomended hotels in the area:
 
 **Note:** During hotel checkout, be sure to **ask for an itemized receipt** (with your name, dates, and total amount). This is often **required for reimbursement**, especially by university or DOE policies. Even if you booked online, some funders (like DESC or Duke) may request this specific checkout receipt as proof of stay.
 
-
+---
 # Funding
 
 Funding is available and the participants who asked for funding have been contacted. If you have any questions or concerns regarding funding, please contact Niko or Susan. 
@@ -70,6 +92,21 @@ Funding is available and the participants who asked for funding have been contac
 * **Niko**:  nikolina.sarcevic@duke.edu
 * **Susan**: susan.tierney@duke.edu
 
+---
+# Accessibility
+
+The workshop venue is wheelchair accessible.
+If you have additional accessibility needs (e.g., mobility, vision, hearing, or other accommodations),
+please let the organizers know in advance so we can provide support.
+
+---
+# Insurance
+
+Participants are expected to arrange their own travel and medical insurance through their home institutions.
+The organizers cannot assume responsibility for individual coverage or expenses related to travel disruptions,
+illness, or medical care during the workshop.
+
+---
 # Emergency Contacts
 
 * **On-site contact**: Nikolina Šarčević (nikolina.sarcevic@duke.edu)

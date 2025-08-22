@@ -10,9 +10,13 @@ order: 8
 
 # Code of Conduct
 
-The DESC IA/Forecasting and CAROLINA (echoIA) Workshops are committed to creating a work environment that is safe, professional, and grounded in mutual trust — one where diversity and inclusion are valued, and where everyone is entitled to be treated with courtesy and respect. These workshops bring together people from many backgrounds, and it is through this diversity of skills, identities, and experiences that our community grows and thrives. 
+The CAROLINA (echoIA) Workshop is committed to creating a work environment that is safe, professional, and grounded
+in mutual trust — one where diversity and inclusion are valued, and where everyone is entitled to be treated
+with courtesy and respect. These workshops bring together people from many backgrounds, and it is through this 
+diversity of skills, identities, and experiences that our community grows and thrives. 
 
-The organizing teams are committed to making the workshops and all associated activities productive and enjoyable for everyone.
+The organizing teams are committed to making the workshops and all associated activities productive and enjoyable
+for everyone.
 
 **As members of the community, we pledge:**
 
@@ -51,11 +55,11 @@ This Code of Conduct is licensed under the **Creative Commons Attribution-ShareA
 
 This document draws language and structure from:
 
-* Cosmology from Home
-* European Southern Observatory conference code of conduct
-* Python Software Foundation
-* Astro Hack Week 2017
-* Astropy Project Code of Conduct
+- Cosmology from Home code of conduct, licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License
+- The European Southern Observatory conference code of conduct, licensed under a Creative Commons zero license for reuse.
+- The Python Software Foundation code of conduct, licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+- The Astro Hack Week 2017 code of conduct, licensed under a Creative Commons Attribution 4.0 International License.
+- The Astropy code of conduct, licensed under a Creative Commons Attribution 4.0 International License.
 
 --------------------
 
