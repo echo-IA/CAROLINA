@@ -22,39 +22,90 @@
   {% endif %}
 
   <style>
+    /* ----- COLOR VARIABLES ----- */
+    :root {
+      --duke: #00539B;
+      --persimmon: #E89923;
+      --piedmont: #A1B70D;
+      --white: #ffffff;
+    }
+
+    /* ----- GLOBAL FONT ----- */
+    body, h1, h2, h3, h4, h5, h6, p, a, li, nav, footer {
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, Trebuchet MS, sans-serif;
+    }
+
     /* ----- HEADER ----- */
     .duke-header {
-      background-color: #00539B;  /* Duke navy */
+      background-color: var(--duke);
       text-align: center;
       padding: 1.5rem 1rem 0.5rem 1rem;
     }
 
     .site-logo {
-      max-width: 280px;  /* scale logo */
+      max-width: 280px;
       height: auto;
       display: block;
       margin: 0 auto 1rem auto;
     }
 
+    /* ----- NAVBAR ----- */
     .duke-header .nav-link {
-      color: #ffffff !important;
+      color: var(--white) !important;
       font-size: 1.1rem;
       margin: 0 0.75rem;
     }
 
     .duke-header .nav-item.active .nav-link {
       font-weight: bold;
-      text-decoration: underline;
+      border-bottom: 2px solid var(--persimmon);
+      text-decoration: none;
+    }
+
+    /* ----- LINKS ----- */
+    a {
+      color: var(--duke);
+    }
+    a:hover, a:focus {
+      color: var(--persimmon);
+      text-decoration: none;
+    }
+
+    /* ----- BUTTONS ----- */
+    .btn-info {
+      background-color: var(--persimmon) !important;
+      border-color: var(--persimmon) !important;
+    }
+    .btn-info:hover {
+      background-color: var(--piedmont) !important;
+      border-color: var(--piedmont) !important;
     }
 
     /* ----- HEADINGS ----- */
     h1, h2, h3, h4, h5, h6 {
-      color: #3366cc !important;
+      color: var(--duke) !important;
     }
 
     /* ----- MAIN CONTENT ----- */
     main#content {
       text-align: justify;
+      margin-top: 1.5rem;
+    }
+
+    /* ----- FOOTER ----- */
+    .site-footer {
+      background-color: var(--piedmont);
+      color: var(--white);
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .site-footer a {
+      color: var(--white);
+      text-decoration: underline;
+    }
+    .site-footer a:hover {
+      color: var(--persimmon);
     }
   </style>
 </head>
