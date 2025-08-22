@@ -4,7 +4,7 @@ title: Registration
 order: 6
 ---
 
-**Registration has ended**
+**Registration is now closed.**
 
 However, there are still a limited number of virtual spots available.  
 If you are interested, please contact **Niko Sarcevic** at [nikolina.sarcevic@duke.edu](mailto:nikolina.sarcevic@duke.edu).  
