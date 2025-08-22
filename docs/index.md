@@ -4,6 +4,8 @@ title: Home
 order: 1
 ---
 
+<p align="center"><img src="output_data/logo_output/carolina_logo_text.jpg" width="300"></p><br>
+
 We are excited to announce the latest installment of echoIA,
 **CAROLINA: Connecting Analyses and Research On Lensing and INtrinsic Alignments** at Duke University. 
 The core meeting will take place from Monday, September 15th to Friday, September 19th, 2025. 
@@ -25,7 +27,7 @@ around recent advancements. Contact an organizer if you have a topic request or 
 overview talks. Most of the meeting time will be reserved for hands-on work and discussions, prioritizing 
 cross-collaboration project incubation. Virtual options will be available for all talks and select work sessions. 
 
-CAROLINA workshop is supported by [echo-IA](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts
+CAROLINA workshop is supported by [echo-IA (Enabling Cosmology with Homogenized Observations of Intrinsic Alignments)](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts
 to coordinate the analysis of future measurements within a common framework.
 
 This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA in the registration form or by clicking this button:
