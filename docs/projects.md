@@ -12,9 +12,12 @@ and coordination across surveys.
 
 You can suggest a topic directly in the registration form or by clicking the button below:  
 
-<p align="center">
-<a href="https://github.com/echo-IA/CAROLINA/issues/new/choose" class="btn btn-info">Propose a discussion,hack, or project</a>
-</p>
+<div class="text-center my-3">
+  <a href="https://github.com/echo-IA/CAROLINA/issues/new/choose"
+     class="btn btn-info btn-lg">
+     Propose a discussion, hack, or project
+  </a>
+</div>
 
 All proposed sessions can be found [here](https://github.com/echo-IA/CAROLINA/issues).  
 Please comment on the proposals to indicate your interest or to suggest related ideas—this helps us
