@@ -58,9 +58,15 @@ Alternative work spaces: the Physics Building is located at 120 Science Dr, a sh
 ---
 # Travel
 
+
 The nearest airport is [Raleigh-Durham (RDU)](https://www.rdu.com/maps-and-directions/). 
 
-In addition to Uber / Lyft, there are some public transport options around the Research Triangle. The GoTriangle bus system (for transportation between Durham, Chapel Hill, and Raleigh) currently charges [fare](https://gotriangle.org/fares-passes). However, within Durham, the GoDurham bus system and the Duke University bus system are **free**. 
+In addition to Uber / Lyft, some hotels also provide shuttle services to Duke,
+so be sure to check if your booked hotel offers this option. 
+There are also public transport options around the Research Triangle.
+The GoTriangle bus system (for transportation between Durham, Chapel Hill, and Raleigh) currently
+charges [fare](https://gotriangle.org/fares-passes). 
+However, within Durham, the GoDurham bus system and the Duke University bus system are **free**. 
 
 ---
 # Weather
