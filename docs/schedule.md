@@ -13,12 +13,6 @@ The Mary Duke Biddle Trent Semans Center for Health Education is typically open 
 during the week.
 All times are in EDT and the in-person location is the Center for Health Education unless otherwise marked.
 
-<h2 class="schedule-day day-theory">TEST THEME</h2>
-<table class="schedule-table day-theory">
-  <thead><tr><th>Time</th><th>Event</th></tr></thead>
-  <tbody><tr><td>10:00</td><td>Color Check</td></tr></tbody>
-</table>
-
 
 ---
 
@@ -34,7 +28,6 @@ All times are in EDT and the in-person location is the Center for Health Educati
 <br>
 
 ---
-
 <h2 id="monday" class="schedule-day day-observations">Monday</h2>
 <table class="schedule-table day-observations">
   <thead>
@@ -67,7 +60,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>--</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Simulations Overview</td><td>TBA</td></tr><tr><td>10:30–11:30</td><td>Room 1</td><td>Flash Talks: Sim Tools</td><td>TBA</td></tr><tr><td>11:30–12:30</td><td>Room 1</td><td>Breakout Plan Update</td><td>TBA</td></tr><tr><td>12:30-12:35</td><td>Room 1</td><td>Group Photo!</td><td>all</td></tr><tr><td>12:35–13:30</td><td>Hallway</td><td>Lunch</td><td>--</td></tr><tr><td>13:30–16:30</td><td>Various</td><td>Work Time &amp; Hack Sessions</td><td>all</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Tag-up</td><td>all</td></tr>
+    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>--</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Simulations Overview</td><td>TBA</td></tr><tr><td>10:30–11:30</td><td>Room 1</td><td>Flash Talks: Sim Tools</td><td>TBA</td></tr><tr><td>11:30–12:30</td><td>Room 1</td><td>Breakout Plan Update</td><td>TBA</td></tr><tr><td>12:30-12:35</td><td>Room 1</td><td>Group Photo!</td><td>all</td></tr><tr><td>12:35–13:30</td><td>Hallway</td><td>Lunch</td><td>--</td></tr><tr><td>13:30–16:30</td><td>Various</td><td>Work Time &amp; Hack Sessions</td><td>all</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Tag-up</td><td>all</td></tr><tr><td>18:00–20:00</td><td>X Restaurant</td><td>Group dinner</td><td>all</td></tr>
   </tbody>
 </table>
 
