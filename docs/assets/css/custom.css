@@ -66,7 +66,6 @@ main#content h4, main#content h5, main#content h6 {
 }
 
 /* ----- SCHEDULE TABLES ----- */
-/* ----- SCHEDULE TABLES ----- */
 .schedule-day {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
@@ -82,14 +81,16 @@ main#content h4, main#content h5, main#content h6 {
 }
 
 .schedule-table {
-  width: 100%;
-  border-collapse: collapse;
-  table-layout: fixed;        /* <-- ADD THIS */
+  width: 100% !important;
+  border-collapse: collapse !important;
+  border-spacing: 0 !important;  /* <-- kill any spacing that looks like extra columns */
+  table-layout: fixed !important;  /* keep 4 equal columns */
   margin-bottom: 2rem;
   font-size: 0.95em;
   color: var(--white);
   border-radius: 8px;
   overflow: hidden;
+  display: table !important;  /* <-- force back to table if theme overrides to block */
 }
 
 .schedule-table th,
@@ -97,9 +98,10 @@ main#content h4, main#content h5, main#content h6 {
   padding: 0.6rem 0.8rem;
   border: 1px solid rgba(255,255,255,0.3);
   vertical-align: top;
-  white-space: normal;        /* <-- ADD THIS */
-  word-break: break-word;     /* <-- AND THIS */
+  white-space: normal;
+  word-break: break-word;
 }
+
 .schedule-table thead th { font-weight: 700; }
 
 /* Day colors (apply to both the heading and the table) */
