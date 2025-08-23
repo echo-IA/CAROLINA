@@ -27,11 +27,11 @@ for everyone.
 * To respect each other’s privacy and rights to their image and intellectual property. Always ask permission before sharing photos, screenshots, recordings, or personal content.
 
 
-**Consequences**
+## Consequences
 
 If violations of this code of conduct are reported, the organizing team may take appropriate action, which may include a warning or removal from the workshop without refund. Harassment, intimidation, or repeated disrespectful behavior will not be tolerated.
 
-**Scope**
+## Scope
 
 This Code of Conduct applies to all participants, including:
 * Speakers
@@ -47,11 +47,11 @@ It applies in all official workshop settings, including:
 
 --------------------
 
-**License & Attribution**
+## License & Attribution
 
 This Code of Conduct is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License.
 
-**Attributions:**
+## Attributions
 
 This document draws language and structure from:
 

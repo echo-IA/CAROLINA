@@ -40,7 +40,7 @@ to coordinate the analysis of future measurements within a common framework.
 
 # Organizing Committee
 
-- [Niko Sarcevic](https://nikosarcevic.com/), Duke University
+- [Niko Šarčević](https://nikosarcevic.com/), Duke University
 - [Jonathan Blazek](https://cos.northeastern.edu/people/jonathan-blazek/), Northeastern University
 - [Benjamin Joachimi](http://www.star.ucl.ac.uk/~joachimi/), University College London
 - [Michael Troxel](https://scholars.duke.edu/person/michael.troxel), Duke University
