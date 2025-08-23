@@ -32,10 +32,10 @@
 
     /* ----- GLOBAL FONT & BASE SIZE ----- */
   body {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, Trebuchet MS, sans-serif;
-    font-size: 18px;     /* bump default text size */
+    font-family: "DejaVu Sans", "DejaVu Sans Mono", Calibri, Trebuchet MS, sans-serif;
+    font-size: 22px;     /* bump default text size */
     line-height: 1.6;    /* improve readability */
-    color: #000;         /* optional: set default text color */
+    color: #333333;         /* optional: set default text color */
   }
   h1 { font-size: 2.2rem; }  /* ~40px when body is 18px */
   h2 { font-size: 1.8rem; }  /* ~32px */
@@ -113,6 +113,13 @@
     }
     .site-footer a:hover {
       color: var(--persimmon);
+    }
+    .site-footer,
+    .site-footer span,
+    .site-footer p,
+    .site-footer a,
+    .site-footer-credits {
+      color: var(--white) !important;
     }
   </style>
 </head>

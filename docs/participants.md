@@ -5,7 +5,7 @@ order: 5
 ---
 
 <details>
-  <summary><strong>Mini menu</strong></summary>
+  <summary><strong>Menu</strong></summary>
   <ul>
   <li><a href="#statistics">Statistics</a></li>
   <li><a href="#participants">Participants</a></li>
