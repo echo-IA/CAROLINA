@@ -160,3 +160,19 @@ main#content h1, main#content h2, main#content h3 { margin-top: 1.25rem; }
 .site-footer, .site-footer * { color: var(--white) !important; }
 .site-footer a:link, .site-footer a:visited { color: var(--white) !important; }
 .site-footer a:hover, .site-footer a:active { color: var(--persimmon) !important; }
+
+/* ----- CUSTOM NAV (always visible) ----- */
+.duke-nav .nav-link {
+  color: #fff !important;
+  font-size: 1.1rem;
+}
+.duke-nav .nav-item.active .nav-link {
+  font-weight: bold;
+  border-bottom: 2px solid var(--persimmon);
+}
+.duke-nav .nav {
+  gap: .5rem 1rem; /* spacing between links */
+  flex-wrap: wrap; /* allow wrapping on small screens */
+  justify-content: center;
+}
+
