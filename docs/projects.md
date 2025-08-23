@@ -1,0 +1,21 @@
+---
+layout: default
+title: Projects
+order: 5
+---
+
+This workshop is intended to be a collaborative and productive event.  
+We invite participants to propose topics for focused discussion and work sessions (sprints),
+as well as areas for ongoing collaboration within echoIA.
+Proposals can range from technical challenges and coding hacks to broader science discussions
+and coordination across surveys.  
+
+You can suggest a topic directly in the registration form or by clicking the button below:  
+
+<p align="center">
+<a href="https://github.com/echo-IA/CAROLINA/issues/new/choose" class="btn btn-info">Propose a discussion,hack, or project</a>
+</p>
+
+All proposed sessions can be found [here](https://github.com/echo-IA/CAROLINA/issues).  
+Please comment on the proposals to indicate your interest or to suggest related ideas—this helps us
+plan the schedule around community priorities.

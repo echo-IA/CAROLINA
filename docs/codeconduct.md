@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code of Conduct
-order: 8
+order: 7
 ---
 
 - [Code of Conduct](#code-of-contact)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schedule
-order: 2
+order: 3
 ---
 
 # Schedule

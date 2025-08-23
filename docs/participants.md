@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Participants
-order: 5
+order: 4
 ---
 
 <details>
