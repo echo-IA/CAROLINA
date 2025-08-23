@@ -27,7 +27,7 @@ git_edit_address: https://github.com/echo-IA/CAROLINA/edit/master/docs
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
