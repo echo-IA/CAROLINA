@@ -47,7 +47,7 @@ It applies in all official workshop settings, including:
 
 --------------------
 
-## License & Attribution
+## License
 
 This Code of Conduct is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License.
 
@@ -66,6 +66,8 @@ This document draws language and structure from:
 # Duke Community Standard
 
 All particpants are expected to additionally abide by the [Duke Community Standard](https://dukecommunitystandard.students.duke.edu#:~:text=To%20uphold%20the%20Duke%20Community,if%20the%20Standard%20is%20compromised.).
+
+--------------------
 
 # Anonymous Comment Form
 
