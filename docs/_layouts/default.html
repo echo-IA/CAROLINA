@@ -125,10 +125,32 @@
     }
 
     /* ----- MAIN CONTENT ----- */
-    main#content {
-      text-align: justify;
-      margin-top: 1.5rem;
-    }
+main#content {
+  max-width: 900px;      /* limit line length */
+  margin: 2rem auto;     /* center content block */
+  padding: 0 1rem;       /* small side padding on mobile */
+  text-align: left;      /* default align left */
+}
+
+/* Only justify paragraphs */
+main#content p {
+  text-align: justify;
+  text-justify: inter-word; /* nicer spacing where supported */
+}
+
+/* Lists should stay left-aligned */
+main#content ul,
+main#content ol {
+  text-align: left;
+  margin-left: 1.25rem;
+}
+
+/* Optional: tidy heading spacing */
+main#content h1,
+main#content h2,
+main#content h3 {
+  margin-top: 1.25rem;
+}
 
     /* ----- FOOTER ----- */
     .site-footer {
