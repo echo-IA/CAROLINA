@@ -6,7 +6,7 @@ order: 5
 
 This workshop is intended to be a collaborative and productive event.  
 We invite participants to propose topics for focused discussion and work sessions (sprints),
-as well as areas for ongoing collaboration within echoIA.
+as well as areas for ongoing collaboration within echo-IA.
 Proposals can range from technical challenges and coding hacks to broader science discussions
 and coordination across surveys.  
 

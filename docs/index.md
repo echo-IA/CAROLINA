@@ -4,7 +4,7 @@ title: Home
 order: 1
 ---
 
-We are excited to announce the latest installment of **echoIA**, **CAROLINA: Connecting Analyses and Research On Lensing and INtrinsic Alignments**,  
+We are excited to announce the latest installment of **echo-IA**, **CAROLINA: Connecting Analyses and Research On Lensing and INtrinsic Alignments**,  
 to be held at Duke University from **Monday, September 15 – Friday, September 19, 2025**.  
 
 The core meeting will focus on hands-on collaboration, with most of the week dedicated to project incubation, technical discussions, and cross-survey coordination. Activities on Friday will build on work completed throughout the week, including final presentations, planning follow-ups, and group tag-ups.
@@ -43,7 +43,7 @@ The CAROLINA workshop is organized as part of
 a community initiative uniting measurement and modeling experts to coordinate analyses of IA in a common framework
 for future surveys.  
 
-Previous echoIA workshops include:  
+Previous echo-IA workshops include:  
 - [2024 – LILAC: Linking Intrinsic Alignments Across Collaborations (at Harvard University)](https://echo-ia.github.io/LILAC/)  
 - [2023 – hol-IA: a holistic approach to galaxy intrinsic alignments (at Leiden University)](https://www.lorentzcenter.nl/hol-ia-a-holistic-approach-to-galaxy-intrinsic-alignments.html)  
 - [2022 – Kickoff Workshop (online)](https://echo-ia.github.io/FebKickoff/)  
