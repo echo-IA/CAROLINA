@@ -28,8 +28,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
 
 ---
 
-
-<h2 class="schedule-day day-default">Monday</h2>
+<h2 id="monday" class="schedule-day day-default">Monday</h2>
 <table class="schedule-table day-default">
   <thead>
     <tr>
@@ -41,21 +40,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-
-<h2 class="schedule-day day-default">nan</h2>
-<table class="schedule-table day-default">
-  <thead>
-    <tr>
-      <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>--</td><td>--</td><td>--</td><td>--</td></tr><tr><td>--</td><td>--</td><td>--</td><td>--</td></tr><tr><td>--</td><td>--</td><td>--</td><td>--</td></tr><tr><td>--</td><td>--</td><td>--</td><td>--</td></tr>
-  </tbody>
-</table>
-
-
-<h2 class="schedule-day day-default">Tuesday</h2>
+<h2 id="tuesday" class="schedule-day day-default">Tuesday</h2>
 <table class="schedule-table day-default">
   <thead>
     <tr>
@@ -67,8 +52,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-
-<h2 class="schedule-day day-default">Wednesday</h2>
+<h2 id="wednesday" class="schedule-day day-default">Wednesday</h2>
 <table class="schedule-table day-default">
   <thead>
     <tr>
@@ -80,8 +64,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-
-<h2 class="schedule-day day-default">Thursday</h2>
+<h2 id="thursday" class="schedule-day day-default">Thursday</h2>
 <table class="schedule-table day-default">
   <thead>
     <tr>
@@ -93,8 +76,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-
-<h2 class="schedule-day day-default">Friday</h2>
+<h2 id="friday" class="schedule-day day-default">Friday</h2>
 <table class="schedule-table day-default">
   <thead>
     <tr>
@@ -105,4 +87,3 @@ All times are in EDT and the in-person location is the Center for Health Educati
     <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>--</td></tr><tr><td>09:30–12:30</td><td>Room 1</td><td>Final Presentations / Wrap-up Work</td><td>TBA</td></tr><tr><td>12:30–13:30</td><td>Hallway</td><td>Lunch</td><td>--</td></tr><tr><td>13:30–15:00</td><td>Room 1</td><td>Long Tag-up: Summary &amp; Future Planning</td><td>all</td></tr><tr><td>15:00–17:00</td><td>Various</td><td>Optional Work / Departure</td><td>--</td></tr>
   </tbody>
 </table>
-
