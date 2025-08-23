@@ -162,6 +162,17 @@
     }
     .site-footer a { color: var(--white); text-decoration: underline; }
     .site-footer a:hover { color: var(--persimmon); }
+
+    /* Footer links: force white for all states */
+.site-footer,
+.site-footer * { color: var(--white) !important; }
+
+.site-footer a:link,
+.site-footer a:visited { color: var(--white) !important; }
+
+.site-footer a:hover,
+.site-footer a:active { color: var(--persimmon) !important; }
+
   </style>
 </head>
 <body>

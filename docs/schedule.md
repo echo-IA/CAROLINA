@@ -13,6 +13,13 @@ The Mary Duke Biddle Trent Semans Center for Health Education is typically open 
 during the week.
 All times are in EDT and the in-person location is the Center for Health Education unless otherwise marked.
 
+<h2 class="schedule-day day-theory">TEST THEME</h2>
+<table class="schedule-table day-theory">
+  <thead><tr><th>Time</th><th>Event</th></tr></thead>
+  <tbody><tr><td>10:00</td><td>Color Check</td></tr></tbody>
+</table>
+
+
 ---
 
 [Monday](#monday)
@@ -28,8 +35,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
 
 ---
 
-<h2 id="monday" class="schedule-day day-default">Monday</h2>
-<table class="schedule-table day-default">
+<h2 id="monday" class="schedule-day day-observations">Monday</h2>
+<table class="schedule-table day-observations">
   <thead>
     <tr>
       <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>
@@ -40,8 +47,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="tuesday" class="schedule-day day-default">Tuesday</h2>
-<table class="schedule-table day-default">
+<h2 id="tuesday" class="schedule-day day-theory">Tuesday</h2>
+<table class="schedule-table day-theory">
   <thead>
     <tr>
       <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>
@@ -52,8 +59,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="wednesday" class="schedule-day day-default">Wednesday</h2>
-<table class="schedule-table day-default">
+<h2 id="wednesday" class="schedule-day day-sims">Wednesday</h2>
+<table class="schedule-table day-sims">
   <thead>
     <tr>
       <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>
@@ -64,8 +71,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="thursday" class="schedule-day day-default">Thursday</h2>
-<table class="schedule-table day-default">
+<h2 id="thursday" class="schedule-day day-hack">Thursday</h2>
+<table class="schedule-table day-hack">
   <thead>
     <tr>
       <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>
@@ -76,8 +83,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="friday" class="schedule-day day-default">Friday</h2>
-<table class="schedule-table day-default">
+<h2 id="friday" class="schedule-day day-hack">Friday</h2>
+<table class="schedule-table day-hack">
   <thead>
     <tr>
       <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>
