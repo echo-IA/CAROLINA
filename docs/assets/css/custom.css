@@ -143,6 +143,33 @@ main#content table.schedule-table.day-hack td {
   border-color: rgba(255,255,255,0.3) !important;
 }
 
+/* ----- PARTICIPANTS TABLE: row colors by Attendance ----- */
+/* Keep header blue */
+main#content table.participants-table thead th {
+  background-color: var(--duke) !important;
+  color: var(--white) !important;
+}
+
+/* Color the cells (not just the row) so theme overrides can't hide it */
+main#content table.participants-table tbody tr.att-onsite  > td {
+  background-color: var(--piedmont) !important;
+  color: var(--white) !important;
+}
+main#content table.participants-table tbody tr.att-online  > td {
+  background-color: var(--persimmon) !important;
+  color: var(--white) !important;
+}
+main#content table.participants-table tbody tr.att-unknown > td {
+  background-color: #666666 !important;
+  color: var(--white) !important;
+}
+
+/* Optional: borders on top of the colored cells */
+main#content table.participants-table td {
+  border: 1px solid rgba(255,255,255,0.3) !important;
+}
+
+
 /* ----- MAIN CONTENT WRAPPER ----- */
 main#content {
   max-width: 900px;
