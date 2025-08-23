@@ -33,9 +33,9 @@
     /* ----- GLOBAL FONT & BASE SIZE ----- */
     body {
       font-family: "DejaVu Sans", "DejaVu Sans Mono", Calibri, Trebuchet MS, sans-serif;
-      font-size: 22px;     /* larger base text */
-      line-height: 1.6;    /* readability */
-      color: #333333;      /* dark gray body text */
+      font-size: 22px;
+      line-height: 1.6;
+      color: #333333;
     }
     h1 { font-size: 2.2rem; }
     h2 { font-size: 1.8rem; }
@@ -48,42 +48,26 @@
       text-align: center;
       padding: 1.5rem 1rem 0.5rem 1rem;
     }
-
-    /* Flexbox container for logo + text */
     .header-container {
       display: flex;
-      align-items: center;     /* vertically center logo and text */
-      justify-content: center; /* center the whole block inside header */
-      gap: 1.5rem;             /* spacing between logo and text */
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
       margin-bottom: 1rem;
     }
-
     .site-logo {
-      max-width: 120px;  /* smaller since text is next to it */
+      max-width: 120px;
       height: auto;
       display: block;
     }
-
-    .header-text {
-      text-align: left;  /* make the title block feel like a heading */
-    }
-    .header-text h1 {
-      margin: 0;
-      font-size: 1.8rem;
-      color: var(--white);
-    }
+    .header-text { text-align: left; }
+    .header-text h1,
     .header-text h2 {
       margin: 0;
-      font-size: 1rem;   /* slightly smaller subtitle for hierarchy */
-      font-weight: normal;
       color: var(--white);
     }
-
-    /* Banner headings must be white */
-    .duke-header .header-text h1,
-    .duke-header .header-text h2 {
-      color: var(--white) !important;
-    }
+    .header-text h1 { font-size: 1.8rem; }
+    .header-text h2 { font-size: 1rem; font-weight: normal; }
 
     /* ----- NAVBAR ----- */
     .duke-header .nav-link {
@@ -91,151 +75,83 @@
       font-size: 1.1rem;
       margin: 0 0.75rem;
     }
-    /* Center navbar items */
-    .navbar-nav {
-      margin: 0 auto;
-      display: flex;
-      justify-content: center;
-    }
-    .navbar-nav .nav-item {
-      margin: 0 1rem;
-    }
+    .navbar-nav { margin: 0 auto; display: flex; justify-content: center; }
+    .navbar-nav .nav-item { margin: 0 1rem; }
     .duke-header .nav-item.active .nav-link {
       font-weight: bold;
       border-bottom: 2px solid var(--persimmon);
-      text-decoration: none;
     }
 
     /* ----- LINKS ----- */
-    a {
-      color: var(--duke);
-    }
-    a:hover, a:focus {
-      color: var(--persimmon);
-      text-decoration: none;
-    }
+    a { color: var(--duke); }
+    a:hover, a:focus { color: var(--persimmon); text-decoration: none; }
 
     /* ----- BUTTONS ----- */
-    .btn-info {
-      background-color: var(--persimmon) !important;
-      border-color: var(--persimmon) !important;
-    }
-    .btn-info:hover {
-      background-color: var(--piedmont) !important;
-      border-color: var(--piedmont) !important;
-    }
+    .btn-info { background-color: var(--persimmon) !important; border-color: var(--persimmon) !important; }
+    .btn-info:hover { background-color: var(--piedmont) !important; border-color: var(--piedmont) !important; }
 
     /* ----- HEADINGS ----- */
-    /* Content headings should be Duke blue */
-    main#content h1,
-    main#content h2,
-    main#content h3,
-    main#content h4,
-    main#content h5,
-    main#content h6 {
+    main#content h1, main#content h2, main#content h3,
+    main#content h4, main#content h5, main#content h6 {
       color: var(--duke);
     }
 
-    /* Day heading */
+    /* ----- SCHEDULE TABLES ----- */
     .schedule-day {
       margin-top: 2rem;
       margin-bottom: 0.5rem;
       font-size: 1.4rem;
       font-weight: bold;
       text-align: center;
-      color: var(--white);
+      color: var(--white) !important;
       padding: 0.5rem;
     }
-
-    /* Ensure schedule-day in content stays white */
-    main#content .schedule-day {
-      color: var(--white) !important;
-    }
-
-    /* Base table */
     .schedule-table {
       width: 100%;
       border-collapse: collapse;
       margin-bottom: 2rem;
       font-size: 0.95em;
-      color: var(--white); /* default text color inside colored tables */
+      color: var(--white);
       border-radius: 8px;
       overflow: hidden;
     }
-    .schedule-table th,
-    .schedule-table td {
+    .schedule-table th, .schedule-table td {
       padding: 0.6rem 0.8rem;
-      border: 1px solid rgba(255,255,255,0.3); /* subtle white grid */
+      border: 1px solid rgba(255,255,255,0.3);
       vertical-align: top;
     }
-    .schedule-table thead th {
-      font-weight: 700;
-    }
+    .schedule-table thead th { font-weight: 700; }
 
-    /* Color themes per day (table + heading share the same class) */
+    /* Day colors */
     .schedule-table.day-observations,
-    .schedule-day.day-observations {
-      background-color: var(--piedmont); /* green */
-    }
+    .schedule-day.day-observations { background-color: var(--piedmont) !important; }
     .schedule-table.day-theory,
-    .schedule-day.day-theory {
-      background-color: var(--duke); /* Duke blue */
-    }
+    .schedule-day.day-theory { background-color: var(--duke) !important; }
     .schedule-table.day-sims,
-    .schedule-day.day-sims {
-      background-color: var(--persimmon); /* orange */
-    }
+    .schedule-day.day-sims { background-color: var(--persimmon) !important; }
     .schedule-table.day-hack,
-    .schedule-day.day-hack {
-      background-color: #993399; /* purple */
-    }
+    .schedule-day.day-hack { background-color: #993399 !important; }
 
-    /* Make sure table cells inherit bg + white text */
-    .schedule-table.day-observations th,
-    .schedule-table.day-observations td,
-    .schedule-table.day-theory th,
-    .schedule-table.day-theory td,
-    .schedule-table.day-sims th,
-    .schedule-table.day-sims td,
-    .schedule-table.day-hack th,
-    .schedule-table.day-hack td {
-      background-color: inherit !important;
+    /* Cells inherit day color */
+    .schedule-table.day-observations th, .schedule-table.day-observations td,
+    .schedule-table.day-theory th, .schedule-table.day-theory td,
+    .schedule-table.day-sims th, .schedule-table.day-sims td,
+    .schedule-table.day-hack th, .schedule-table.day-hack td {
+      background-color: transparent !important;
       color: var(--white) !important;
-    }
-
-    /* Links remain readable */
-    .schedule-table a {
-      color: var(--white);
-      text-decoration: underline;
+      border-color: rgba(255,255,255,0.3) !important;
     }
 
     /* ----- MAIN CONTENT ----- */
     main#content {
-      max-width: 900px;      /* limit line length */
-      margin: 2rem auto;     /* center content block */
-      padding: 0 1rem;       /* small side padding on mobile */
-      text-align: left;      /* default align left */
-    }
-
-    /* Only justify paragraphs */
-    main#content p {
-      text-align: justify;
-      text-justify: inter-word; /* nicer spacing where supported */
-    }
-
-    /* Lists should stay left-aligned */
-    main#content ul,
-    main#content ol {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
       text-align: left;
-      margin-left: 1.25rem;
     }
-
-    /* Optional: tidy heading spacing */
-    main#content h1,
-    main#content h2,
-    main#content h3 {
-      margin-top: 1.25rem;
-    }
+    main#content p { text-align: justify; text-justify: inter-word; }
+    main#content ul, main#content ol { text-align: left; margin-left: 1.25rem; }
+    main#content h1, main#content h2, main#content h3 { margin-top: 1.25rem; }
 
     /* ----- FOOTER ----- */
     .site-footer {
@@ -244,40 +160,19 @@
       padding: 1rem;
       text-align: center;
     }
-    .site-footer a {
-      color: var(--white);
-      text-decoration: underline;
-    }
-    .site-footer a:hover {
-      color: var(--persimmon);
-    }
-    .site-footer,
-    .site-footer span,
-    .site-footer p,
-    .site-footer a,
-    .site-footer-credits {
-      color: var(--white) !important;
-    }
+    .site-footer a { color: var(--white); text-decoration: underline; }
+    .site-footer a:hover { color: var(--persimmon); }
   </style>
 </head>
 <body>
   <header class="duke-header" role="banner">
     <div class="header-container">
-      <!-- Logo on the left -->
-      <img
-        src="{{ '/output_data/logo_output/carolina_logo_notext_white.png' | relative_url }}"
-        alt="CAROLINA logo"
-        class="site-logo"
-      />
-
-      <!-- Text block on the right -->
+      <img src="{{ '/output_data/logo_output/carolina_logo_notext_white.png' | relative_url }}" alt="CAROLINA logo" class="site-logo"/>
       <div class="header-text">
         <h1>CAROLINA: An echo-IA Workshop</h1>
         <h2>Duke University | September 15–19, 2025</h2>
       </div>
     </div>
-
-    <!-- Navbar below -->
     <nav class="navbar navbar-expand-sm justify-content-center">
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
