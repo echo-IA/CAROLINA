@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import os
+import os, html
 import pandas as pd
-from data_utils import sort_participant_data
+from data_utils import sort_participant_data  # uses your normalization/exclusion
+
+def esc(v):
+    return "" if pd.isna(v) else html.escape(str(v), quote=True)
 
 def main():
     # ---- paths ----
@@ -24,10 +27,34 @@ def main():
         surname="Surname",
         affiliation="Affiliation",
         attendance="Attendance",
-        # exclude_surnames=["Tierney"],  # optional override, default already excludes Tierney
     )
 
-    # ---- render markdown page (table first, images at bottom) ----
+    # ---- build table with per-row class based on Attendance ----
+    headers = ["No.", "Participant", "Affiliation", "Attendance"]
+    thead = (
+        "<thead>\n  <tr>"
+        + "".join(f"<th>{h}</th>" for h in headers)
+        + "</tr>\n</thead>"
+    )
+
+    rows_html = []
+    for _, r in data_sorted.iterrows():
+        att = str(r.get("Attendance", "")).strip().lower()
+        row_cls = "att-onsite" if att == "onsite" else ("att-online" if att == "online" else "att-unknown")
+        cells = "".join(
+            f"<td>{esc(r.get(h, ''))}</td>" for h in headers
+        )
+        rows_html.append(f'<tr class="{row_cls}">{cells}</tr>')
+
+    tbody = "<tbody>\n" + "\n".join(rows_html) + "\n</tbody>"
+
+    table_html = f'''
+<table class="participants-table">
+{thead}
+{tbody}
+</table>'''.strip()
+
+    # ---- page bits (same structure you asked for) ----
     front_matter = """---
 layout: default
 title: Participants
@@ -42,13 +69,6 @@ order: 4
 
 ---
 """.lstrip()
-
-    table_html = data_sorted.to_html(
-        index=False,
-        border=0,
-        classes="dataframe participants-table",
-        escape=False,
-    )
 
     participants_section = f"""
 <h2 id="participants">Workshop Participants</h2>
