@@ -9,7 +9,7 @@ order: 2
 [Location](#location) <br>
 [Travel](#travel) <br>
 [Weather](#weather) <br>
-[Accomodation](#accomodation) <br>
+[Accommodation](#accommodation) <br>
 [Funding](#funding) <br>
 [Accessibility](#accessibility) <br>
 [Insurance](#insurance) <br>
@@ -77,16 +77,16 @@ We recommend bringing a reusable water bottle and light clothing to stay comfort
 Indoor venues in the U.S. are often air-conditioned, so packing an extra layer is advisable.
 
 ---
-# Accomodation
+# Accommodation
 
-Here are some reccomended hotels in the area:
+Here are some recommended hotels in the area:
 
 - [JB Duke Hotel](https://jbdukehotel.reservationstays.com/hotels/PlO11pnG?utm_source=adwords_semro&utm_campaign=G%3ARS%3AUS%3APMAX%3ADSA-Chains%3AUS%3AEN&gad_campaignid=21191562182&expand_params=false&redirect_auth_retry=true), 230 Science Dr, Durham, NC 27708. This hotel is on campus, walking distance, and upscale.
 - [The Lodge](https://www.lodgeatdumc.com/?gad_campaignid=12236737849), 2306 Elba St, Durham, NC 27705. This hotel is also walking distance, but budget-friendly.
 - [Hilton Garden Inn](https://www.guestreservations.com/Hilton-Garden-Inn-Durham-University-Medical-Center/booking?utm_source=google&utm_medium=cpc&utm_campaign=973003610&gad_campaignid=973003610), 2102 West Main St, Durham, North Carolina, 27705. This hotel is near Ninth Street with good access to food and coffee. It is also on the H5 bus line to the workshop location. 
 - [AC Marriott](https://www.guestreservations.com/ac-hotel-by-marriott-durham/booking?utm_source=google&utm_medium=cpc&utm_campaign=1014862718&gad_campaignid=1014862718&ctTriggered=true), 2800 Erwin Rd, Durham, NC 27705. This is another walking distance hotel on the edge of campus which is more upscale. 
 - [Residence Inn](https://www.guestreservations.com/residence-inn-durham-mcphersonduke-university-medical-cntr/booking?utm_source=google&utm_medium=cpc&utm_campaign=834685359&gad_campaignid=834685359), 1108 West Main St, Durham, NC, 27701. This hotel is more affordable and on the 11 and 11b bus lines to campus. The location downtown near East Campus is around a lot of food and coffee options.
-- Airbnb is also an option: **Duke** is able to reimburse Airbnbs, as long as the receipt includes your name, dates, and full cost. Be sure to save your confirmation email and final receipt for reimbursement.
+- Airbnb is also an option: **Duke** is able to reimburse Airbnb, as long as the receipt includes your name, dates, and full cost. Be sure to save your confirmation email and final receipt for reimbursement.
 
 **Note:** During hotel checkout, be sure to **ask for an itemized receipt** (with your name, dates, and total amount). This is often **required for reimbursement**, especially by university or DOE policies. Even if you booked online, some funders (like DESC or Duke) may request this specific checkout receipt as proof of stay.
 
