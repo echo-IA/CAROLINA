@@ -31,16 +31,16 @@
     }
 
     /* ----- GLOBAL FONT & BASE SIZE ----- */
-  body {
-    font-family: "DejaVu Sans", "DejaVu Sans Mono", Calibri, Trebuchet MS, sans-serif;
-    font-size: 22px;     /* bump default text size */
-    line-height: 1.6;    /* improve readability */
-    color: #333333;         /* optional: set default text color */
-  }
-  h1 { font-size: 2.2rem; }  /* ~40px when body is 18px */
-  h2 { font-size: 1.8rem; }  /* ~32px */
-  h3 { font-size: 1.5rem; }  /* ~27px */
-  p {font-size: 1.1rem; } /* ~20px relative to body */
+    body {
+      font-family: "DejaVu Sans", "DejaVu Sans Mono", Calibri, Trebuchet MS, sans-serif;
+      font-size: 22px;     /* larger base text */
+      line-height: 1.6;    /* readability */
+      color: #333333;      /* dark gray body text */
+    }
+    h1 { font-size: 2.2rem; }
+    h2 { font-size: 1.8rem; }
+    h3 { font-size: 1.5rem; }
+    p  { font-size: 1.1rem; }
 
     /* ----- HEADER ----- */
     .duke-header {
@@ -49,11 +49,34 @@
       padding: 1.5rem 1rem 0.5rem 1rem;
     }
 
+    /* Flexbox container for logo + text */
+    .header-container {
+      display: flex;
+      align-items: center;     /* vertically center logo and text */
+      justify-content: center; /* center the whole block inside header */
+      gap: 1.5rem;             /* spacing between logo and text */
+      margin-bottom: 1rem;
+    }
+
     .site-logo {
-      max-width: 280px;
+      max-width: 120px;  /* smaller since text is next to it */
       height: auto;
       display: block;
-      margin: 0 auto 1rem auto;
+    }
+
+    .header-text {
+      text-align: left;  /* make the title block feel like a heading */
+    }
+    .header-text h1 {
+      margin: 0;
+      font-size: 1.8rem;
+      color: var(--white);
+    }
+    .header-text h2 {
+      margin: 0;
+      font-size: 1rem;   /* slightly smaller subtitle for hierarchy */
+      font-weight: normal;
+      color: var(--white);
     }
 
     /* ----- NAVBAR ----- */
@@ -62,18 +85,15 @@
       font-size: 1.1rem;
       margin: 0 0.75rem;
     }
-
-      /* Center navbar items */
-  .navbar-nav {
-    margin: 0 auto;          /* center the list */
-    display: flex;
-    justify-content: center; /* distribute evenly */
-  }
-
-  .navbar-nav .nav-item {
-    margin: 0 1rem;
-  }
-
+    /* Center navbar items */
+    .navbar-nav {
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+    }
+    .navbar-nav .nav-item {
+      margin: 0 1rem;
+    }
     .duke-header .nav-item.active .nav-link {
       font-weight: bold;
       border-bottom: 2px solid var(--persimmon);
@@ -117,7 +137,6 @@
       padding: 1rem;
       text-align: center;
     }
-
     .site-footer a {
       color: var(--white);
       text-decoration: underline;
@@ -136,10 +155,22 @@
 </head>
 <body>
   <header class="duke-header" role="banner">
-    <img src="{{ '/output_data/logo_output/carolina_logo_text_white.png' | relative_url }}"
-         alt="CAROLINA logo"
-         class="site-logo">
+    <div class="header-container">
+      <!-- Logo on the left -->
+      <img
+        src="{{ '/output_data/logo_output/carolina_logo_notext_white.png' | relative_url }}"
+        alt="CAROLINA logo"
+        class="site-logo"
+      />
 
+      <!-- Text block on the right -->
+      <div class="header-text">
+        <h1>CAROLINA: An echo-IA Workshop</h1>
+        <h2>Duke University | September 15–19, 2025</h2>
+      </div>
+    </div>
+
+    <!-- Navbar below -->
     <nav class="navbar navbar-expand-sm justify-content-center">
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
@@ -159,12 +190,12 @@
   <main id="content" class="main-content" role="main">
     {{ content }}
     <footer class="site-footer">
-    <span class="site-footer-credits">
-      © 2025 CAROLINA and echoIA Team. All rights reserved.
-      Website created by Niko Sarcevic, Bekah Polen, and Raul Teixeira.
-      Powered by <a href="https://pages.github.com">GitHub Pages</a>.
-    </span>
-</footer>
+      <span class="site-footer-credits">
+        © 2025 CAROLINA and echoIA Team. All rights reserved.
+        Website created by Niko Sarcevic, Bekah Polen, and Raul Teixeira.
+        Powered by <a href="https://pages.github.com">GitHub Pages</a>.
+      </span>
+    </footer>
   </main>
 </body>
 </html>
