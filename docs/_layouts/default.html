@@ -80,10 +80,10 @@
     }
 
     /* Banner headings must be white */
-  .duke-header .header-text h1,
-  .duke-header .header-text h2 {
-    color: var(--white) !important;
-  }
+    .duke-header .header-text h1,
+    .duke-header .header-text h2 {
+      color: var(--white) !important;
+    }
 
     /* ----- NAVBAR ----- */
     .duke-header .nav-link {
@@ -125,44 +125,117 @@
       border-color: var(--piedmont) !important;
     }
 
-   /* ----- HEADINGS ----- */
-/* Content headings should be Duke blue */
-main#content h1,
-main#content h2,
-main#content h3,
-main#content h4,
-main#content h5,
-main#content h6 {
-  color: var(--duke);
-}
+    /* ----- HEADINGS ----- */
+    /* Content headings should be Duke blue */
+    main#content h1,
+    main#content h2,
+    main#content h3,
+    main#content h4,
+    main#content h5,
+    main#content h6 {
+      color: var(--duke);
+    }
+
+    /* Day heading */
+    .schedule-day {
+      margin-top: 2rem;
+      margin-bottom: 0.5rem;
+      font-size: 1.4rem;
+      font-weight: bold;
+      text-align: center;
+      color: var(--white);
+      padding: 0.5rem;
+    }
+
+    /* Ensure schedule-day in content stays white */
+    main#content .schedule-day {
+      color: var(--white) !important;
+    }
+
+    /* Base table */
+    .schedule-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 2rem;
+      font-size: 0.95em;
+      color: var(--white); /* default text color inside colored tables */
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .schedule-table th,
+    .schedule-table td {
+      padding: 0.6rem 0.8rem;
+      border: 1px solid rgba(255,255,255,0.3); /* subtle white grid */
+      vertical-align: top;
+    }
+    .schedule-table thead th {
+      font-weight: 700;
+    }
+
+    /* Color themes per day (table + heading share the same class) */
+    .schedule-table.day-observations,
+    .schedule-day.day-observations {
+      background-color: var(--piedmont); /* green */
+    }
+    .schedule-table.day-theory,
+    .schedule-day.day-theory {
+      background-color: var(--duke); /* Duke blue */
+    }
+    .schedule-table.day-sims,
+    .schedule-day.day-sims {
+      background-color: var(--persimmon); /* orange */
+    }
+    .schedule-table.day-hack,
+    .schedule-day.day-hack {
+      background-color: #993399; /* purple */
+    }
+
+    /* Make sure table cells inherit bg + white text */
+    .schedule-table.day-observations th,
+    .schedule-table.day-observations td,
+    .schedule-table.day-theory th,
+    .schedule-table.day-theory td,
+    .schedule-table.day-sims th,
+    .schedule-table.day-sims td,
+    .schedule-table.day-hack th,
+    .schedule-table.day-hack td {
+      background-color: inherit !important;
+      color: var(--white) !important;
+    }
+
+    /* Links remain readable */
+    .schedule-table a {
+      color: var(--white);
+      text-decoration: underline;
+    }
 
     /* ----- MAIN CONTENT ----- */
-main#content {
-  max-width: 900px;      /* limit line length */
-  margin: 2rem auto;     /* center content block */
-  padding: 0 1rem;       /* small side padding on mobile */
-  text-align: left;      /* default align left */
-}
+    main#content {
+      max-width: 900px;      /* limit line length */
+      margin: 2rem auto;     /* center content block */
+      padding: 0 1rem;       /* small side padding on mobile */
+      text-align: left;      /* default align left */
+    }
 
-/* Only justify paragraphs */
-main#content p {
-  text-align: justify;
-  text-justify: inter-word; /* nicer spacing where supported */
-}
+    /* Only justify paragraphs */
+    main#content p {
+      text-align: justify;
+      text-justify: inter-word; /* nicer spacing where supported */
+    }
 
-/* Lists should stay left-aligned */
-main#content ul,
-main#content ol {
-  text-align: left;
-  margin-left: 1.25rem;
-}
+    /* Lists should stay left-aligned */
+    main#content ul,
+    main#content ol {
+      text-align: left;
+      margin-left: 1.25rem;
+    }
 
-/* Optional: tidy heading spacing */
-main#content h1,
-main#content h2,
-main#content h3 {
-  margin-top: 1.25rem;
-}
+    /* Optional: tidy heading spacing */
+    main#content h1,
+    main#content h2,
+    main#content h3 {
+      margin-top: 1.25rem;
+    }
 
     /* ----- FOOTER ----- */
     .site-footer {
