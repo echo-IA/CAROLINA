@@ -4,21 +4,17 @@ title: Home
 order: 1
 ---
 
-We are excited to announce the latest installment of **echoIA**,  
-**CAROLINA: Connecting Analyses and Research On Lensing and INtrinsic Alignments**,  
+We are excited to announce the latest installment of **echoIA**, **CAROLINA: Connecting Analyses and Research On Lensing and INtrinsic Alignments**,  
 to be held at Duke University from **Monday, September 15 – Friday, September 19, 2025**.  
 
 The core meeting will focus on hands-on collaboration, with most of the week dedicated to project incubation, technical discussions, and cross-survey coordination. Activities on Friday will build on work completed throughout the week, including final presentations, planning follow-ups, and group tag-ups.
 
----
 
-[Intrinsic Alignments](#intrinsic-alignments)
-<br>
-[About](#about-echo-ia)  
-<br>
+[Intrinsic Alignments](#intrinsic-alignments) <br>
+[About](#about-echo-ia) <br>
 [Organizing Committee](#organizing-committee)
 
----
+
 
 # Intrinsic Alignments
 
@@ -38,7 +34,7 @@ The workshop will include overview talks (broad introductions and updates on rec
 technical sessions, and short participant talks. Most of the schedule will be reserved for collaborative 
 work and discussion. Virtual participation will be available for all talks and select work sessions.
 
----
+
 
 # About echo-IA
 
@@ -48,11 +44,11 @@ a community initiative uniting measurement and modeling experts to coordinate an
 for future surveys.  
 
 Previous echoIA workshops include:  
-- [2024 – LILAC: Linking Intrinsic Alignments Across Collaborations | Harvard University](https://echo-ia.github.io/LILAC/)  
-- [2023 – hol-IA: a holistic approach to galaxy intrinsic alignments | Leiden University](https://www.lorentzcenter.nl/hol-ia-a-holistic-approach-to-galaxy-intrinsic-alignments.html)  
-- [2022 – Kickoff Workshop](https://echo-ia.github.io/FebKickoff/)  
+- [2024 – LILAC: Linking Intrinsic Alignments Across Collaborations (at Harvard University)](https://echo-ia.github.io/LILAC/)  
+- [2023 – hol-IA: a holistic approach to galaxy intrinsic alignments (at Leiden University)](https://www.lorentzcenter.nl/hol-ia-a-holistic-approach-to-galaxy-intrinsic-alignments.html)  
+- [2022 – Kickoff Workshop (online)](https://echo-ia.github.io/FebKickoff/)  
 
----
+
 
 # Organizing Committee
 
