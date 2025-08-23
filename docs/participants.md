@@ -24,7 +24,7 @@ order: 4
     <tr>
       <td>1</td>
       <td>Alex Amon</td>
-      <td>Princeton</td>
+      <td>Princeton University</td>
       <td>Onsite</td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@ order: 4
     <tr>
       <td>14</td>
       <td>Benjamin Joachimi</td>
-      <td>UCL</td>
+      <td>University College London</td>
       <td>Onsite</td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@ order: 4
     <tr>
       <td>19</td>
       <td>Jamie McCullough</td>
-      <td>Princeton</td>
+      <td>Princeton University</td>
       <td>Onsite</td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@ order: 4
     <tr>
       <td>22</td>
       <td>Sneh Pandya</td>
-      <td>Northeastern</td>
+      <td>Northeastern University</td>
       <td>Onsite</td>
     </tr>
     <tr>
@@ -192,7 +192,7 @@ order: 4
     <tr>
       <td>29</td>
       <td>Leonor Simoes</td>
-      <td>UCL</td>
+      <td>University College London</td>
       <td>Online</td>
     </tr>
     <tr>
@@ -203,54 +203,48 @@ order: 4
     </tr>
     <tr>
       <td>31</td>
-      <td>Soozy Tierney</td>
+      <td>Michael Troxel</td>
       <td>Duke University</td>
-      <td>NaN</td>
+      <td>Onsite</td>
     </tr>
     <tr>
       <td>32</td>
-      <td>Michael Troxel</td>
-      <td>Duke University</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <td>33</td>
       <td>Nick Van Alfen</td>
       <td>Northeastern University</td>
       <td>Onsite</td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>Leo Medina Varela</td>
       <td>Carnegie Mellon University</td>
       <td>Onsite</td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>Casper Vedder</td>
       <td>Leiden University</td>
       <td>Online</td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>Jiachuan Xu</td>
       <td>Northeastern University</td>
       <td>Onsite</td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>Zepei Yang</td>
       <td>Northeastern University</td>
       <td>Onsite</td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>Boyan Yin</td>
       <td>Duke University</td>
       <td>Onsite</td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>Marloes van Heukelum</td>
       <td>Utrecht University</td>
       <td>Online</td>

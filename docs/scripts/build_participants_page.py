@@ -3,9 +3,7 @@
 
 import os
 import pandas as pd
-
-# Import your helpers
-from data_utils import sort_participant_data  # build_participants_html not used here
+from data_utils import sort_participant_data
 
 def main():
     # ---- paths ----
@@ -15,28 +13,21 @@ def main():
     outfile = os.path.join(outdir, "participants.md")
     os.makedirs(outdir, exist_ok=True)
 
-    # ---- load & filter CSV ----
-    columns_to_keep = ["Name", "Surname", "Affiliation", "Attendance"]
-    data = pd.read_csv(filepath, usecols=columns_to_keep)
+    # ---- load CSV ----
+    cols = ["Name", "Surname", "Affiliation", "Attendance"]
+    data = pd.read_csv(filepath, usecols=cols)
 
-    # ---- clean/sort via your helper ----
+    # ---- clean, normalize, sort (excludes 'Tierney' by default) ----
     data_sorted = sort_participant_data(
         data,
         name="Name",
         surname="Surname",
         affiliation="Affiliation",
         attendance="Attendance",
+        # exclude_surnames=["Tierney"],  # optional override, default already excludes Tierney
     )
 
-    # ---- HTML table ----
-    table_html = data_sorted.to_html(
-        index=False,
-        border=0,
-        classes="dataframe participants-table",
-        escape=False,
-    )
-
-    # ---- page pieces (exact per your spec) ----
+    # ---- render markdown page (table first, images at bottom) ----
     front_matter = """---
 layout: default
 title: Participants
@@ -52,12 +43,18 @@ order: 4
 ---
 """.lstrip()
 
+    table_html = data_sorted.to_html(
+        index=False,
+        border=0,
+        classes="dataframe participants-table",
+        escape=False,
+    )
+
     participants_section = f"""
 <h2 id="participants">Workshop Participants</h2>
 {table_html}
 """.strip()
 
-    # images at the bottom
     stats_section = """
 ---
 
@@ -66,7 +63,6 @@ order: 4
 <p align="center"><img src="assets/images/rank_bar.jpg" width="1000"></p><br>
 """.lstrip()
 
-    # ---- write file ----
     with open(outfile, "w", encoding="utf-8") as f:
         f.write(front_matter)
         f.write("\n")

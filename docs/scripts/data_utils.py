@@ -1,120 +1,133 @@
+# docs/scripts/data_utils.py
+import re
 import pandas as pd
 
 
-def transform_attendance(column):
+def transform_attendance(column: pd.Series) -> pd.Series:
     """
-    Standardize attendance responses to 'Onsite' or 'Online',
-    case-insensitive and whitespace-tolerant.
+    Standardize attendance to 'Onsite' or 'Online' (case/space tolerant).
     """
     mapping = {
         'in person': 'Onsite',
-        'online': 'Online'
+        'online': 'Online',
     }
     return column.apply(
-        lambda x: mapping.get(str(x).strip().lower(), x)
-        if pd.notnull(x) else x
+        lambda x: mapping.get(str(x).strip().lower(), x) if pd.notnull(x) else x
     )
 
 
-def extract_surname(name):
+def normalize_affiliation(column: pd.Series) -> pd.Series:
     """
-    Extracts the surname from a full name, correctly handling known surname prefixes.
+    Normalize common affiliation variants/typos.
+    - UCL -> University College London
+    - Princeton / prnceton -> Princeton University
+    - Northeastern / northeadetrn -> Northeastern University
     """
-    parts = name.split()
-    # Reverse the name parts to start checking from the end
+    s = column.fillna("").astype(str).str.strip()
+
+    # Apply case-insensitive regex replacements
+    replacements = {
+        r'(?i)^\s*ucl\s*$': 'University College London',
+        r'(?i)^\s*university\s+college\s+london\s*$': 'University College London',
+
+        r'(?i)^\s*pr(?:i)?nceton(?:\s+(?:univ(?:ersity)?))?\s*$': 'Princeton University',
+        r'(?i)^\s*prnceton\s*$': 'Princeton University',
+
+        r'(?i)^\s*northeastern(?:\s+(?:univ(?:ersity)?))?\s*$': 'Northeastern University',
+        r'(?i)^\s*northeadetrn\s*$': 'Northeastern University',
+    }
+    for pat, repl in replacements.items():
+        s = s.str.replace(pat, repl, regex=True)
+
+    # Title-case simple one-word entries like 'princeton' that slipped through
+    s = s.replace({'': None})
+    return s
+
+
+def extract_surname(name: str) -> str:
+    """
+    Extract surname from a full name, handling common prefixes.
+    """
+    parts = str(name).split()
+    if not parts:
+        return ""
     parts.reverse()
-    surname_parts = [parts[0]]  # Start with the last part of the name
+    surname_parts = [parts[0]]
 
-    # Define a list of common surname prefixes
-    # in case you want to sort by surname
-    surname_prefixes = ['van', 'van der', 'de', 'le', 'la', 'van de', 'Van', 'Van der', 'Van Der', 'Van De', 'De']
-
-    # Check if the preceding part is a known prefix and add it to the surname if so
+    prefixes = {
+        'van', 'van der', 'van de', 'de', 'le', 'la',
+        'van', 'Van', 'Van der', 'Van Der', 'Van De', 'De'
+    }
     for part in parts[1:]:
-        if part.lower() in surname_prefixes:
+        if part.lower() in {p.lower() for p in prefixes}:
             surname_parts.append(part)
         else:
-            break  # Stop if a part is not a known prefix
-
-    # Return the surname, which is the last name part and any prefixes, reversed back to the correct order
+            break
     return ' '.join(reversed(surname_parts))
 
 
-def sort_participant_data(data,
-                          name="Name",
-                          surname="Surname",
-                          affiliation="Affiliation",
-                          attendance="Attendance"):
+def sort_participant_data(
+    data: pd.DataFrame,
+    name: str = "Name",
+    surname: str = "Surname",
+    affiliation: str = "Affiliation",
+    attendance: str = "Attendance",
+    exclude_surnames=None,
+) -> pd.DataFrame:
     """
-    Clean and sort participant data.
+    Clean and sort participant data, normalize affiliations,
+    standardize attendance, and exclude specified surnames.
 
-    Parameters
-    ----------
-    data : pd.DataFrame
-        Must contain columns: [name, surname, affiliation, attendance]
-    name : str
-        Column name for first names.
-    surname : str
-        Column name for surnames.
-    affiliation : str
-        Column name for institutional affiliation.
-    attendance : str
-        Column name for attendance type.
-
-    Returns
-    -------
-    data_sorted : pd.DataFrame
-        Sorted DataFrame with columns ['No.', 'Participant',
-                                       'Affiliation', 'Attendance']
+    Returns columns: ['No.', 'Participant', 'Affiliation', 'Attendance']
     """
+    if exclude_surnames is None:
+        exclude_surnames = ["Tierney"]  # exclude Tierney by default (case-insensitive)
 
     # Standardize attendance values
-    data[attendance] = transform_attendance(data[attendance])
+    if attendance in data.columns:
+        data[attendance] = transform_attendance(data[attendance])
 
-    # Create Participant column
+    # Normalize affiliations
+    if affiliation in data.columns:
+        data[affiliation] = normalize_affiliation(data[affiliation])
+
+    # Build Participant column
     data['Participant'] = (
-            data[name].fillna('').str.strip()
-            + ' '
-            + data[surname].fillna('').str.strip()
+        data.get(name, "").fillna("").astype(str).str.strip()
+        + " "
+        + data.get(surname, "").fillna("").astype(str).str.strip()
     ).str.strip()
 
-    # Drop redundant name columns
-    data = data.drop(columns=[name, surname])
+    # Drop the original name columns if present
+    drop_cols = [c for c in [name, surname] if c in data.columns]
+    if drop_cols:
+        data = data.drop(columns=drop_cols)
 
-    # Add surname for sorting
+    # Compute Surname for sorting & filtering
     data['Surname'] = data['Participant'].apply(extract_surname)
 
-    # Sort
-    data = data.sort_values(by='Surname').reset_index(drop=True)
+    # Exclude undesired surnames (case-insensitive)
+    if exclude_surnames:
+        excl = {s.lower() for s in exclude_surnames}
+        data = data[~data['Surname'].str.lower().isin(excl)]
 
-    # Add numbering
+    # Sort by surname
+    data = data.sort_values(by='Surname', kind='mergesort').reset_index(drop=True)
+
+    # Numbering
     data['No.'] = data.index + 1
 
     # Final selection
-    data_sorted = data[['No.', 'Participant', affiliation, attendance]]
+    cols = ['No.', 'Participant', affiliation, attendance]
+    cols = [c for c in cols if c in data.columns]
+    data_sorted = data[cols]
 
     return data_sorted
 
 
-def build_participants_htmlold(data_sorted):
-    """
-    Build HTML page content with participants table.
-
-    Parameters
-    ----------
-    data_sorted : pd.DataFrame
-        Cleaned and sorted participant DataFrame.
-
-    Returns
-    -------
-    html_content : str
-        The generated HTML page content.
-    """
-    html_table = data_sorted.to_html(
-        index=False, border=0, classes='participants-table', escape=False
-    )
-
-    html_content = f"""---
+def build_participants_htmlold(data_sorted: pd.DataFrame) -> str:
+    html_table = data_sorted.to_html(index=False, border=0, classes='participants-table', escape=False)
+    return f"""---
         layout: default
         title: Participants
         order: 5
@@ -122,45 +135,30 @@ def build_participants_htmlold(data_sorted):
         <h2>Workshop Participants</h2>
         {html_table}
         """
-    return html_content
 
-def build_participants_html(data_sorted, images=None, menu_items=None):
-    """
-    Build Participants page with an optional mini-menu and optional Statistics images.
-    - If `images` is provided (str or list[str]), a single Statistics section is shown.
-    - The mini-menu includes 'Statistics' only once (if images) and 'Participants' only once.
-    """
-    # front matter
+
+def build_participants_html(data_sorted: pd.DataFrame, images=None, menu_items=None) -> str:
     front = """---
 layout: default
 title: Participants
 order: 5
 ---
 """
-
-    # normalize images to list
     if isinstance(images, str):
         images = [images]
 
-    # ------ build menu with dedup ------
     items = list(menu_items) if menu_items else []
-    # ensure 'Participants' exists once
     items.append(("Participants", "#participants"))
-
-    # add 'Statistics' iff we have images AND it's not already present
     if images:
         items.append(("Statistics", "#statistics"))
 
-    # dedupe by href (case-insensitive) preserving order
-    seen = set()
-    deduped = []
+    seen, deduped = set(), []
     for label, href in items:
         key = (label.strip().lower(), href.strip().lower())
         if key not in seen:
             seen.add(key)
             deduped.append((label, href))
 
-    # render menu only if there's at least one item
     menu_block = ""
     if deduped:
         items_html = "\n".join(f'  <li><a href="{href}">{label}</a></li>' for label, href in deduped)
@@ -174,19 +172,14 @@ order: 5
 <br>
 """
 
-    # ------ statistics section (single section, many images) ------
     stats_block = ""
     if images:
-        imgs = "\n".join(
-            f'<p align="center"><img src="{img}" width="1000"></p><br>'
-            for img in images
-        )
+        imgs = "\n".join(f'<p align="center"><img src="{img}" width="1000"></p><br>' for img in images)
         stats_block = f"""
 <h2 id="statistics">Statistics</h2>
 {imgs}
 """
 
-    # ------ participants table ------
     table_html = data_sorted.to_html(index=False, border=0, classes="participants-table", escape=False)
     participants_block = f"""
 <h2 id="participants">Workshop Participants</h2>
