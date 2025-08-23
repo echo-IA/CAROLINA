@@ -4,16 +4,16 @@ title: Logistics
 order: 2
 ---
 
-- [Connection](#connection)
-- [Wi-Fi](#wi-fi)
-- [Location](#location)
-- [Travel](#travel)
-- [Weather](#weather)
-- [Accomodation](#accomodation)
-- [Funding](#funding)
-- [Accessibility](#accessibility)
-- [Insurance](#insurance)
-- [Emergency Contacts](#emergency-contacts)
+[Connection](#connection) <br>
+[Wi-Fi](#wi-fi) <br>
+[Location](#location) <br>
+[Travel](#travel) <br>
+[Weather](#weather) <br>
+[Accomodation](#accomodation) <br>
+[Funding](#funding) <br>
+[Accessibility](#accessibility) <br>
+[Insurance](#insurance) <br>
+[Emergency Contacts](#emergency-contacts) <br>
 
 ---
 

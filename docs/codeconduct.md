@@ -4,9 +4,9 @@ title: Code of Conduct
 order: 7
 ---
 
-- [Code of Conduct](#code-of-contact)
-- [Duke Community Standard](#duke-community-standard)
-- [Anonymous Comment Form](#anonymous-comment-form)
+[Code of Conduct](#code-of-contact) <br>
+[Duke Community Standard](#duke-community-standard) <br>
+[Anonymous Comment Form](#anonymous-comment-form) <br>
 
 # Code of Conduct
 

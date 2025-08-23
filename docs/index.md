@@ -12,8 +12,9 @@ Activites on Friday will draw upon work completed over the course of the week, i
 follow-up planning, and tag-ups.
 
 
-- [About](#about)
-- [Organizing Committee](#organizing-committee)
+[About](#about)
+<br>
+[Organizing Committee](#organizing-committee)
 
 # About
 

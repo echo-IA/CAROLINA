@@ -4,18 +4,13 @@ title: Participants
 order: 4
 ---
 
-<details>
-  <summary><strong>Menu</strong></summary>
-  <ul>
-  <li><a href="#statistics">Statistics</a></li>
-  <li><a href="#participants">Participants</a></li>
-  </ul>
-</details>
-<br>
 
-<h2 id="statistics">Statistics</h2>
-<p align="center"><img src="assets/images/collaborations_bar.jpg" width="1000"></p><br>
-<p align="center"><img src="assets/images/rank_bar.jpg" width="1000"></p><br>
+[Participants](#participants)
+<br>
+[Statistics](#statistics)
+
+---
+
 
 <h2 id="participants">Workshop Participants</h2>
 <table class="dataframe participants-table">
@@ -252,4 +247,10 @@ order: 4
     </tr>
   </tbody>
 </table>
+
+
+<h2 id="statistics">Statistics</h2>
+<p align="center"><img src="assets/images/collaborations_bar.jpg" width="1000"></p><br>
+
+<p align="center"><img src="assets/images/rank_bar.jpg" width="1000"></p><br>
 
