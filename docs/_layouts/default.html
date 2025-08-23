@@ -142,6 +142,38 @@
       border-color: rgba(255,255,255,0.3) !important;
     }
 
+    /* Focus pill in the day header */
+.schedule-focus {
+  font-weight: 600;
+}
+
+/* Make sure *our* colored backgrounds beat theme defaults */
+main#content table.schedule-table.day-observations,
+main#content table.schedule-table.day-theory,
+main#content table.schedule-table.day-sims,
+main#content table.schedule-table.day-hack {
+  background-color: inherit !important; /* allow the class to drive bg */
+}
+
+main#content table.schedule-table.day-observations { background-color: var(--piedmont) !important; }
+main#content table.schedule-table.day-theory       { background-color: var(--duke) !important; }
+main#content table.schedule-table.day-sims         { background-color: var(--persimmon) !important; }
+main#content table.schedule-table.day-hack         { background-color: #993399 !important; }
+
+/* Cells keep white text + transparent cell bg so table bg shows through */
+main#content table.schedule-table.day-observations th,
+main#content table.schedule-table.day-observations td,
+main#content table.schedule-table.day-theory th,
+main#content table.schedule-table.day-theory td,
+main#content table.schedule-table.day-sims th,
+main#content table.schedule-table.day-sims td,
+main#content table.schedule-table.day-hack th,
+main#content table.schedule-table.day-hack td {
+  background-color: transparent !important;
+  color: var(--white) !important;
+  border-color: rgba(255,255,255,0.3) !important;
+}
+
     /* ----- MAIN CONTENT ----- */
     main#content {
       max-width: 900px;

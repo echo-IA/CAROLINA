@@ -28,7 +28,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
 <br>
 
 ---
-<h2 id="monday" class="schedule-day day-observations">Monday</h2>
+
+<h2 id="monday" class="schedule-day day-observations">Monday — <span class="schedule-focus">Focus: Observations</span></h2>
 <table class="schedule-table day-observations">
   <thead>
     <tr>
@@ -40,7 +41,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="tuesday" class="schedule-day day-theory">Tuesday</h2>
+<h2 id="tuesday" class="schedule-day day-theory">Tuesday — <span class="schedule-focus">Focus: Modeling</span></h2>
 <table class="schedule-table day-theory">
   <thead>
     <tr>
@@ -52,7 +53,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="wednesday" class="schedule-day day-sims">Wednesday</h2>
+<h2 id="wednesday" class="schedule-day day-sims">Wednesday — <span class="schedule-focus">Focus: Simulations</span></h2>
 <table class="schedule-table day-sims">
   <thead>
     <tr>
@@ -64,7 +65,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="thursday" class="schedule-day day-hack">Thursday</h2>
+<h2 id="thursday" class="schedule-day day-hack">Thursday — <span class="schedule-focus">Focus: Hack Day</span></h2>
 <table class="schedule-table day-hack">
   <thead>
     <tr>
@@ -76,7 +77,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="friday" class="schedule-day day-hack">Friday</h2>
+<h2 id="friday" class="schedule-day day-hack">Friday — <span class="schedule-focus">Focus: Hack Day</span></h2>
 <table class="schedule-table day-hack">
   <thead>
     <tr>
