@@ -22,7 +22,7 @@ Most communication during the workshop will happen through this slack space, whi
 [this invitation](https://join.slack.com/t/carolina-vu97066/shared_invite/zt-3awy7k1c6-rCuP70LrdJ98lxJBLGw0Uw).
 
 The workshop will be held in person and online. Zoom connection info will be made available to participants using
-the echoIA email list (in Google groups) and on the [ZOOM ROOM (TBA)]().
+the echo-IA email list (in Google groups) and on the [ZOOM ROOM (TBA)]().
 
 If you would like to be added to the echo-IA github organization, which will host echo-IA-related repositories,
 please enter your github username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).

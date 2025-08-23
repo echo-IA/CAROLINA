@@ -88,6 +88,3 @@ All times are in EDT and the in-person location is the Center for Health Educati
     <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–12:30</td><td>Room 1</td><td>Final Presentations / Wrap-up Work</td><td>TBA</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–15:00</td><td>Room 1</td><td>Long Tag-up: Summary &amp; Future Planning</td><td>all</td></tr><tr><td>15:00–17:00</td><td>Various</td><td>Optional Work / Departure</td><td>N/A</td></tr>
   </tbody>
 </table>
-
-/var/folders/0x/z32gfbyx2ls71tblrjjbdh0w0000gn/T/ipykernel_8215/446374795.py:28: FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
-  df = df.applymap(lambda x: None if (x is None or str(x).strip().lower() in {'', 'nan', 'none', '--'}) else str(x).strip())
