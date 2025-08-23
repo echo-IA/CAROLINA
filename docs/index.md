@@ -36,12 +36,6 @@ cross-collaboration project incubation. Virtual options will be available for al
 CAROLINA workshop is supported by [echo-IA (Enabling Cosmology with Homogenized Observations of Intrinsic Alignments)](https://github.com/echo-IA), a community effort to bring together measurement and modeling experts
 to coordinate the analysis of future measurements within a common framework.
 
-This workshop is intended to be a collaborative and productive event. We invite participants to propose topics for focused discussion and work sessions (sprints), as well as areas for ongoing collaboration within echoIA in the registration form or by clicking this button:
-<p align="center">
-<a href="https://github.com/echo-IA/CAROLINA/issues/new/choose" class="btn btn-info">Propose a discussion, hack, or project </a></p>
-
-Proposed sessions can be found [here](https://github.com/echo-IA/CAROLINA/issues), please comment on the proposals to indicate your interest.
-
 
 # Organizing Committee
 
