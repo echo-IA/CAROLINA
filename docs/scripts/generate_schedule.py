@@ -102,7 +102,7 @@ def main():
     html_schedule = "\n\n".join(tables_html)
     print(html_schedule)
 
-    # ---- Write timetable.md with the provided front matter and intro ----
+    # ---- Write schedule.md with the provided front matter and intro ----
     md_header = """---
 layout: default
 title: Schedule
@@ -135,7 +135,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
 ---
 
 """
-    outpath = os.path.join("docs", "timetable.md")
+    outpath = os.path.join("docs", "schedule.md")
     with open(outpath, "w", encoding="utf-8") as f:
         f.write(md_header)
         f.write(html_schedule)

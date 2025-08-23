@@ -66,6 +66,7 @@ main#content h4, main#content h5, main#content h6 {
 }
 
 /* ----- SCHEDULE TABLES ----- */
+/* ----- SCHEDULE TABLES ----- */
 .schedule-day {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
@@ -83,16 +84,21 @@ main#content h4, main#content h5, main#content h6 {
 .schedule-table {
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;        /* <-- ADD THIS */
   margin-bottom: 2rem;
   font-size: 0.95em;
   color: var(--white);
   border-radius: 8px;
   overflow: hidden;
 }
-.schedule-table th, .schedule-table td {
+
+.schedule-table th,
+.schedule-table td {
   padding: 0.6rem 0.8rem;
   border: 1px solid rgba(255,255,255,0.3);
   vertical-align: top;
+  white-space: normal;        /* <-- ADD THIS */
+  word-break: break-word;     /* <-- AND THIS */
 }
 .schedule-table thead th { font-weight: 700; }
 
