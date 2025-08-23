@@ -7,9 +7,12 @@
   <meta name="theme-color" content="#00366e">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
+  <!-- Theme CSS (Cayman) -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.css">
+  <!-- Your custom CSS (must come last so it wins) -->
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
 
   {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -20,227 +23,20 @@
       gtag('config', '{{ site.google_analytics }}');
     </script>
   {% endif %}
-
-  <style>
-    /* ----- COLOR VARIABLES ----- */
-    :root {
-      --duke: #00539B;
-      --persimmon: #E89923;
-      --piedmont: #A1B70D;
-      --white: #ffffff;
-    }
-
-    /* ----- GLOBAL FONT & BASE SIZE ----- */
-    body {
-      font-family: "DejaVu Sans", "DejaVu Sans Mono", Calibri, Trebuchet MS, sans-serif;
-      font-size: 22px;
-      line-height: 1.6;
-      color: #333333;
-    }
-    h1 { font-size: 2.2rem; }
-    h2 { font-size: 1.8rem; }
-    h3 { font-size: 1.5rem; }
-    p  { font-size: 1.1rem; }
-
-    /* ----- HEADER ----- */
-    .duke-header {
-      background-color: var(--duke);
-      text-align: center;
-      padding: 1.5rem 1rem 0.5rem 1rem;
-    }
-    .header-container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 1.5rem;
-      margin-bottom: 1rem;
-    }
-    .site-logo {
-      max-width: 120px;
-      height: auto;
-      display: block;
-    }
-    .header-text { text-align: left; }
-    .header-text h1,
-    .header-text h2 {
-      margin: 0;
-      color: var(--white);
-    }
-    .header-text h1 { font-size: 1.8rem; }
-    .header-text h2 { font-size: 1rem; font-weight: normal; }
-
-    /* ----- NAVBAR ----- */
-    .duke-header .nav-link {
-      color: var(--white) !important;
-      font-size: 1.1rem;
-      margin: 0 0.75rem;
-    }
-    .navbar-nav { margin: 0 auto; display: flex; justify-content: center; }
-    .navbar-nav .nav-item { margin: 0 1rem; }
-    .duke-header .nav-item.active .nav-link {
-      font-weight: bold;
-      border-bottom: 2px solid var(--persimmon);
-    }
-
-    /* ----- LINKS ----- */
-    a { color: var(--duke); }
-    a:hover, a:focus { color: var(--persimmon); text-decoration: none; }
-
-    /* ----- BUTTONS ----- */
-    .btn-info { background-color: var(--persimmon) !important; border-color: var(--persimmon) !important; }
-    .btn-info:hover { background-color: var(--piedmont) !important; border-color: var(--piedmont) !important; }
-
-    /* ----- HEADINGS ----- */
-    main#content h1, main#content h2, main#content h3,
-    main#content h4, main#content h5, main#content h6 {
-      color: var(--duke);
-    }
-
-    /* ----- SCHEDULE TABLES ----- */
-    .schedule-day {
-      margin-top: 2rem;
-      margin-bottom: 0.5rem;
-      font-size: 1.4rem;
-      font-weight: bold;
-      text-align: center;
-      color: var(--white) !important;
-      padding: 0.5rem;
-    }
-    .schedule-table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-bottom: 2rem;
-      font-size: 0.95em;
-      color: var(--white);
-      border-radius: 8px;
-      overflow: hidden;
-    }
-    .schedule-table th, .schedule-table td {
-      padding: 0.6rem 0.8rem;
-      border: 1px solid rgba(255,255,255,0.3);
-      vertical-align: top;
-    }
-    .schedule-table thead th { font-weight: 700; }
-
-    /* Day colors */
-    .schedule-table.day-observations,
-    .schedule-day.day-observations { background-color: var(--piedmont) !important; }
-    .schedule-table.day-theory,
-    .schedule-day.day-theory { background-color: var(--duke) !important; }
-    .schedule-table.day-sims,
-    .schedule-day.day-sims { background-color: var(--persimmon) !important; }
-    .schedule-table.day-hack,
-    .schedule-day.day-hack { background-color: #993399 !important; }
-
-    /* Cells inherit day color */
-    .schedule-table.day-observations th, .schedule-table.day-observations td,
-    .schedule-table.day-theory th, .schedule-table.day-theory td,
-    .schedule-table.day-sims th, .schedule-table.day-sims td,
-    .schedule-table.day-hack th, .schedule-table.day-hack td {
-      background-color: transparent !important;
-      color: var(--white) !important;
-      border-color: rgba(255,255,255,0.3) !important;
-    }
-
-    /* Focus pill in the day header */
-.schedule-focus {
-  font-weight: 600;
-}
-
-/* Make sure *our* colored backgrounds beat theme defaults */
-main#content table.schedule-table.day-observations,
-main#content table.schedule-table.day-theory,
-main#content table.schedule-table.day-sims,
-main#content table.schedule-table.day-hack {
-  background-color: inherit !important; /* allow the class to drive bg */
-}
-
-main#content table.schedule-table.day-observations { background-color: var(--piedmont) !important; }
-main#content table.schedule-table.day-theory       { background-color: var(--duke) !important; }
-main#content table.schedule-table.day-sims         { background-color: var(--persimmon) !important; }
-main#content table.schedule-table.day-hack         { background-color: #993399 !important; }
-
-/* Cells keep white text + transparent cell bg so table bg shows through */
-main#content table.schedule-table.day-observations th,
-main#content table.schedule-table.day-observations td,
-main#content table.schedule-table.day-theory th,
-main#content table.schedule-table.day-theory td,
-main#content table.schedule-table.day-sims th,
-main#content table.schedule-table.day-sims td,
-main#content table.schedule-table.day-hack th,
-main#content table.schedule-table.day-hack td {
-  background-color: transparent !important;
-  color: var(--white) !important;
-  border-color: rgba(255,255,255,0.3) !important;
-}
-
-    /* ----- MAIN CONTENT ----- */
-    main#content {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      text-align: left;
-    }
-    main#content p { text-align: justify; text-justify: inter-word; }
-    main#content ul, main#content ol { text-align: left; margin-left: 1.25rem; }
-    main#content h1, main#content h2, main#content h3 { margin-top: 1.25rem; }
-
-    /* ----- FOOTER ----- */
-    .site-footer {
-      background-color: var(--piedmont);
-      color: var(--white);
-      padding: 1rem;
-      text-align: center;
-    }
-    .site-footer a { color: var(--white); text-decoration: underline; }
-    .site-footer a:hover { color: var(--persimmon); }
-
-    /* Footer links: force white for all states */
-.site-footer,
-.site-footer * { color: var(--white) !important; }
-
-.site-footer a:link,
-.site-footer a:visited { color: var(--white) !important; }
-
-.site-footer a:hover,
-.site-footer a:active { color: var(--persimmon) !important; }
-
-  </style>
 </head>
 <body>
-  <header class="duke-header" role="banner">
-    <div class="header-container">
-      <img src="{{ '/output_data/logo_output/carolina_logo_notext_white.png' | relative_url }}" alt="CAROLINA logo" class="site-logo"/>
-      <div class="header-text">
-        <h1>CAROLINA: An echo-IA Workshop</h1>
-        <h2>Duke University | September 15–19, 2025</h2>
-      </div>
-    </div>
-    <nav class="navbar navbar-expand-sm justify-content-center">
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          {% assign items = site.pages | sort: 'order' %}
-          {% for item in items %}
-            {% if item.title != undefined %}
-              <li class="nav-item {% if item.url == page.url %}active{% endif %}">
-                <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-    </nav>
-  </header>
+  {% include header.html %}
 
   <main id="content" class="main-content" role="main">
     {{ content }}
-    <footer class="site-footer">
-      <span class="site-footer-credits">
-        © 2025 CAROLINA and echoIA Team. All rights reserved.
-        Website created by Niko Sarcevic, Bekah Polen, and Raul Teixeira.
-        Powered by <a href="https://pages.github.com">GitHub Pages</a>.
-      </span>
-    </footer>
+    {% include footer.html %}
   </main>
+
+  <!-- If you don't use dropdown/collapse, you can skip Bootstrap JS -->
+  <!--
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  -->
 </body>
 </html>

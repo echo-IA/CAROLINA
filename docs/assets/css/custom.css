@@ -1,0 +1,162 @@
+/* ----- COLOR VARIABLES ----- */
+:root {
+  --duke: #00539B;
+  --persimmon: #E89923;
+  --piedmont: #A1B70D;
+  --white: #ffffff;
+}
+
+/* ----- GLOBAL FONT & BASE SIZE ----- */
+body {
+  font-family: "DejaVu Sans", "DejaVu Sans Mono", Calibri, Trebuchet MS, sans-serif;
+  font-size: 22px;
+  line-height: 1.6;
+  color: #333333;
+}
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.5rem; }
+p  { font-size: 1.1rem; }
+
+/* ----- HEADER ----- */
+.duke-header {
+  background-color: var(--duke);
+  text-align: center;
+  padding: 1.5rem 1rem 0.5rem 1rem;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+.site-logo { max-width: 120px; height: auto; display: block; }
+.header-text { text-align: left; }
+.header-text h1,
+.header-text h2 { margin: 0; color: var(--white); }
+.header-text h1 { font-size: 1.8rem; }
+.header-text h2 { font-size: 1rem; font-weight: normal; }
+
+/* ----- NAVBAR ----- */
+.duke-header .nav-link {
+  color: var(--white) !important;
+  font-size: 1.1rem;
+  margin: 0 0.75rem;
+}
+.navbar-nav { margin: 0 auto; display: flex; justify-content: center; }
+.navbar-nav .nav-item { margin: 0 1rem; }
+.duke-header .nav-item.active .nav-link {
+  font-weight: bold;
+  border-bottom: 2px solid var(--persimmon);
+}
+
+/* ----- LINKS ----- */
+a { color: var(--duke); }
+a:hover, a:focus { color: var(--persimmon); text-decoration: none; }
+
+/* ----- BUTTONS ----- */
+.btn-info { background-color: var(--persimmon) !important; border-color: var(--persimmon) !important; }
+.btn-info:hover { background-color: var(--piedmont) !important; border-color: var(--piedmont) !important; }
+
+/* ----- HEADINGS IN CONTENT ----- */
+main#content h1, main#content h2, main#content h3,
+main#content h4, main#content h5, main#content h6 {
+  color: var(--duke);
+}
+
+/* ----- SCHEDULE TABLES ----- */
+.schedule-day {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: bold;
+  text-align: center;
+  color: var(--white) !important;
+  padding: 0.5rem;
+}
+.schedule-focus {
+  font-weight: normal;
+  font-size: inherit;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  font-size: 0.95em;
+  color: var(--white);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.schedule-table th, .schedule-table td {
+  padding: 0.6rem 0.8rem;
+  border: 1px solid rgba(255,255,255,0.3);
+  vertical-align: top;
+}
+.schedule-table thead th { font-weight: 700; }
+
+/* Day colors (apply to both the heading and the table) */
+.schedule-day.day-observations,
+.schedule-table.day-observations { background-color: var(--piedmont) !important; }
+
+.schedule-day.day-theory,
+.schedule-table.day-theory       { background-color: var(--duke) !important; }
+
+.schedule-day.day-sims,
+.schedule-table.day-sims         { background-color: var(--persimmon) !important; }
+
+.schedule-day.day-hack,
+.schedule-table.day-hack         { background-color: #993399 !important; }
+
+/* Ensure our colors beat theme defaults on content area tables */
+main#content table.schedule-table.day-observations,
+main#content table.schedule-table.day-theory,
+main#content table.schedule-table.day-sims,
+main#content table.schedule-table.day-hack {
+  background-color: inherit !important;
+}
+main#content table.schedule-table.day-observations { background-color: var(--piedmont) !important; }
+main#content table.schedule-table.day-theory       { background-color: var(--duke) !important; }
+main#content table.schedule-table.day-sims         { background-color: var(--persimmon) !important; }
+main#content table.schedule-table.day-hack         { background-color: #993399 !important; }
+
+/* Cells: transparent so table bg shows through; white text; subtle borders */
+main#content table.schedule-table.day-observations th,
+main#content table.schedule-table.day-observations td,
+main#content table.schedule-table.day-theory th,
+main#content table.schedule-table.day-theory td,
+main#content table.schedule-table.day-sims th,
+main#content table.schedule-table.day-sims td,
+main#content table.schedule-table.day-hack th,
+main#content table.schedule-table.day-hack td {
+  background-color: transparent !important;
+  color: var(--white) !important;
+  border-color: rgba(255,255,255,0.3) !important;
+}
+
+/* ----- MAIN CONTENT WRAPPER ----- */
+main#content {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  text-align: left;
+}
+main#content p { text-align: justify; text-justify: inter-word; }
+main#content ul, main#content ol { text-align: left; margin-left: 1.25rem; }
+main#content h1, main#content h2, main#content h3 { margin-top: 1.25rem; }
+
+/* ----- FOOTER ----- */
+.site-footer {
+  background-color: var(--piedmont);
+  color: var(--white);
+  padding: 1rem;
+  text-align: center;
+}
+.site-footer a { color: var(--white); text-decoration: underline; }
+.site-footer a:hover { color: var(--persimmon); }
+
+/* Force white footer text/links in all states (except hover color) */
+.site-footer, .site-footer * { color: var(--white) !important; }
+.site-footer a:link, .site-footer a:visited { color: var(--white) !important; }
+.site-footer a:hover, .site-footer a:active { color: var(--persimmon) !important; }
