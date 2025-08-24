@@ -8,6 +8,8 @@ order: 7
 [Duke Community Standard](#duke-community-standard) <br>
 [Anonymous Comment Form](#anonymous-comment-form) <br>
 
+---
+
 # Code of Conduct
 
 The CAROLINA (echoIA) Workshop is committed to creating a work environment that is safe, professional, and grounded
