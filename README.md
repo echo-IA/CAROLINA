@@ -1,14 +1,39 @@
+<p align="center">
+  <img src="docs/output_data/logo_output/carolina_logo_text.jpg" width="200">
+</p>
 
-<p align="center"><img src="docs/output_data/logo_output/carolina_logo_text.jpg" width="300"></p><br>
+# <span style="color:#003366">CAROLINA: echoIA Workshop</span>  
+**<span style="color:#cc0033">September 15–19, 2025 · Duke University (Durham, NC) + Online</span>**
 
-# CAROLINA: echoIA Workshop  
-September 15–19, 2025 | Hybrid Format
+---
 
-## Location
 
-- **In-person:** Duke University  
-- **Virtual:** Zoom link will be shared via the echoIA mailing list.
+## Overview
+The CAROLINA: echoIA Workshop brings together researchers working on intrinsic alignments (IA),
+weak lensing, and related systematics. The format is highly interactive and self-organized, with a mix of talks,
+working sessions, and collaborative activities.
 
-## Website
+---
 
-➡️ [https://echo-ia.github.io/CAROLINA/](https://echo-ia.github.io/CAROLINA/)
+## Location & Format
+- **In-person:** Duke University, Durham, North Carolina  
+- **Virtual:** Remote participation will be supported via Zoom (link shared with registered participants in Slack).  
+
+---
+
+## Quick Links
+- **Website:** [echo-IA.github.io/CAROLINA](https://echo-ia.github.io/CAROLINA/)  
+- [Schedule](https://echo-ia.github.io/CAROLINA/schedule/)  
+-  [Logistics](https://echo-ia.github.io/CAROLINA/logistics/)  
+-  [Participants](https://echo-ia.github.io/CAROLINA/participants/)  
+-  [Registration](https://echo-ia.github.io/CAROLINA/registration/)  
+
+---
+
+## Contact
+For questions, please reach out to the organizers via Slack or email:  
+- **Niko Šarčević** · nikolina.sarcevic@duke.edu  
+
+---
+
+<p align="center"><i>We look forward to seeing you in Durham and online!</i></p>
