@@ -2,7 +2,7 @@
   <img src="docs/output_data/logo_output/carolina_logo_text.jpg" width="200">
 </p>
 
-# <span style="color:#003366">CAROLINA: echoIA Workshop</span>  
+**<span style="color:#003366">CAROLINA: echoIA Workshop</span>**
 **<span style="color:#cc0033">September 15–19, 2025 · Duke University (Durham, NC) + Online</span>**
 
 ---
@@ -22,11 +22,11 @@ working sessions, and collaborative activities.
 ---
 
 ## Quick Links
-- **Website:** [echo-IA.github.io/CAROLINA](https://echo-ia.github.io/CAROLINA/)  
+- [Website](https://echo-ia.github.io/CAROLINA/)  
 - [Schedule](https://echo-ia.github.io/CAROLINA/schedule/)  
--  [Logistics](https://echo-ia.github.io/CAROLINA/logistics/)  
--  [Participants](https://echo-ia.github.io/CAROLINA/participants/)  
--  [Registration](https://echo-ia.github.io/CAROLINA/registration/)  
+- [Logistics](https://echo-ia.github.io/CAROLINA/logistics/)  
+- [Participants](https://echo-ia.github.io/CAROLINA/participants/)  
+- [Registration](https://echo-ia.github.io/CAROLINA/registration/)  
 
 ---
 
