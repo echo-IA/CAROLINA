@@ -10,6 +10,7 @@ order: 2
 [Travel](#travel) <br>
 [Weather](#weather) <br>
 [Accommodation](#accommodation) <br>
+[Social Activities](#social-activities) <br>
 [Funding](#funding) <br>
 [Accessibility](#accessibility) <br>
 [Insurance](#insurance) <br>
