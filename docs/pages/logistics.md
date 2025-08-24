@@ -53,7 +53,7 @@ registration.
 Alternative work spaces: the Physics Building is located at 120 Science Dr, a short walk from the Center for Health Education. In addition, the Perkins and Bostock Libraries are nearby and unlocked during the day. We additionally encourage virtual participants to liberally connect over slack and virtual breakout rooms.
 
 <p align="center">
-  <img src="../assets/images/map_labelled.png" alt="CAROLINA Conference" width="600">
+  <img src="../assets/images/map_labelled.png" alt="CAROLINA Conference" width="800">
 </p>
 
 ---
