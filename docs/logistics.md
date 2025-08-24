@@ -103,10 +103,11 @@ A few highlights within walking or short driving distance include:
 - [Nasher Museum of Art](https://nasher.duke.edu) – contemporary and classical art exhibitions on Duke’s campus.
 - [Museum of Life and Science](https://www.lifeandscience.org) – interactive exhibits and outdoor areas suitable for all ages.
 - [9th Street](https://www.discover9thstreet.com) – a lively area with restaurants, cafés, and shops.
-- [Raleigh](https://www.visitraleigh.com) is also nearby, offering additional museums, historic buildings, and government landmarks for those who may wish to self-organize day trips.
-We will have at least one group dinner organized during the week. 
-For other activities, participants are encouraged to coordinate informally—whether that means visiting
-- local attractions, grabbing a meal, or exploring the city together after workshop hours.
+- [Raleigh](https://www.visitraleigh.com) is also nearby, offering additional museums, historic buildings, and government landmarks for those who may wish to self-organize day trips. 
+
+We will have at least one group dinner organized during the week.
+For other activities, participants are encouraged to coordinate informally—whether that means
+visiting local attractions, grabbing a meal, or exploring the city together after workshop hours.
 
 ---
 # Funding
