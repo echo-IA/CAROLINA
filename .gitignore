@@ -3,3 +3,5 @@ docs/.bundle
 docs/_site
 .ipynb_checkpoints/
 /docs/output_data/nametags/
+# IDE files
+.idea/
