@@ -19,18 +19,18 @@ order: 2
 ---
 
 # Connection
-Most communication during the workshop will happen through this slack space, which you can join via
-[this invitation](https://join.slack.com/t/carolina-vu97066/shared_invite/zt-3awy7k1c6-rCuP70LrdJ98lxJBLGw0Uw).
+Most workshop communication will take place in our dedicated Slack space.
+Participants will be added to Slack by the organizers.
+Remote participation will also be possible via Zoom, with connection details shared in Slack
+closer to the start of the workshop.
 
-The workshop will be held in person and online. Zoom connection info will be made available to participants using
-the echo-IA email list (in Google groups) and on the [ZOOM ROOM (TBA)]().
+If you would like to join the echo-IA GitHub organization,
+which will host repositories related to the workshop, please provide your GitHub username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).
 
-If you would like to be added to the echo-IA github organization, which will host echo-IA-related repositories,
-please enter your github username [here](https://forms.gle/i44GjtfSNJ7YUWjK6).
-
-While all scheduled talks will be streamed, not all work sessions will have a virtual option and some may be only
-virtual. As the workshop is intented to be highly interactive and self-organized, the in-person/online availability
-will depend on the organizers of individual sessions and the level of interest.
+All scheduled talks will be streamed, but not every work session will have a virtual option,
+and some may be online only. Since the workshop is intended to be highly interactive and self-organized, 
+the availability of in-person or online participation will depend on the organizers of individual sessions
+and the level of interest.
 
 ---
 # Wi-Fi
