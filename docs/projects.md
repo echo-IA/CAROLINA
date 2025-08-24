@@ -20,5 +20,5 @@ You can suggest a topic directly in the registration form or by clicking the but
 </div>
 
 All proposed sessions can be found [here](https://github.com/echo-IA/CAROLINA/issues).  
-Please comment on the proposals to indicate your interest or to suggest related ideas—this helps us
+Please comment on the proposals (assign yourself) to indicate your interest or to suggest related ideas—this helps us
 plan the schedule around community priorities.

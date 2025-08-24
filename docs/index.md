@@ -9,12 +9,13 @@ to be held at Duke University from **Monday, September 15 – Friday, September 
 
 The core meeting will focus on hands-on collaboration, with most of the week dedicated to project incubation, technical discussions, and cross-survey coordination. Activities on Friday will build on work completed throughout the week, including final presentations, planning follow-ups, and group tag-ups.
 
+---
 
 [Intrinsic Alignments](#intrinsic-alignments) <br>
 [About echo-IA](#about-echo-ia) <br>
 [Organizing Committee](#organizing-committee)
 
-
+---
 
 # Intrinsic Alignments
 
@@ -35,6 +36,7 @@ technical sessions, and short participant talks.
 Most of the schedule will be reserved for collaborative 
 work and discussion. Virtual participation will be available for all talks and select work sessions.
 
+---
 
 # About echo-IA
 
@@ -48,7 +50,7 @@ Previous echo-IA workshops include:
 - [2023 – hol-IA: a holistic approach to galaxy intrinsic alignments (at Leiden University)](https://www.lorentzcenter.nl/hol-ia-a-holistic-approach-to-galaxy-intrinsic-alignments.html)  
 - [2022 – Kickoff Workshop (online)](https://echo-ia.github.io/FebKickoff/)  
 
-
+---
 
 # Organizing Committee
 
