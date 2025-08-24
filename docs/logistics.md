@@ -91,6 +91,23 @@ Here are some recommended hotels in the area:
 **Note:** During hotel checkout, be sure to **ask for an itemized receipt** (with your name, dates, and total amount). This is often **required for reimbursement**, especially by university or DOE policies. Even if you booked online, some funders (like DESC or Duke) may request this specific checkout receipt as proof of stay.
 
 ---
+
+# Social Activities
+
+In addition to the workshop sessions, we encourage participants to explore Durham together.
+A few highlights within walking or short driving distance include:
+- [Sarah P. Duke Gardens](https://gardens.duke.edu) – a large public botanic garden on campus.
+- [Duke Lemur Center](https://lemur.duke.edu) – home to the world’s most diverse population of lemurs outside Madagascar.
+- [American Tobacco Campus](https://americantobacco.co) – revitalized historic tobacco warehouses with restaurants and outdoor spaces.
+- [Nasher Museum of Art](https://nasher.duke.edu) – contemporary and classical art exhibitions on Duke’s campus.
+- [Museum of Life and Science](https://www.lifeandscience.org) – interactive exhibits and outdoor areas suitable for all ages.
+- [9th Street](https://www.discover9thstreet.com) – a lively area with restaurants, cafés, and shops.
+- [Raleigh](https://www.visitraleigh.com) is also nearby, offering additional museums, historic buildings, and government landmarks for those who may wish to self-organize day trips.
+We will have at least one group dinner organized during the week. 
+For other activities, participants are encouraged to coordinate informally—whether that means visiting
+- local attractions, grabbing a meal, or exploring the city together after workshop hours.
+
+---
 # Funding
 
 Funding is available and the participants who asked for funding have been contacted. If you have any questions or concerns regarding funding, please contact Niko or Susan. 
@@ -113,6 +130,7 @@ The organizers cannot assume responsibility for individual coverage or expenses 
 illness, or medical care during the workshop.
 
 ---
+
 # Emergency Contacts
 
 * **On-site contact**: Nikolina Šarčević (nikolina.sarcevic@duke.edu)

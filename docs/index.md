@@ -11,7 +11,7 @@ The core meeting will focus on hands-on collaboration, with most of the week ded
 
 
 [Intrinsic Alignments](#intrinsic-alignments) <br>
-[About](#about-echo-ia) <br>
+[About echo-IA](#about-echo-ia) <br>
 [Organizing Committee](#organizing-committee)
 
 
@@ -31,9 +31,9 @@ IA is best constrained through **synergies across surveys**, particularly by com
 
 CAROLINA will bring together members of cosmological surveys and theory/simulation groups working on IA.
 The workshop will include overview talks (broad introductions and updates on recent advancements),
-technical sessions, and short participant talks. Most of the schedule will be reserved for collaborative 
+technical sessions, and short participant talks.
+Most of the schedule will be reserved for collaborative 
 work and discussion. Virtual participation will be available for all talks and select work sessions.
-
 
 
 # About echo-IA
