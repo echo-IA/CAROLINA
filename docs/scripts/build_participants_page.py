@@ -12,7 +12,7 @@ def main():
     # ---- paths ----
     filename = "participant_list_web.csv"
     filepath = os.path.join("docs", "input_data", filename)
-    outdir = "docs"
+    outdir = "docs/pages/"
     outfile = os.path.join(outdir, "participants.md")
     os.makedirs(outdir, exist_ok=True)
 
@@ -76,12 +76,12 @@ order: 4
 """.strip()
 
     stats_section = """
-    ---
+---
 
-    <h2 id="statistics">Statistics</h2>
-    <p align="center"><img src="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}" width="1000"></p><br>
-    <p align="center"><img src="{{ '/assets/images/rank_bar.jpg' | relative_url }}" width="1000"></p><br>
-    """.lstrip()
+<h2 id="statistics">Statistics</h2>
+<p align="center"><img src="../assets/images/collaborations_bar.jpg" width="1000"></p><br>
+<p align="center"><img src="../assets/images/rank_bar.jpg" width="1000"></p><br>
+""".lstrip()
 
     with open(outfile, "w", encoding="utf-8") as f:
         f.write(front_matter)
