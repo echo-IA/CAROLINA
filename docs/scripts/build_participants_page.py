@@ -77,19 +77,12 @@ order: 4
 """.strip()
 
     stats_section = """
-    ---
+---
 
-    <h2 id="statistics">Statistics</h2>
-    <p align="center">
-      <img src="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}" width="1000">
-    </p><br>
-    <p align="center">
-      <img src="{{ '/assets/images/rank_bar.jpg' | relative_url }}" width="1000">
-    </p><br>
-
-    <!-- quick debug link to confirm the file resolves -->
-    <p><a href="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}">Direct image link</a></p>
-    """.lstrip()
+<h2 id="statistics">Statistics</h2>
+<p align="center"><img src="docs/assets/images/collaborations_bar.jpg" width="1000"></p><br>
+<p align="center"><img src="docs/assets/images/rank_bar.jpg" width="1000"></p><br>
+""".lstrip()
 
     with open(outfile, "w", encoding="utf-8") as f:
         f.write(front_matter)
