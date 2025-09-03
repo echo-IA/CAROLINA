@@ -80,8 +80,8 @@ order: 4
 ---
 
 <h2 id="statistics">Statistics</h2>
-<p align="center"><img src="docs/assets/images/collaborations_bar.jpg" width="1000"></p><br>
-<p align="center"><img src="docs/assets/images/rank_bar.jpg" width="1000"></p><br>
+<p align="center"><img src="/assets/images/collaborations_bar.jpg" width="1000"></p><br>
+<p align="center"><img src="/assets/images/rank_bar.jpg" width="1000"></p><br>
 """.lstrip()
 
     with open(outfile, "w", encoding="utf-8") as f:
