@@ -12,7 +12,7 @@ order: 4
 ---
 
 <h2 id="participants">Workshop Participants</h2>
-    <table class="participants-table">
+<table class="participants-table">
 <thead>
   <tr><th>No.</th><th>Participant</th><th>Affiliation</th><th>Attendance</th></tr>
 </thead>
@@ -60,9 +60,6 @@ order: 4
 <tr class="att-online"><td>41</td><td>Marloes van Heukelum</td><td>Utrecht University</td><td>Online</td></tr>
 </tbody>
 </table>
-
-    <h3 id="attendance-stats">Attendance stats</h3>
-    <p><strong>Onsite:</strong> 28 &nbsp; | &nbsp; <strong>Online:</strong> 13 &nbsp; | &nbsp; <strong>Total:</strong> 41</p>
 ---
 
 <h2 id="statistics">Statistics</h2>
