@@ -63,6 +63,13 @@ order: 4
 ---
 
     <h2 id="statistics">Statistics</h2>
-    <p align="center"><img src="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}" width="1000"></p><br>
-    <p align="center"><img src="{{ '/assets/images/rank_bar.jpg' | relative_url }}" width="1000"></p><br>
+    <p align="center">
+      <img src="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}" width="1000">
+    </p><br>
+    <p align="center">
+      <img src="{{ '/assets/images/rank_bar.jpg' | relative_url }}" width="1000">
+    </p><br>
+
+    <!-- quick debug link to confirm the file resolves -->
+    <p><a href="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}">Direct image link</a></p>
     
