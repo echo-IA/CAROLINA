@@ -54,6 +54,13 @@ def main():
 {tbody}
 </table>'''.strip()
 
+    # ---- attendance counts (added) ----
+    att_series = data_sorted["Attendance"].astype(str).str.strip().str.lower()
+    n_onsite = (att_series == "onsite").sum()
+    n_online = (att_series == "online").sum()
+    n_total  = len(att_series)
+    n_unknown = n_total - n_onsite - n_online
+
     # ---- page bits (same structure you asked for) ----
     front_matter = """---
 layout: default
@@ -74,6 +81,19 @@ order: 4
     participants_section = f"""
 <h2 id="participants">Workshop Participants</h2>
 {table_html}
+
+<h3 id="attendance-stats">Attendance stats</h3>
+<table class="participants-table">
+  <thead>
+    <tr><th>Type</th><th>Count</th></tr>
+  </thead>
+  <tbody>
+    <tr class="att-onsite"><td>Onsite</td><td>{n_onsite}</td></tr>
+    <tr class="att-online"><td>Online</td><td>{n_online}</td></tr>
+    <tr class="att-unknown"><td>Unknown/Other</td><td>{n_unknown}</td></tr>
+    <tr><td><strong>Total</strong></td><td><strong>{n_total}</strong></td></tr>
+  </tbody>
+</table>
 """.strip()
 
     stats_section = """

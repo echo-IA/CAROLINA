@@ -60,6 +60,19 @@ order: 4
 <tr class="att-online"><td>41</td><td>Marloes van Heukelum</td><td>Utrecht University</td><td>Online</td></tr>
 </tbody>
 </table>
+
+<h3 id="attendance-stats">Attendance stats</h3>
+<table class="participants-table">
+  <thead>
+    <tr><th>Type</th><th>Count</th></tr>
+  </thead>
+  <tbody>
+    <tr class="att-onsite"><td>Onsite</td><td>28</td></tr>
+    <tr class="att-online"><td>Online</td><td>13</td></tr>
+    <tr class="att-unknown"><td>Unknown/Other</td><td>0</td></tr>
+    <tr><td><strong>Total</strong></td><td><strong>41</strong></td></tr>
+  </tbody>
+</table>
 ---
 
 <h2 id="statistics">Statistics</h2>
