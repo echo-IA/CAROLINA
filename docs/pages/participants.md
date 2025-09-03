@@ -62,6 +62,11 @@ order: 4
 </table>
 ---
 
-<h2 id="statistics">Statistics</h2>
-<p align="center"><img src="/assets/images/collaborations_bar.jpg" width="1000"></p><br>
-<p align="center"><img src="/assets/images/rank_bar.jpg" width="1000"></p><br>
+    <h2 id="statistics">Statistics</h2>
+    <p align="center">
+      <img src="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}" width="1000">
+    </p><br>
+    <p align="center">
+      <img src="{{ '/assets/images/rank_bar.jpg' | relative_url }}" width="1000">
+    </p><br>
+    
