@@ -58,6 +58,7 @@ def main():
     front_matter = """---
 layout: default
 title: Participants
+permalink: /participants/
 order: 4
 ---
 """
@@ -76,12 +77,12 @@ order: 4
 """.strip()
 
     stats_section = """
----
+    ---
 
-<h2 id="statistics">Statistics</h2>
-<p align="center"><img src="../assets/images/collaborations_bar.jpg" width="1000"></p><br>
-<p align="center"><img src="../assets/images/rank_bar.jpg" width="1000"></p><br>
-""".lstrip()
+    <h2 id="statistics">Statistics</h2>
+    <p align="center"><img src="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}" width="1000"></p><br>
+    <p align="center"><img src="{{ '/assets/images/rank_bar.jpg' | relative_url }}" width="1000"></p><br>
+    """.lstrip()
 
     with open(outfile, "w", encoding="utf-8") as f:
         f.write(front_matter)
