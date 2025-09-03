@@ -16,16 +16,11 @@ All times are in EDT and the in-person location is the Center for Health Educati
 
 ---
 
-[Monday](#monday)
-<br>
-[Tuesday](#tuesday)
-<br>
-[Wednesday](#wednesday)
-<br>
-[Thursday](#thursday)
-<br>
-[Friday](#friday)
-<br>
+[Monday](#monday) <br>
+[Tuesday](#tuesday) <br>
+[Wednesday](#wednesday) <br>
+[Thursday](#thursday) <br>
+[Friday](#friday) <br>
 
 ---
 

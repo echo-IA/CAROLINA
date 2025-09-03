@@ -2,15 +2,16 @@
   <img src="docs/output_data/logo_output/carolina_logo_text.jpg" width="200">
 </p>
 
-**<span style="color:#003366">CAROLINA: echoIA Workshop</span>**
+**<span style="color:#003366">CAROLINA: echo-IA Workshop</span>**
 **<span style="color:#cc0033">September 15–19, 2025 · Duke University (Durham, NC) + Online</span>**
 
 ---
 
 
 ## Overview
-The CAROLINA: echoIA Workshop brings together researchers working on intrinsic alignments (IA),
-weak lensing, and related systematics. The format is highly interactive and self-organized, with a mix of talks,
+The CAROLINA: echo-IA Workshop brings together researchers working on intrinsic alignments (IA),
+weak lensing, and related systematics.
+The format is highly interactive and self-organized, with a mix of talks,
 working sessions, and collaborative activities.
 
 ---
