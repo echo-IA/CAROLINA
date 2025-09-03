@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Participants
+permalink: /participants/
 order: 4
 ---
 
@@ -34,30 +35,34 @@ order: 4
 <tr class="att-onsite"><td>16</td><td>Xu Kun</td><td>University of Pennsylvania</td><td>Onsite</td></tr>
 <tr class="att-online"><td>17</td><td>Elisa Legnani</td><td>IFAE Barcelona</td><td>Online</td></tr>
 <tr class="att-onsite"><td>18</td><td>Dani Leonard</td><td>Newcastle University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>19</td><td>Jamie McCullough</td><td>Princeton University</td><td>Onsite</td></tr>
-<tr class="att-online"><td>20</td><td>Dennis Neumann</td><td>Leiden Observatory</td><td>Online</td></tr>
-<tr class="att-online"><td>21</td><td>Rylee Palos</td><td>University of Texas at Dallas</td><td>Online</td></tr>
-<tr class="att-onsite"><td>22</td><td>Sneh Pandya</td><td>Northeastern University</td><td>Onsite</td></tr>
-<tr class="att-online"><td>23</td><td>Romain Paviot</td><td>CNES CEA Saclay</td><td>Online</td></tr>
-<tr class="att-onsite"><td>24</td><td>Bekah Polen</td><td>Duke University</td><td>Onsite</td></tr>
-<tr class="att-online"><td>25</td><td>Susan Pyne</td><td>University College London</td><td>Online</td></tr>
-<tr class="att-onsite"><td>26</td><td>Paul Rogozenski</td><td>Carnegie Mellon University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>27</td><td>Niko Sarcevic</td><td>Duke University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>28</td><td>Jared Siegel</td><td>Princeton University</td><td>Onsite</td></tr>
-<tr class="att-online"><td>29</td><td>Leonor Simoes</td><td>University College London</td><td>Online</td></tr>
-<tr class="att-onsite"><td>30</td><td>Raul Teixeira</td><td>Duke University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>31</td><td>Michael Troxel</td><td>Duke University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>32</td><td>Nick Van Alfen</td><td>Northeastern University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>33</td><td>Leo Medina Varela</td><td>Carnegie Mellon University</td><td>Onsite</td></tr>
-<tr class="att-online"><td>34</td><td>Casper Vedder</td><td>Leiden University</td><td>Online</td></tr>
-<tr class="att-onsite"><td>35</td><td>Jiachuan Xu</td><td>Northeastern University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>36</td><td>Zepei Yang</td><td>Northeastern University</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>37</td><td>Boyan Yin</td><td>Duke University</td><td>Onsite</td></tr>
-<tr class="att-online"><td>38</td><td>Marloes van Heukelum</td><td>Utrecht University</td><td>Online</td></tr>
+<tr class="att-onsite"><td>19</td><td>Sid Mau</td><td>Duke University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>20</td><td>Jamie McCullough</td><td>Princeton University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>21</td><td>Hironao Miyatake</td><td>Nagoya University</td><td>Online</td></tr>
+<tr class="att-online"><td>22</td><td>Dennis Neumann</td><td>Leiden Observatory</td><td>Online</td></tr>
+<tr class="att-online"><td>23</td><td>Rylee Palos</td><td>University of Texas at Dallas</td><td>Online</td></tr>
+<tr class="att-onsite"><td>24</td><td>Sneh Pandya</td><td>Northeastern University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>25</td><td>Romain Paviot</td><td>CNES CEA Saclay</td><td>Online</td></tr>
+<tr class="att-online"><td>26</td><td>Fabian Hervas Peters</td><td>CEA Paris-Saclay</td><td>Online</td></tr>
+<tr class="att-onsite"><td>27</td><td>Bekah Polen</td><td>Duke University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>28</td><td>Susan Pyne</td><td>University College London</td><td>Online</td></tr>
+<tr class="att-onsite"><td>29</td><td>Paul Rogozenski</td><td>Carnegie Mellon University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>30</td><td>Niko Sarcevic</td><td>Duke University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>31</td><td>Jared Siegel</td><td>Princeton University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>32</td><td>Leonor Simoes</td><td>University College London</td><td>Online</td></tr>
+<tr class="att-onsite"><td>33</td><td>Raul Teixeira</td><td>Duke University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>34</td><td>Michael Troxel</td><td>Duke University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>35</td><td>Nick Van Alfen</td><td>Northeastern University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>36</td><td>Leo Medina Varela</td><td>Carnegie Mellon University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>37</td><td>Casper Vedder</td><td>Leiden University</td><td>Online</td></tr>
+<tr class="att-onsite"><td>38</td><td>Jiachuan Xu</td><td>Northeastern University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>39</td><td>Zepei Yang</td><td>Northeastern University</td><td>Onsite</td></tr>
+<tr class="att-onsite"><td>40</td><td>Boyan Yin</td><td>Duke University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>41</td><td>Marloes van Heukelum</td><td>Utrecht University</td><td>Online</td></tr>
 </tbody>
 </table>
 ---
 
-<h2 id="statistics">Statistics</h2>
-<p align="center"><img src="../assets/images/collaborations_bar.jpg" width="1000"></p><br>
-<p align="center"><img src="../assets/images/rank_bar.jpg" width="1000"></p><br>
+    <h2 id="statistics">Statistics</h2>
+    <p align="center"><img src="{{ '/assets/images/collaborations_bar.jpg' | relative_url }}" width="1000"></p><br>
+    <p align="center"><img src="{{ '/assets/images/rank_bar.jpg' | relative_url }}" width="1000"></p><br>
+    
