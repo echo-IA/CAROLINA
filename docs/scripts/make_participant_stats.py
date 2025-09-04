@@ -67,17 +67,40 @@ def main():
     print(f"Participant stats saved in: {outdir}")
 
     # ===== Rank bar chart =====
-    rank_counts = data['Rank'].fillna("Unknown").value_counts()
-    rank_counts = rank_counts.drop("Staff", errors="ignore")
-    rank_counts = rank_counts.sort_values(ascending=False)
+    rank_series = data['Rank'].fillna("Unknown").astype(str).str.strip()
+
+    # Normalize graduate labels (catch variants like "Graduate Student", "PhD student")
+    def normalize_rank(r):
+        r_low = r.lower()
+        if "faculty" in r_low:
+            return "Faculty"
+        elif "postdoc" in r_low:
+            return "Postdoc"
+        elif "grad" in r_low or "phd" in r_low:
+            return "Graduate"
+        else:
+            return "Other"
+
+    rank_series = rank_series.apply(normalize_rank)
+
+    # Count and sort
+    rank_counts = rank_series.value_counts().drop("Staff", errors="ignore").sort_values(ascending=False)
 
     fig, ax = plt.subplots(figsize=(14, 5))
-    colors = [piedmont, persimmon, ironweed]
-    bars = ax.bar(rank_counts.index, rank_counts.values, color=colors)
+    # Map colors per category
+    rank_colors = {
+        "Faculty": piedmont,
+        "Postdoc": persimmon,
+        "Graduate": ironweed,
+        "Other": "#FDDA0D"
+    }
+    bar_colors = [rank_colors.get(rank, "yellow") for rank in rank_counts.index]
 
-    # Labels on bars (match each bar's color)
-    for bar, val, c in zip(bars, rank_counts.values, colors):
-        ax.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.5,
+    bars = ax.bar(rank_counts.index, rank_counts.values, color=bar_colors)
+
+    # Labels on bars (match each bar’s color)
+    for bar, val, c in zip(bars, rank_counts.values, bar_colors):
+        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.5,
                 f"{val}", ha="center", va="bottom", fontsize=16, color=c)
 
     ax.set_xlabel("Academic Rank", fontsize=20, color=color)
