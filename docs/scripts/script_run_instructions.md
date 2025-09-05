@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Quick build guide
 
 1) **Update data**
