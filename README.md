@@ -24,10 +24,10 @@ working sessions, and collaborative activities.
 
 ## Quick Links
 - [Website](https://echo-ia.github.io/CAROLINA/)  
-- [Schedule](https://echo-ia.github.io/CAROLINA/schedule/)  
-- [Logistics](https://echo-ia.github.io/CAROLINA/logistics/)  
+- [Schedule](https://echo-ia.github.io/CAROLINA/pages/schedule.html)  
+- [Logistics](https://echo-ia.github.io/CAROLINA/pages/logistics.html)  
 - [Participants](https://echo-ia.github.io/CAROLINA/participants/)  
-- [Registration](https://echo-ia.github.io/CAROLINA/registration/)  
+- [Registration](https://echo-ia.github.io/CAROLINA/pages/registration.html)  
 
 ---
 

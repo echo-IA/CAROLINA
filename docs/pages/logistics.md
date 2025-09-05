@@ -50,7 +50,7 @@ The main workshop sessions will take place in this building on **the fourth floo
 Primarily, TSCHE 4067 Classroom #4 and TSCHE 4030 Conference Room #4A. Signs inside will direct you to conference
 registration. 
 
-Alternative work spaces: the Physics Building is located at 120 Science Dr, a short walk from the Center for Health Education. In addition, the Perkins and Bostock Libraries are nearby and unlocked during the day. We additionally encourage virtual participants to liberally connect over slack and virtual breakout rooms.
+Alternative work spaces: the Physics Building is located at 120 Science Dr, a short walk from the Center for Health Education. In addition, the Perkins and Bostock Libraries are nearby and unlocked during the day. We additionally encourage virtual participants to liberally connect over Slack workspace and virtual breakout rooms.
 
 <p align="center">
   <img src="../assets/images/map_labelled.png" alt="CAROLINA Conference" width="800">
