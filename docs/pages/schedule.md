@@ -61,7 +61,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–12:30</td><td>Various</td><td>Hack Day: Work &amp; Breakouts</td><td>All</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Various</td><td>Hack / Development Work</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Tag-up</td><td>All</td></tr><tr><td>18:00–20:00</td><td>X Restaurant</td><td>Group dinner</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Location Erwin Road</td><td>Coffee, Breakfast &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–12:20</td><td>Location Erwin Road</td><td>Hack Day: Work &amp; Breakouts</td><td>All</td></tr><tr><td>12:30–13:30</td><td>Erwin Road Restaurants</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Location Erwin Road</td><td>Hack / Development Work</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Location Erwin Road</td><td>Tag-up</td><td>All</td></tr><tr><td>18:00–20:00</td><td>X Restaurant</td><td>Group dinner</td><td>All</td></tr><tr><td>12:20–12:30</td><td>TBA</td><td>Group Photo!</td><td>All</td></tr>
   </tbody>
 </table>
 
