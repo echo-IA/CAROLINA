@@ -37,7 +37,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1 or Lounge</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:00</td><td>Room 1</td><td>Welcome &amp; Overview</td><td>Sarcevic &amp; Troxel</td></tr><tr><td>10:00–11:00</td><td>Room 1</td><td>Brief Introductions</td><td>All</td></tr><tr><td>11:00–11:30</td><td>Room 1</td><td>Observations Overview</td><td>McCullough, Navarro &amp; Siegel</td></tr><tr><td>11:30–12:30</td><td>Room 1</td><td>Flash Talks: Observational Inputs</td><td>--</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–14:30</td><td>Room 1</td><td>Project Pitch Block I</td><td>TBA</td></tr><tr><td>14:30–17:00</td><td>Room 2 / Lounge / Terrace</td><td>Discussion + Team Formation</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Room 1 or Lounge</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:00</td><td>Room 1</td><td>Welcome &amp; Overview</td><td>Sarcevic &amp; Troxel</td></tr><tr><td>10:00–11:00</td><td>Room 1</td><td>Brief Introductions</td><td>All</td></tr><tr><td>11:00–11:30</td><td>Room 1</td><td>Observations Overview</td><td>McCullough, Navarro &amp; Siegel</td></tr><tr><td>11:30–12:30</td><td>Room 1</td><td>Flash Talks: Group Green</td><td>--</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–14:30</td><td>Room 1</td><td>Project Pitch Block I</td><td>TBA</td></tr><tr><td>14:30–17:00</td><td>Room 2 / Lounge / Terrace</td><td>Discussion + Team Formation</td><td>All</td></tr>
   </tbody>
 </table>
 
@@ -49,7 +49,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Modeling Overview</td><td>Rogozenski &amp; Vedder</td></tr><tr><td>10:30–11:30</td><td>Room 1</td><td>Flash Talks: Modeling Tools</td><td>TBA</td></tr><tr><td>11:30–12:30</td><td>Room 1</td><td>Breakout Planning</td><td>TBA</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Rooms 1/2 + Terrace</td><td>Project Work &amp; Breakouts</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Daily Tag-up</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Modeling Overview</td><td>Rogozenski &amp; Vedder</td></tr><tr><td>10:30–12:30</td><td>Room 1</td><td>Project Work &amp; Breakouts</td><td>TBA</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–14:30</td><td>Rooms 1/2 + Terrace</td><td>Flash Talks: Group Blue</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Daily Tag-up</td><td>All</td></tr><tr><td>14:30–16:30</td><td>Rooms 1/2 + Terrace</td><td>Project Work &amp; Breakouts</td><td>All</td></tr>
   </tbody>
 </table>
 
@@ -61,7 +61,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Simulations Overview</td><td>Harnois-Deraps &amp; van Alfen</td></tr><tr><td>10:30–11:30</td><td>Room 1</td><td>Flash Talks: Sim Tools</td><td>TBA</td></tr><tr><td>11:30–12:30</td><td>Room 1</td><td>Breakout Plan Update</td><td>TBA</td></tr><tr><td>12:30-12:35</td><td>Room 1</td><td>Group Photo!</td><td>All</td></tr><tr><td>12:35–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Various</td><td>Work Time &amp; Hack Sessions</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Tag-up</td><td>All</td></tr><tr><td>18:00–20:00</td><td>X Restaurant</td><td>Group dinner</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–12:30</td><td>Various</td><td>Hack Day: Work &amp; Breakouts</td><td>All</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Various</td><td>Hack / Development Work</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Tag-up</td><td>All</td></tr><tr><td>18:00–20:00</td><td>X Restaurant</td><td>Group dinner</td><td>All</td></tr>
   </tbody>
 </table>
 
@@ -73,7 +73,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–12:30</td><td>Various</td><td>Hack Day: Work &amp; Breakouts</td><td>All</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Various</td><td>Hack / Development Work</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Tag-up</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Simulations Overview</td><td>Harnois-Deraps &amp; van Alfen</td></tr><tr><td>10:30–11:30</td><td>Room 1</td><td>Flash Talks: Orange</td><td>TBA</td></tr><tr><td>11:30–12:30</td><td>Room 1</td><td>Breakout Plan Update</td><td>TBA</td></tr><tr><td>12:30-12:35</td><td>Room 1</td><td>Group Photo!</td><td>All</td></tr><tr><td>12:35–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Various</td><td>Work Time &amp; Hack Sessions</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Tag-up</td><td>All</td></tr>
   </tbody>
 </table>
 
