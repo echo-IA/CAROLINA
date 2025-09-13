@@ -49,7 +49,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Modeling Overview</td><td>Rogozenski &amp; Vedder</td></tr><tr><td>10:30–12:30</td><td>Room 1</td><td>Project Work &amp; Breakouts</td><td>TBA</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–14:30</td><td>Rooms 1/2 + Terrace</td><td>Flash Talks: Group Blue</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Daily Tag-up</td><td>All</td></tr><tr><td>14:30–16:30</td><td>Rooms 1/2 + Terrace</td><td>Project Work &amp; Breakouts</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Room 1</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:30</td><td>Room 1</td><td>Modeling Overview</td><td>Rogozenski &amp; Vedder</td></tr><tr><td>10:30–12:30</td><td>Room 1</td><td>Project Work &amp; Breakouts</td><td>TBA</td></tr><tr><td>12:30–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–14:30</td><td>Rooms 1/2 + Terrace</td><td>Flash Talks: Group Blue</td><td>All</td></tr><tr><td>14:30–16:30</td><td>Rooms 1/2 + Terrace</td><td>Project Work &amp; Breakouts</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Room 1</td><td>Daily Tag-up</td><td>All</td></tr>
   </tbody>
 </table>
 
@@ -61,7 +61,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Location Erwin Road</td><td>Coffee, Breakfast &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–12:20</td><td>Location Erwin Road</td><td>Hack Day: Work &amp; Breakouts</td><td>All</td></tr><tr><td>12:30–13:30</td><td>Erwin Road Restaurants</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Location Erwin Road</td><td>Hack / Development Work</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Location Erwin Road</td><td>Tag-up</td><td>All</td></tr><tr><td>18:00–20:00</td><td>X Restaurant</td><td>Group dinner</td><td>All</td></tr><tr><td>12:20–12:30</td><td>TBA</td><td>Group Photo!</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Location Erwin Road</td><td>Coffee, Breakfast &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–12:20</td><td>Location Erwin Road</td><td>Hack Day: Work &amp; Breakouts</td><td>All</td></tr><tr><td>12:20–12:30</td><td>TBA</td><td>Group Photo!</td><td>All</td></tr><tr><td>12:30–13:30</td><td>Erwin Road Restaurants</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–16:30</td><td>Location Erwin Road</td><td>Hack / Development Work</td><td>All</td></tr><tr><td>16:30–17:00</td><td>Location Erwin Road</td><td>Tag-up</td><td>All</td></tr><tr><td>18:00–20:00</td><td>X Restaurant</td><td>Group dinner</td><td>All</td></tr>
   </tbody>
 </table>
 

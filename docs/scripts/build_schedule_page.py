@@ -2,7 +2,35 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
-import math, re, html, os
+import datetime, html, math, os, re
+
+
+DAY_ORDER = {"monday":0,"tuesday":1,"wednesday":2,"thursday":3,"friday":4}
+
+def parse_time_to_minutes(s: str) -> int:
+    """Return minutes since midnight from a 'Time (EDT)' cell.
+    Handles '9', '9:30', '09:30', '9–10', '9:30-10:15', '9 am', '1 pm', etc."""
+    if not s: return 10**9  # push empties to bottom
+    s = str(s).strip().lower()
+
+    # grab the *first* time in the cell (start time)
+    # matches H, H:MM, with optional am/pm; allows spaces
+    m = re.search(r'(\d{1,2})(?::(\d{2}))?\s*([ap]\.?m\.?)?', s)
+    if not m:
+        return 10**9
+
+    h = int(m.group(1))
+    mm = int(m.group(2) or 0)
+    ampm = m.group(3)
+
+    if ampm:
+        ampm = ampm.replace('.', '')
+        if ampm == 'pm' and h < 12: h += 12
+        if ampm == 'am' and h == 12: h = 0
+    # else: assume 24h-style if no am/pm
+
+    return h*60 + mm
+
 
 def main():
     # ---- Robust CSV read ----
@@ -58,15 +86,24 @@ def main():
         'friday':    'Hack Day',
     }
 
+    # ---- canonicalize day + time and sort globally ----
+    keys_in_csv = df['Day'].apply(day_key)
+    df['__day_key'] = keys_in_csv
+    df['__day_ord'] = df['__day_key'].map(DAY_ORDER).fillna(9999).astype(int)
+    df['__time_ord'] = df['Time (EDT)'].apply(parse_time_to_minutes)
+
+    df = df.sort_values(['__day_ord', '__time_ord', 'Location', 'Event'], na_position='last')
+
+
     # derive present days
     keys_in_csv = df['Day'].apply(day_key)
-    present = [k for k in order_keys if (keys_in_csv == k).any()]
+    present = [k for k in ['monday','tuesday','wednesday','thursday','friday'] if (df['__day_key'] == k).any()]
 
     table_headers = ['Time (EDT)', 'Location', 'Event', 'Speaker']
     tables_html = []
 
     for k in present:
-        day_df = df[keys_in_csv == k]
+        day_df = df[df['__day_key'] == k]
         if day_df.empty:
             continue
 
