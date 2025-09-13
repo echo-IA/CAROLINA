@@ -1,14 +1,28 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import html, os, textwrap
+import html, os, textwrap, subprocess, sys
 import pandas as pd
-from data_utils import sort_participant_data  # uses your normalization/exclusion
+from pathlib import Path
+from data_utils import sort_participant_data
+
 
 def esc(v):
     return "" if pd.isna(v) else html.escape(str(v), quote=True)
 
 def main():
+
+    # --- first I build the stats plots ---
+    here = Path(__file__).resolve().parent
+    stats_script = here / "make_participant_stats.py"
+
+    # --- run the stats script first ---
+    try:
+        subprocess.run([sys.executable, str(stats_script)], check=True)
+        print("Stats images regenerated.")
+    except Exception as e:
+        print(f"Warning: could not build participant stats: {e}")
+
     # ---- paths ----
     filename = "participant_list_web.csv"
     filepath = os.path.join("docs", "input_data", filename)
