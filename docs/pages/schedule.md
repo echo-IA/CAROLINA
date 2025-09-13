@@ -53,8 +53,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="wednesday" class="schedule-day day-sims">Wednesday — <span class="schedule-focus">Focus: Simulations</span></h2>
-<table class="schedule-table day-sims">
+<h2 id="wednesday" class="schedule-day day-hack">Wednesday — <span class="schedule-focus">Focus: Hack Day</span></h2>
+<table class="schedule-table day-hack">
   <thead>
     <tr>
       <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>
@@ -65,8 +65,8 @@ All times are in EDT and the in-person location is the Center for Health Educati
   </tbody>
 </table>
 
-<h2 id="thursday" class="schedule-day day-hack">Thursday — <span class="schedule-focus">Focus: Hack Day</span></h2>
-<table class="schedule-table day-hack">
+<h2 id="thursday" class="schedule-day day-sims">Thursday — <span class="schedule-focus">Focus: Simulations</span></h2>
+<table class="schedule-table day-sims">
   <thead>
     <tr>
       <th>Time (EDT)</th><th>Location</th><th>Event</th><th>Speaker</th>

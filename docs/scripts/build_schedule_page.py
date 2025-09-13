@@ -46,15 +46,15 @@ def main():
     day_class    = {
         'monday':    'day-observations',
         'tuesday':   'day-theory',
-        'wednesday': 'day-sims',
-        'thursday':  'day-hack',
+        'wednesday': 'day-hack',
+        'thursday':  'day-sims',
         'friday':    'day-hack',
     }
     day_focus = {
         'monday':    'Observations',
         'tuesday':   'Modeling',
-        'wednesday': 'Simulations',
-        'thursday':  'Hack Day',
+        'wednesday': 'Hack Day',
+        'thursday':  'Simulations',
         'friday':    'Hack Day',
     }
 
