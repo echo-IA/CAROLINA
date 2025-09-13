@@ -1,7 +1,7 @@
 Surname,Name,Rank,Affiliation,Collaboration,Attendance
 Herle,Aniruddh,Graduate (PhD),Leiden Observatory,Euclid,In person
-Kun,Xu,Postdoc,University of Pennsylvania,"Roman, DESI",In person
-Pandya,Sneh,Graduate (PhD),Northeastern,LSST DESC,In person
+Kun,Xu,Postdoc,University of Pennsylvania,"Roman, DESI",Online
+Pandya,Sneh,Graduate (PhD),Northeastern,LSST DESC,Online
 Siegel,Jared,Graduate (PhD),Princeton University,"LSST DESC, DESI",In person
 Van Alfen,Nick,Graduate (PhD),Northeastern University,LSST DESC,In person
 Blazek,Jonathan,Faculty,Northeastern University,"LSST DESC, Roman, DES",In person
@@ -26,7 +26,7 @@ Rogozenski,Paul,Postdoc,Carnegie Mellon University,"LSST DESC, DES",In person
 Sarcevic,Niko,Postdoc,Duke University,"LSST DESC, Roman, DES",In person
 Xu,Jiachuan,Postdoc,Northeastern University,"LSST DESC, Roman, DESI",In person
 Palos,Rylee,Graduate (PhD),University of Texas at Dallas,"LSST DESC, DESI",Online
-Leonard,Dani,Faculty,Newcastle University,"LSST DESC, Euclid",In person
+Leonard,Dani,Faculty,Newcastle University,"LSST DESC, Euclid",Online
 Legnani,Elisa,Graduate (PhD),IFAE Barcelona,"LSST DESC, DES",Online
 van Heukelum,Marloes,Graduate (PhD),Utrecht University,Euclid,Online
 Pyne,Susan,Postdoc,University College London,Euclid,Online

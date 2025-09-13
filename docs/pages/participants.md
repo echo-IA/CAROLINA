@@ -35,15 +35,15 @@ order: 4
 <tr class="att-onsite"><td>16</td><td>Benjamin Joachimi</td><td>University College London</td><td>Onsite</td></tr>
 <tr class="att-onsite"><td>17</td><td>HyeongHan Kim</td><td>Duke University</td><td>Onsite</td></tr>
 <tr class="att-onsite"><td>18</td><td>Manvik Kongwad</td><td>North Carolina School of Science and Maths</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>19</td><td>Xu Kun</td><td>University of Pennsylvania</td><td>Onsite</td></tr>
+<tr class="att-online"><td>19</td><td>Xu Kun</td><td>University of Pennsylvania</td><td>Online</td></tr>
 <tr class="att-online"><td>20</td><td>Elisa Legnani</td><td>IFAE Barcelona</td><td>Online</td></tr>
-<tr class="att-onsite"><td>21</td><td>Dani Leonard</td><td>Newcastle University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>21</td><td>Dani Leonard</td><td>Newcastle University</td><td>Online</td></tr>
 <tr class="att-onsite"><td>22</td><td>Sid Mau</td><td>Duke University</td><td>Onsite</td></tr>
 <tr class="att-onsite"><td>23</td><td>Jamie McCullough</td><td>Princeton University</td><td>Onsite</td></tr>
 <tr class="att-online"><td>24</td><td>Hironao Miyatake</td><td>Nagoya University</td><td>Online</td></tr>
 <tr class="att-online"><td>25</td><td>Dennis Neumann</td><td>Leiden Observatory</td><td>Online</td></tr>
 <tr class="att-online"><td>26</td><td>Rylee Palos</td><td>University of Texas at Dallas</td><td>Online</td></tr>
-<tr class="att-onsite"><td>27</td><td>Sneh Pandya</td><td>Northeastern University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>27</td><td>Sneh Pandya</td><td>Northeastern University</td><td>Online</td></tr>
 <tr class="att-online"><td>28</td><td>Romain Paviot</td><td>CNES CEA Saclay</td><td>Online</td></tr>
 <tr class="att-online"><td>29</td><td>Fabian Hervas Peters</td><td>CEA Paris-Saclay</td><td>Online</td></tr>
 <tr class="att-onsite"><td>30</td><td>Bekah Polen</td><td>Duke University</td><td>Onsite</td></tr>
@@ -70,8 +70,8 @@ order: 4
     <tr><th>Type</th><th>Count</th></tr>
   </thead>
   <tbody>
-    <tr class="att-onsite"><td>Onsite</td><td>29</td></tr>
-    <tr class="att-online"><td>Online</td><td>15</td></tr>
+    <tr class="att-onsite"><td>Onsite</td><td>26</td></tr>
+    <tr class="att-online"><td>Online</td><td>18</td></tr>
     <tr class="att-unknown"><td>Unknown/Other</td><td>0</td></tr>
     <tr><td><strong>Total</strong></td><td><strong>44</strong></td></tr>
   </tbody>
