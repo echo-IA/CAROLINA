@@ -72,16 +72,16 @@ def main():
     order_keys   = ['monday','tuesday','wednesday','thursday','friday']
     display_name = {k: k.capitalize() for k in order_keys}
     day_class    = {
-        'monday':    'day-observations',
+        'monday':    'day-hack',
         'tuesday':   'day-theory',
-        'wednesday': 'day-hack',
+        'wednesday': 'day-observations',
         'thursday':  'day-sims',
         'friday':    'day-hack',
     }
     day_focus = {
-        'monday':    'Observations',
+        'monday':    'Hack Day',
         'tuesday':   'Modeling',
-        'wednesday': 'Hack Day',
+        'wednesday': 'Observations',
         'thursday':  'Simulations',
         'friday':    'Hack Day',
     }
