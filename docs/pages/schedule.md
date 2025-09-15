@@ -37,7 +37,7 @@ All times are in EDT and the in-person location is the Center for Health Educati
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:00–09:30</td><td>Room 1 or Lounge</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:00</td><td>Room 1</td><td>Welcome &amp; Overview</td><td>Sarcevic &amp; Troxel</td></tr><tr><td>10:00–10:30</td><td>Room 1</td><td>Brief Introductions</td><td>All</td></tr><tr><td>10:30–11:30</td><td>Room 1</td><td>Observations Overview</td><td>McCullough, Navarro &amp; Siegel</td></tr><tr><td>11:30–12:00</td><td>Room 1</td><td>Flash Talks: Group Green</td><td>--</td></tr><tr><td>12:00–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–14:30</td><td>Room 1</td><td>Project Pitch</td><td>TBA</td></tr><tr><td>14:30–17:00</td><td>Room 2 / Lounge / Terrace</td><td>Discussion + Team Formation</td><td>All</td></tr>
+    <tr><td>09:00–09:30</td><td>Room 1 or Lounge</td><td>Coffee &amp; Arrival</td><td>N/A</td></tr><tr><td>09:30–10:00</td><td>Room 1</td><td>Welcome &amp; Overview</td><td>Sarcevic &amp; Troxel</td></tr><tr><td>10:00–10:30</td><td>Room 1</td><td>Brief Introductions</td><td>All</td></tr><tr><td>10:30–11:30</td><td>Room 1</td><td>Project Pitch</td><td>McCullough, Navarro &amp; Siegel</td></tr><tr><td>11:30–12:00</td><td>Room 1</td><td>Flash Talks: Group Green</td><td>--</td></tr><tr><td>12:00–13:30</td><td>Hallway/Duke Campus</td><td>Lunch</td><td>N/A</td></tr><tr><td>13:30–14:30</td><td>Room 1</td><td>Project Pitch</td><td>TBA</td></tr><tr><td>14:30–17:00</td><td>Room 2 / Lounge / Terrace</td><td>Discussion + Team Formation</td><td>All</td></tr>
   </tbody>
 </table>
 
