@@ -17,7 +17,7 @@ order: 4
   <tr><th>No.</th><th>Participant</th><th>Affiliation</th><th>Attendance</th></tr>
 </thead>
 <tbody>
-<tr class="att-onsite"><td>1</td><td>Alex Amon</td><td>Princeton University</td><td>Onsite</td></tr>
+<tr class="att-online"><td>1</td><td>Alex Amon</td><td>Princeton University</td><td>Online</td></tr>
 <tr class="att-onsite"><td>2</td><td>Avijit Bera</td><td>The University of Texas at Dallas</td><td>Onsite</td></tr>
 <tr class="att-onsite"><td>3</td><td>Jonathan Blazek</td><td>Northeastern University</td><td>Onsite</td></tr>
 <tr class="att-onsite"><td>4</td><td>Kaili Cao</td><td>The Ohio State University</td><td>Onsite</td></tr>
@@ -31,7 +31,7 @@ order: 4
 <tr class="att-online"><td>12</td><td>Nisha Grewal</td><td>Newcastle University</td><td>Online</td></tr>
 <tr class="att-online"><td>13</td><td>Joachim Harnois-Deraps</td><td>Newcastle University</td><td>Online</td></tr>
 <tr class="att-onsite"><td>14</td><td>Aniruddh Herle</td><td>Leiden Observatory</td><td>Onsite</td></tr>
-<tr class="att-onsite"><td>15</td><td>Mustapha Ishak</td><td>University of Texas at Dallas</td><td>Onsite</td></tr>
+<tr class="att-online"><td>15</td><td>Mustapha Ishak</td><td>University of Texas at Dallas</td><td>Online</td></tr>
 <tr class="att-onsite"><td>16</td><td>Benjamin Joachimi</td><td>University College London</td><td>Onsite</td></tr>
 <tr class="att-onsite"><td>17</td><td>HyeongHan Kim</td><td>Duke University</td><td>Onsite</td></tr>
 <tr class="att-onsite"><td>18</td><td>Manvik Kongwad</td><td>North Carolina School of Science and Maths</td><td>Onsite</td></tr>
@@ -70,8 +70,8 @@ order: 4
     <tr><th>Type</th><th>Count</th></tr>
   </thead>
   <tbody>
-    <tr class="att-onsite"><td>Onsite</td><td>26</td></tr>
-    <tr class="att-online"><td>Online</td><td>18</td></tr>
+    <tr class="att-onsite"><td>Onsite</td><td>24</td></tr>
+    <tr class="att-online"><td>Online</td><td>20</td></tr>
     <tr class="att-unknown"><td>Unknown/Other</td><td>0</td></tr>
     <tr><td><strong>Total</strong></td><td><strong>44</strong></td></tr>
   </tbody>
